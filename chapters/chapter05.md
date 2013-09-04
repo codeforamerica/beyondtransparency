@@ -1,9 +1,11 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
----
-
+author: Jonathan Feldman
+title: "Asheville’s Open Data Journey: Pragmatics, Policy, and Participation"
+chapter: 5
+twitter: _jfeldman
+permalink: /5-ashevilles-open-data-journey/
+--- 
 
 Chapter 5 
 =========
