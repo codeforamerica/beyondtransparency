@@ -98,8 +98,6 @@ needed to be structured, machine-readable data. It was an interesting
 example of what entrepreneurs in our community might face if they wanted
 to build value out of the public data our government stewarded.
 
-.
-
 I also have witnessed firsthand the quiet aggravation that journalists
 have when faced with delays in record requests, even when they are
 legitimate delays.
