@@ -1,0 +1,339 @@
+--- 
+layout: chapter
+author: blank
+title: blank 
+---
+
+
+Chapter 15 
+==========
+
+##### Local Scale and Local Data 
+
+#### By Alissa Black and Rachel Burstein 
+
+Today, the town hall meeting conjures visions of televised,
+invitation-only debates in which candidates for national office respond
+in scripted paragraphs to the prepared questions of selected
+constituents. But in the eighteenth and nineteenth centuries, town hall
+meetings were a space in which citizens came to debate the issues of the
+day, and to vote on appropriate action. For Henry David Thoreau (1854),
+town hall meetings in which each man was afforded a voice on questions
+as morally significant and politically complex as Massachusetts’
+enforcement of the Fugitive Slave Act were the “true Congress, and the
+most respectable one that is ever assembled in the United States.”
+Thoreau was fundamentally distrustful of the big cities of New York and
+Boston, where the press, politicians, and special interest groups
+obscured citizens’ voices.
+
+Of course, Thoreau’s assessment of the town meeting was steeped in
+romanticism. Non-citizens were largely excluded from the proceedings,
+and the homogenous population of the rural towns so loved by Thoreau
+allowed a purity of conscience more difficult to sustain in nearby
+Boston, in which a complex economy, population density, and diversity
+made the inclusion of individual residents’ voices more complicated, and
+policy decisions less tied to moral certitude alone. But still, in the
+town meetings of his beloved Concord, Massachusetts, Thoreau saw the
+promise of American democracy most fully realized. The ideal of
+residents contributing directly to the governance of their communities
+through the town hall meeting is one that persists to this day.
+
+As in the town hall meeting system in which residents co-governed with
+elected officials, true engagement in the twenty-first century involves
+not only listening, but also collaboration and action. The full
+potential of the twenty-first century virtual commons is dependent not
+just on the voicing of ideas by residents, but on the incorporation of
+these ideas and concerns into innovative and constructive public
+policies by cities, and the ability of cities to address difficult
+issues of access, digital literacy, language barriers, and awareness
+that often interfere with the ability of the virtual commons to reach
+and empower all populations.
+
+Such exchanges need not rely on new technologies. Participatory
+budgeting, in which residents submit proposals for and vote on funding
+allocations for city-funded projects is one example of a non-technology
+driven approach to establishing a new civic commons. But new
+technologies and approaches developed or engaged by local
+government—including the sensible release and adequate guidance in the
+use of open data—can offer a path toward developing a new and vibrant
+public square.
+
+### Towards a Twenty-First Century Town Hall 
+
+The local level provides an unparalleled space for government to harness
+the power of community groups, neighborhood associations, other
+supporting organizations, and residents themselves to convene citizens,
+share knowledge, and identify and develop better ways of responding to
+community needs. Close proximity and the potential for developing
+personal relationships allow organizing to have a broader impact. Local
+government has the ability to serve and respond to the needs of diverse
+populations through engaging residents and community groups directly in
+a way that is not possible at the state or federal level.
+
+In fact, innovation at the local level of government looks very
+different than innovation pursued by federal agencies. With more direct
+contact with the public than their colleagues in Washington, local
+government innovation can be more directly responsive to an existing
+community need as articulated by community groups and ordinary citizens.
+The smaller scale of local government means that soliciting and
+incorporating feedback directly from the community is much more
+feasible. Innovation at the local level can change the relationship
+between residents and their government, rather than focusing on the
+transactional elements of government alone.
+
+Service delivery is at the heart of most residents’ engagement with
+municipal government, regardless of city size. Without the services
+offered by cities—as varied as schools, libraries, garbage pickup,
+public safety, and public transit—many residents would be in tough
+shape. Before ten o’clock in the morning, the average person might wake
+up, take his city-owned trash can to the curb for pickup, wave to the
+street cleaner funded by city coffers, and return his books to the
+city-supported library before hopping on a bus whose route has been set
+by city planners. His level of engagement with local services is far
+more tangible, personal, and expansive than his everyday experience of
+state or federal services.
+
+Because of this immediate relevance of municipal services to the average
+citizen’s life, the local level is a promising point of entry into
+establishing a modern day public sphere.
+
+### From Data to Engagement 
+
+Any conversation about relationships between government and citizens at
+the local level necessitates a consideration of data. Our cities are
+prolific generators of data that directly impacts our daily
+lives—everything from train schedules to trash pickup days. They’re also
+collectors of data, like enrollment in social services or parking meter
+usage. Local community groups also often serve as stewards and curators
+of important data about their own communities. Both city- and
+community-generated data can be powerful fuel for meaningful civic
+dialogue and action.
+
+For example, in the Tenderloin, a low-income and predominantly minority
+neighborhood in San Francisco, the City failed to respond to noise
+complaints because there were no data to support the claim that the
+noise level was beyond an acceptable limit. So, the Gray Area Foundation
+for the Arts (GAFFTA), a non-profit digital arts and technology
+organization located in the Tenderloin, joined with residents and local
+civic hackers, to place noise sensors around the district to collect
+data on noise levels throughout the day (see
+http://tendernoise.movity.com/). Armed with data from the noise sensors,
+GAFFTA was able to prove that the noise levels in the Tenderloin
+exceeded the allowable levels because, for example, most of the city’s
+fire and emergency vehicles used streets in the Tenderloin to travel
+across town, and the City permitted more emergency construction permits
+that allowed crews to begin and end loud construction work late in the
+day.
+
+This story illustrates how community groups and other nonprofits can use
+data to improve the lives of those living and working around them.
+Residents, community groups, non-profit organizations, and businesses
+already play important roles in local governance as knowledge
+disseminators, identifiers of community needs, and as advocates for the
+implementation of governmental policies and programs—and data can be a
+tool to further this engagement. Empowered with the data proving that
+noise levels were above those acceptable in other parts of San
+Francisco, GAFFTA and Tenderloin residents were able to make a case for
+rerouting emergency vehicles and reducing construction in the noise
+polluted district.
+
+When civic data held by the government is made open for diverse
+populations to use and remix, it expands the possibilities for data to
+facilitate civic engagement and enable citizens to collaborate with
+their city to co-create better public services. Open data has the
+potential to empower citizens to identify community needs, propose and
+develop new approaches, and engage new constituencies.
+
+This is exemplified by a number of cities that publish crime data and
+the neighborhood groups that emerge to deter crime in the city. Equipped
+with data, the neighborhood groups are better able to identify trends in
+crime and take proactive measure to prevent crime. In this way,
+citizens’ use of datasets—such as transportation and crime—have the
+potential to reshape the way that local governments deploy public safety
+or public transit services, making them more efficient and equitable
+systems. When approached in the right way, these open datasets can serve
+as catalysts for meaningful exchange about community priorities—in some
+ways a modern-day public square for multiple constituencies.
+
+But to realize the full potential requires more than simply declaring a
+dataset open and putting a PDF version on a website. First of all, the
+data must be not only open and available, but also in a useful (and
+preferably machine-readable) format. When civic data is conducive to
+being repurposed and interpreted by government and citizens, new value
+and meaning can be unlocked. For example, a list of crime reports in an
+Excel format is not that helpful for a parent trying to understand
+whether the route her child takes to school every day is safe. But when
+that list of crime incidents is mapped, the information becomes much
+more consumable. The data become even more useful when the parent can
+input his child’s route to school and a system displays only the crimes
+reported within a five-block radius of that route. This shows the power
+of data to improve citizens’ lives when those data are made accessible
+to the average citizen.
+
+It can also be made more powerful when multiple datasets are used to
+tell a more comprehensive story. For example, in charting the location
+of abandoned vehicles, it is possible to tell a larger story about
+crime. In neighborhoods where more vehicles are abandoned, more crime
+generally occurs, and understanding the correlation between the two
+allows local governments to take crime prevention measures in areas
+where vehicles are being dumped, providing a better way of assessing
+community need than simply responding to the loudest voices.
+
+Standardization can help scale the impact of open civic data to millions
+of people when government and private companies partner to create a
+consistent way of formatting data and making it available to the public.
+In 2005, Google and Portland’s Tri-Met transit agency made it possible
+to plan a trip in Google using public transportation, and then published
+their standard specification. Called the General Transit Feed
+Specification (GTFS), this created a standard way of presenting transit
+information from any transit agency, like fares and schedules, that
+could be used by Google’s Transit Trip planner. This standard allowed
+millions of people in cities throughout the world to plan their public
+transportation trips more effectively. This seemingly small action
+changed the public’s expectation for transit planning and transit data
+sharing.
+
+### The Challenge of Inclusive Engagement 
+
+Open data that powers inclusive citizen engagement requires a level of
+co-governance that goes beyond simply publishing data for transparency’s
+sake. This next step from transparency to engagement is not always easy,
+but promising examples show that when done right, the impact can be
+significant.
+
+For instance, an app developed by Sam Ramon’s Fire Department is used to
+leverage bystander performance and active citizenship to improve cardiac
+arrest survival rates. The City makes 911 emergency call information
+publicly available via the app, PulsePoint, in which residents trained
+in CPR are alerted if a person in a location near to them has gone into
+cardiac arrest. The tool goes beyond the mere presentation of data by
+promoting “active citizenship” so that residents are supporting their
+neighbors and public safety agencies. PulsePoint demonstrates the
+potential to move beyond openness to forming the cornerstone of a new
+public square in which government, citizens, and other groups work
+together to improve their communities.
+
+In order for open data to fulfill the mission of inclusivity, open data
+platforms must speak to multiple publics. By making data more accessible
+to those without technological know-how, open data can democratize the
+conversation leading to a better understanding of community needs and
+resulting in more responsive government. Ordinary citizens can serve as
+important sources of data and can help to analyze those data if
+information is presented in understandable ways. Coupling the release of
+open data with digital literacy training and increased
+government-supported access to internet for underserved populations can
+make open data more inclusive. Putting open data in service to the
+public’s priorities and interests can also assist in this process.
+
+An obstacle is that many cities still don’t see pursuing an open data
+policy and developing accompanying resources to make those data
+meaningful as within their reach. This is more than just a perception
+problem. San Francisco, Philadelphia, Boston, and Chicago grab headlines
+when it comes to technological innovation, but most cities do not have
+the resources of these major urban areas. There are fewer than three
+hundred cities in the United States with populations of 100,000 or more,
+yet there are over 7,500 municipalities with populations above 2,500
+nationwide (International City/County Management Association, 2012). The
+vast majority of the nation’s cities have populations of 25,000 or fewer
+residents. And over 3,500 cities have council-manager systems of
+governance, rather than the strong mayor systems predominant in the
+country’s largest cities.
+
+The size and form of government have implications for the resources
+available and the method through which change happens in local
+government. According to one recent survey, while seventy-nine percent
+of cities of populations of 300,000 or more have open data portals, just
+thirty-six percent of cities with populations under 50,000 do (see
+Hillenbrand, 2013). And an approach in which a charismatic mayor
+green-lights civic technology projects, as has been the pattern in
+Boston and Philadelphia, is not open to most locales where a
+council-manager system predominates.
+
+With budget shortfalls and increasing demands for service, most local
+government employees have other priorities besides open data. In a
+recent survey of city managers and county administrators in California,
+thirty-five percent of respondents identified a service delivery project
+as the most important new approach instituted by their locale in the
+last five years (Burstein, 2013). Twenty-eight percent of cited projects
+involved some element of regional collaboration. Projects that fell into
+two areas that commentators often hail as the holy grail of local
+government innovation—civic engagement and e-government—each accounted
+for only eleven percent of responses. While elements of both of these
+areas were certainly features of other kinds of projects, civic
+engagement and e-government were not the end goals. Instead, improving
+service delivery to residents was the primary objective. This shows the
+deep disconnect between the potential of open data and perceptions and
+abilities to create sound open data policies and practices in city
+governments across the country.
+
+With the advent of open source and low cost tools that can help
+streamline the process of opening up data, and the increasingly open
+attitudes towards collaborative approaches like city-sponsored
+hackathons, it’s more feasible for even small cities to pursue open data
+policies. But in order for open data to emerge as a powerful civic
+commons in which diverse residents are engaged and involved in the
+process of collaborative co-governance in cities throughout the nation,
+open data advocates need to do a better job of connecting the open data
+movement with the service delivery goals at the forefront of the minds
+of most city administrators. We need better ways of illustrating the
+value of open data to residents, and we need better ways of talking
+about open data as a strategy for supporting existing policy goals.
+
+Cities also need more resources. The open data community of hackers,
+businesses, non-profits, community groups, residents, philanthropic
+foundations, and local government employees who have implemented open
+data initiatives elsewhere need to play a bigger role in developing
+resources for smaller, less well resourced communities. We can make
+valuable contributions—including building and maintaining open source
+civic software—to help transform the meaning of civic innovation beyond
+service delivery and toward collaborative, co-governance.
+
+Open data has the ability to reshape the public’s relationship with
+government, reinvigorating the long dormant space of the public square
+in the increasingly digitized but equally fragmented cityscape of the
+twenty-first century. Open data is a piece of a larger movement toward
+civic innovation capitalizing on the advantages of a smaller scale that
+holds enormous promise for our nation’s cities and for twenty-first
+century democracy. But that will only occur if the open data community
+moves forward with sensitivity and wisdom to the realities of our
+cities’ ecosystems and needs.
+
+### About the Authors 
+
+Alissa Black directs the New America Foundation’s California Civic
+Innovation Project. Based in the Bay area, Ms. Black is exploring the
+use of innovative technologies, policies, and practices that engage
+disadvantaged communities in public decision-making throughout
+California. Prior to joining New America, Ms. Black was the Government
+Relations Director at Code for America, a non-profit organization that
+helps governments work better through the use of technology and new
+practices. She also has extensive experience as a leader in local
+government, having worked in the New York City Mayor’s Office and the
+City of San Francisco’s Emerging Technologies team, where she led the
+development and deployment of Open311, the leading national standard for
+citizen reporting.
+
+Rachel Burstein is a research associate at the California Civic
+Innovation Project at the New America Foundation.
+
+### References 
+
+Burstein, Rachel (2013). The Case for Strengthening Personal Networks in
+California Local Government: Understanding local government innovation
+and how it spreads. Retrieved from
+http://newamerica.net/sites/newamerica.net/files/policydocs/The\_Case%20for%20Strengthening\_Personal\_Networks\_in\_CA\_Local%20Government.pdf
+
+Hillenbrand, Katherine (2013). From Hieroglyphs to Hadoop: The
+Development of Civic Data. Retrieved from
+http://datasmart.ash.harvard.edu/news/article/from-hieroglyphs-to-hadoop-192
+
+International City/County Management Association (2012). Form of
+Government Statistics - Cities (2012). Retrieved from
+http://icma.org/en/icma/knowledge\_network/documents/kn/Document/303818/Form\_of\_Government\_Statistics\_\_Cities\_2012
+
+Thoreau, Henry David (1854). Slavery in Massachusetts. Retrieved from
+http://www.africa.upenn.edu/Articles\_Gen/Slavery\_Massachusetts.html
+
+* * * * *
+
+
