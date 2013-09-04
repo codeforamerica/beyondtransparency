@@ -1,16 +1,11 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
----
-
-
-Chapter 5 {.western}
-=========
-
-##### Asheville’s Open Data Journey: Pragmatics, Policy, and Participation {.western}
-
-#### By Jonathan Feldman {.western}
+author: Jonathan Feldman
+title: "Asheville’s Open Data Journey: Pragmatics, Policy, and Participation"
+chapter: 5
+twitter: _jfeldman
+permalink: /5-ashevilles-open-data-journey/
+--- 
 
 Much of the open data conversation centers on policy, politics, or
 solving community problems. These are great—and needed—beginning and end
@@ -102,8 +97,6 @@ insurance and mortgage industries. They faced boxes of printouts that
 needed to be structured, machine-readable data. It was an interesting
 example of what entrepreneurs in our community might face if they wanted
 to build value out of the public data our government stewarded.
-
-.
 
 I also have witnessed firsthand the quiet aggravation that journalists
 have when faced with delays in record requests, even when they are
@@ -257,7 +250,7 @@ publishing criteria. This makes sure that the politics and policy stay
 with elected officials, the publishing choices city staff makes are
 reasonable, and we are using our time well.
 
-### Pragmatics {.section2-heading-western}
+### Pragmatics 
 
 Does publishing a dataset save staff time? Does it lower the burden of
 public record requests by automating a frequently requested or
@@ -266,7 +259,7 @@ make the process easier for citizens? Does it contribute to a business
 goal of a citizen-facing business unit (for example, police, fire, or
 development services, to name a few)?
 
-### Participation {.section2-heading-western}
+### Participation 
 
 This criterion asks how many votes a dataset has on the open data
 catalog site. If two people want it, it’s probably not a great candidate
@@ -275,7 +268,7 @@ dataset receive strong support from the community. When there is clear
 support for a dataset to be published, though, we’ll do our best to get
 it out there.
 
-### Policy {.section2-heading-western}
+### Policy 
 
 What does our governing board want? If our board says to publish a
 dataset that hasn’t met the other two criteria of “pragmatic” or
@@ -446,7 +439,7 @@ data is a bad idea.
 
 Good leadership will recognize the pragmatics of open data.
 
-### About the Author {.western}
+### About the Author 
 
 Jonathan Feldman is Chief Information Officer for the City of Asheville,
 North Carolina, where his business background and work as an
@@ -460,7 +453,7 @@ International Economic Development Council New Media, NATOA Community
 Broadband, and the GMIS Best Practices awards) for improving services to
 citizens and reducing expenses through IT innovation.
 
-### References {.western}
+### References 
 
 [http://www.charlotteobserver.com/2013/03/03/3889773/nc-sheriffs-wage-fight-over-gun.html\#.UiZBV2RATy0](http://www.charlotteobserver.com/2013/03/03/3889773/nc-sheriffs-wage-fight-over-gun.html#.UiZBV2RATy0)
 
