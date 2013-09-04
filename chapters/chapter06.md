@@ -1,16 +1,11 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: Steve Spiker
+title: "Oakland and the Search for the Open City"
+chapter: 6
+twitter: spjika
+permalink:
 ---
-
-
-Chapter 6 {.western}
-=========
-
-##### Oakland and the Search for the Open City {.western}
-
-#### By Steve Spiker {.western}
 
 At the center of the Bay Area lies an urban city struggling with the
 woes of many old, great cities in the USA, particularly those in the
