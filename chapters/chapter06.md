@@ -5,22 +5,22 @@ title: blank
 ---
 
 
-Chapter 6 
+Chapter 6 {.western}
 =========
 
-##### Oakland and the Search for the Open City 
+##### Oakland and the Search for the Open City {.western}
 
-#### By Steve Spiker 
+#### By Steve Spiker {.western}
 
 At the center of the Bay Area lies an urban city struggling with the
 woes of many old, great cities in the USA, particularly those in the
 rust belt: disinvestment, white flight, struggling schools, high crime,
 massive foreclosures, political and government corruption, and scandals.
 Despite these harsh realities, Oakland was named among the five best
-places in the world to visit in 2012 by the New York Times, something we
-were simultaneously excited about and stunned by. Oaklanders are proud
-of our heritage, our diversity, our legacy of great musicians, great
-food, amazing art, and our truly beautiful city by the bay.
+places in the world to visit in 2012 by the *New York Times*, something
+we were simultaneously excited about and stunned by. Oaklanders are
+proud of our heritage, our diversity, our legacy of great musicians,
+great food, amazing art, and our truly beautiful city by the bay.
 
 We’re not huge like Chicago, New York, or San Francisco—megacities with
 large populations and a corresponding large city staff. We don’t have a
@@ -35,7 +35,7 @@ Our journey shows why open data matters to a city with big troubles and
 how something as geeky as public records access supports a positive
 transformation in our city—for everyone, not just for us geeks.
 
-### The Start of Open: The Conviction Phase 
+### The Start of Open: The Conviction Phase {.western}
 
 The event that changed my thinking and changed my organization toward
 “open by default” was as unexpected as it was transformative. I’ve had
@@ -147,7 +147,7 @@ institutions, with our ideas. Yet, as Aaron Swartz  (2012) said, we must
 fix the machine, not the people. We have to reach and connect with the
 people in order to fix our broken, closed governments.
 
-### Unreasonable Expectations 
+### Unreasonable Expectations {.western}
 
 Oakland’s city government had long been seen as a blocker of access to
 information. Information is routinely not accessible unless you are
@@ -235,7 +235,7 @@ immediately implement this law. Instead, we had a resolution approved to
 “investigate open data platforms,” resulting in an approved plan and a
 contract with Socrata to provide such a platform.
 
-### Are We Opening Government? 
+### Are We Opening Government? {.western}
 
 This left Oakland in a strange position. We have both a community-driven
 open data platform and a city-supported platform, but we are one of the
@@ -302,7 +302,7 @@ This is a patently false statement because the reality is that the data
 was removed. The same data was still, however, available on the state
 controller’s website.
 
-### The Panacea of Data-Driven Cities 
+### The Panacea of Data-Driven Cities {.western}
 
 It’s hard to imagine a new policy, new social service, or new investment
 decision being made in any company or government without the strategic
@@ -344,7 +344,7 @@ ugly consequences, but they must be seen as growing pains as we move
 from immature uses of data in government to a place where data-driven
 decision-making is the norm.
 
-### Leveraging the Long Tail of Government 
+### Leveraging the Long Tail of Government {.western}
 
 Many critics in Oakland have suggested that open data doesn’t explain
 anything, doesn’t make anything clear, and doesn’t provide answers. Some
@@ -445,7 +445,7 @@ layer of public records refusals. Instead, it would create a reality in
 which hundreds or thousands of their constituents can access and
 question data that explain their motives and actions.
 
-### What Has Data Done for Me Lately? 
+### What Has Data Done for Me Lately? {.western}
 
 As the furious rush to build “innovative” and “game changing“ civic apps
 and new tools starts to plateau, I believe we are seeing a slow but
@@ -526,7 +526,7 @@ over simple goodwill and flowery slogans, and we will push for
 evidence-based practice over “doing what we’ve always done because it
 works.”
 
-### Into the Danger Zone 
+### Into the Danger Zone {.western}
 
 One caveat that those of us in the data trade will have to work
 carefully around is competing standards of open data. Many organizations
@@ -560,7 +560,7 @@ process and assumed permissions. In this case, it may be necessary to
 adopt a research access agreement similar to that used by school
 districts to ensure PRA and sensitive data are not released incorrectly.
 
-### Community Development 
+### Community Development {.western}
 
 There is one important sector of American cities that has barely been
 affected by open data: community development. This field consists of
@@ -588,7 +588,7 @@ government become more focused on evidence-based and data-driven
 efforts, both sources of investment must accept their role in supporting
 or providing that kind of capacity.
 
-### Who Owns Your Data? 
+### Who Owns Your Data? {.western}
 
 Opening property data will bring a fight over public ownership that
 opening property data. Presently, in Alameda County, any nonprofit or
@@ -619,7 +619,7 @@ to answer a simple question like “How many foreclosures did you accept
 in the city of Oakland this year?” Because the agency itself creates no
 data, it cannot answer this question directly.
 
-### Are You Open for Business? 
+### Are You Open for Business? {.western}
 
 On the back of the benefits that community development can reap are the
 even more substantial rewards gained through increased economic
@@ -654,7 +654,7 @@ demonstration of recognizing the potential in the long tail of
 government and in how open government can collectively do so much more
 together.
 
-### Conclusion 
+### Conclusion {.western}
 
 Every city takes a different path to open its data and progress toward
 open government. Oakland is off to a slow but exciting start with its
@@ -696,9 +696,9 @@ should not be the norm anymore. We enable far more value to be created
 once we become open-by-default cities: open for business, open for
 engagement, and open for innovation.
 
-### Author’s Note 
+### Author’s Note {.western}
 
-After writing, some positive progress has been made in Oakland. At the
+*After writing, some positive progress has been made in Oakland. At the
 request of council member Schaaf, we are beginning crowdsourcing of new
 legislation for an official Open Data Policy in the city of
 Oakland. We’ve combined what we see as the strongest and most relevant
@@ -709,9 +709,9 @@ practitioners in cities with experience of their own process and locals
 interested in making this right for us. It’s an experiment. It should be
 fun. Next we hold a roundtable session to review and consider what this
 means for our city. And then we try to get this passed! Onward. —Steve
-Spiker
+Spiker*
 
-### About the Author 
+### About the Author {.western}
 
 Steve Spiker (Spike) is the Director of Research & Technology at the
 Urban Strategies Council, a social change nonprofit supporting
@@ -721,7 +721,7 @@ and tech work. He is also the Executive Director and co-founder of
 OpenOakland, a civic innovation organization supporting open data and
 open government in the East Bay.
 
-### References 
+### References {.western}
 
 Eaves, D. (2010). Open Government. Available
 from [https://github.com/oreillymedia/open\_government](https://github.com/oreillymedia/open_government)
@@ -741,4 +741,6 @@ Urban Strategies Council. (2012, May 22). Our Method: Oakland’s 100
 Blocks Plan. Retrieved
 from http://www.infoalamedacounty.org/index.php/research/crimesafety/violenceprevention/oakland100blocksmethod.html
 
+\
+\
 

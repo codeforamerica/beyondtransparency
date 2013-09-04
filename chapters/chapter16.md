@@ -5,12 +5,12 @@ title: blank
 ---
 
 
-Chapter 16 
+Chapter 16 {.western}
 ==========
 
-##### The Bigger Picture: Ten Lessons for Taking Open Government Further 
+##### The Bigger Picture: Ten Lessons for Taking Open Government Further {.western}
 
-#### By John Bracken 
+#### By John Bracken {.western}
 
 My job at the Knight Foundation is to identify people with promising
 ideas and help them execute them. Our primary tool for that is the
@@ -40,9 +40,13 @@ we received, several themes emerged that captured the open government
 zeitgeist. These included:
 
 -   Increasing citizens’ direct participation in policymaking
+
 -   Strengthening policies for data transparency
+
 -   Making sense out of multiple datasets
+
 -   Understanding government spending and campaign contributions
+
 -   Making better use of public spaces and vacant land
 
 After our analysis of the contest process and submissions, our
@@ -117,7 +121,7 @@ it all down, it’s time to shift into the practicalities of building
 useful tools. Here are ten things we need to prioritize to move from
 dreaming to doing:
 
-Realistic expectations
+### Realistic expectations {.section2-heading-western}
 
 We need to learn how to build projects and businesses that bring value
 to customers, not just venture capitalist moonshots. Civic technology
@@ -126,7 +130,7 @@ investment. We need to be okay with that and build the financing and
 support services that will enable entrepreneurs’ visions to become real
 and sustainable.
 
-Delight
+### Delight {.section2-heading-western}
 
 No one waits excitedly at the window for the postman to deliver us
 information about voting, taxes, or municipal budgets. Messages from
@@ -134,7 +138,7 @@ loved ones, narratives in magazines, and holiday cards are what I look
 for when the mail arrives. We need apps and tools that are fun to use
 and don’t feel like homework.
 
-Drama
+### Drama {.section2-heading-western}
 
 “We have 2,000 bills. Little bill bits,” said California Governor Jerry
 Brown earlier this year. “You can’t run a world on bill bits. That’s not
@@ -143,13 +147,13 @@ We’re on the stage of history here.” We need to do a better job of
 taking civic data and presenting it to our neighbors in stories,
 visualizations, and culture.
 
-Literacy
+### Literacy {.section2-heading-western}
 
 To appreciate the mail, it helps to be able to read. What are the skills
 and approaches citizens need to contribute to and benefit from open
 government, and how do we identify and develop them?
 
-Research
+### Research {.section2-heading-western}
 
 What is the baseline for what does and does not work? How do we know how
 we’re doing and determine what to do better? What are we measuring? How
@@ -158,12 +162,12 @@ about it? How can we demonstrate an ROI to governments and potential
 investors? The fact that we don’t have answers to these questions this
 late in the game is worrisome.
 
-Models
+### Models {.section2-heading-western}
 
 When people ask us how to do open government, where can we point them?
 We need solid, well-documented success stories of real results.
 
-Talent
+### Talent {.section2-heading-western}
 
 When they need to hire, where do governments go? Programs like the Code
 for America Fellowship are a great start, but they aren’t enough to form
@@ -172,7 +176,7 @@ into one conference. We need to set up places for them to go when they
 leave government so we don’t lose their experiences and networks to
 other fields.
 
-Professional development
+### Professional development {.section2-heading-western}
 
 Many people who take government jobs don’t do so to be agents of change
 or to drive innovation. They often take them because they are good,
@@ -180,14 +184,14 @@ solid jobs. Where do career government workers and civilians go to
 develop the skills we need to drive the movement forward from the inside
 out?
 
-Leadership transitions
+### Leadership transitions {.section2-heading-western}
 
 We put a lot on the shoulders of individual government leaders to drive
 change. How do we build the systems so that the innovations built by a
 chief executive are not dismantled with their administration? What tools
 would help with transitions from one mayor or governor to another?
 
-Risk tolerance
+### Risk tolerance {.section2-heading-western}
 
 How can we encourage and enable government leaders and workers to take
 risks that they are generally dissuaded from trying? We need to build a
@@ -202,7 +206,7 @@ to move beyond placing our hopes in whispered promises toward doing the
 practical work of building useful, sustainable tools and a supportive
 ecosystem.
 
-### About the Author 
+### About the Author {.western}
 
 John S. Bracken is the director of media innovation for the Knight
 Foundation. He oversees the Knight News Challenge, Knight’s prototype
@@ -211,6 +215,9 @@ ten years of experience as a philanthropic investor in digital media,
 media policy, innovation, and global internet freedom, having previously
 worked at the Ford Foundation and the MacArthur Foundation.
 
-* * * * *
+\
+\
 
+\
+\
 

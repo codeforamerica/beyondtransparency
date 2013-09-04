@@ -4,6 +4,7 @@ author: Daniel X. O’Neil
 title: Building a Smarter Chicago 
 chapter: 4
 ---
+
 ### Introduction 
 
 As the open data and open government movement continues, there is a lot
@@ -72,7 +73,7 @@ In the technology world, we call these people “users.”
 
 Adrian Holovaty’s ChicagoCrime.org—widely considered a major impetus in
 the open data movement—simply would not have existed without Citizen
-ICAM (Holovaty, 2008).  At the same time, ChicagoCrime.org was certainly
+ICAM (Holovaty, 2008). At the same time, ChicagoCrime.org was certainly
 not well-formed public data. For instance, all data was retrieved by
 scraping with obscure URL calls that ignored the user interface, which
 limited searches to a quarter-mile radius.
@@ -241,13 +242,17 @@ and accelerate the work:
 
 -   Illinois Data Exchange Affiliates was an early-incarnation open data
     group that led the way (Illinois Data Exchange Affiliates, 2007).
+
 -   Independent Government Observers Task Force was a 2008
     non-conference, where many of the leaders of the movement worked
     together (Independent Government Observers Task Force, 2008).
+
 -   Open Government Chicago(-land) is a meetup group started by Joe
     Germuska (Open Government Chicago(-land), 2013).
+
 -   Open Gov Hack Nights are weekly meetings that have been critical to
     accelerating the pace of development (Open Gov Hack Night, n.d.).
+
 -   Digital.CityofChicago.org is a publication at the center of city
     policy and examples (“Release All the Data,” 2013).
 

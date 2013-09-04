@@ -5,12 +5,12 @@ title: blank
 ---
 
 
-Chapter 13 
+Chapter 13 {.western}
 ==========
 
-##### A Journalist’s Take on Open Data 
+##### A Journalist’s Take on Open Data {.western}
 
-#### By Elliott Ramos 
+#### By Elliott Ramos {.western}
 
 Journalists are bad at math. No, really. We’re really bad at math. The
 joke goes that we all went into media because we’re unable to figure out
@@ -26,11 +26,12 @@ teams that specialize in computer-assisted reporting (CAR). They may
 work with graphics and application teams to crunch numbers and visually
 display them, utilizing interactive graphics, maps, and charts.
 
-I was lucky enough to have worked at places like the New York Times and
-the Wall Street Journal, which had graphics editors and special projects
-managers who coordinated with reporters and editors on long-term
-projects. These were often the stories that would run on page one and
-were given additional resources from photo and graphics departments.
+I was lucky enough to have worked at places like the *New York Times*
+and the *Wall Street Journal*, which had graphics editors and special
+projects managers who coordinated with reporters and editors on
+long-term projects. These were often the stories that would run on page
+one and were given additional resources from photo and graphics
+departments.
 
 Such stories are the news analysis items, features that would be
 referred to in-house as a “tick tock.” While the story carries the
@@ -49,11 +50,11 @@ While recounting personal and dramatic narratives is always a focus,
 obtaining documents and records is just as important. Big data projects
 are nothing new to newsrooms. Some of the more renowned ones would end
 up winning awards and prompting government action or public outcry. The
-Sun Sentinel won a Pulitzer Prize for public service this year for its
+*Sun Sentinel* won a Pulitzer Prize for public service this year for its
 series on speeding cops, which utilized a database of transponders to
 determine that many cops were averaging speeds around or in excess of
-120mph, posing a significant safety risk (The Pulitzer Prizes, 2013; Sun
-Sentinel, 2012)
+120mph, posing a significant safety risk (The Pulitzer Prizes, 2013;
+*Sun Sentinel*, 2012)
 
 Investigative and special projects teams at news outlets can analyze
 data that is extrapolated from computers or with pencil and paper. While
@@ -91,12 +92,12 @@ the Lake View neighborhood.
 I attended Columbia College in 2002, majoring in journalism with a
 concentration on news reporting and writing for newspapers. I was an
 intern web producer at Chicago’s CBS affiliate in 2004, a reporting
-intern at the Chicago RedEye in 2005, and a multimedia intern at the
-Chicago Tribune before graduating in 2006. After graduating, I had an
-internship as a web producer at the New York Times, and in 2007, became
-a senior web editor for the New York Daily News.
+intern at the Chicago *RedEye* in 2005, and a multimedia intern at the
+*Chicago Tribune* before graduating in 2006. After graduating, I had an
+internship as a web producer at the *New York Times*, and in 2007,
+became a senior web editor for the *New York Daily News*.
 
-Eventually, I found my way to the Wall Street Journal (WSJ), where my
+Eventually, I found my way to the *Wall Street Journal* (WSJ), where my
 responsibilities varied from producing web content, managing the
 homepage, and growing the paper’s online news presence over the
 weekends. My responsibilities eventually evolved to include the
@@ -140,26 +141,26 @@ city’s data portal site.
 I turned my attention to the issue of crime in the city at the same time
 all this information was released. There was a noticeable uptick in
 violent crime that year, and news organizations began to capitalize on
-mapping applications to aggregate crime data. RedEye reporter Tracy
+mapping applications to aggregate crime data. *RedEye* reporter Tracy
 Swartz made a notable effort by manually compiling data from the Cook
 County Medical Examiner on homicides in the city.
 
 The data was obtained the old-fashioned way: retrieving reports, which
 she then compiled into tables to list victim names, age, race, and
 gender, as well as the occurrence and times of crimes. That dataset
-allowed the Tribune (RedEye’s parent company) and others to visualize
-where Chicago’s murders were happening, parse it by date, and note
-whether it was by gunshot or other infliction.
+allowed the *Tribune* (*RedEye’s* parent company) and others to
+visualize where Chicago’s murders were happening, parse it by date, and
+note whether it was by gunshot or other infliction.
 
 That same year, Goldstein’s department began to compile and release
 datasets, which included crime stats and the city’s GIS map files. I was
-relatively new to mapping at the time. While at the Wall Street Journal,
-my interactions with mapping involved updating paths of hurricane maps
-or the locations of restaurants the paper had reviewed. That summer,
-though, there were highly publicized robberies and violent assaults in
-Chicago’s gay entertainment district, called Boystown. I utilized the
-crime data, with the help of my intern Meg Power, to map out violent
-crime in the neighborhood.
+relatively new to mapping at the time. While at the *Wall Street
+Journal*, my interactions with mapping involved updating paths of
+hurricane maps or the locations of restaurants the paper had reviewed.
+That summer, though, there were highly publicized robberies and violent
+assaults in Chicago’s gay entertainment district, called Boystown. I
+utilized the crime data, with the help of my intern Meg Power, to map
+out violent crime in the neighborhood.
 
 While there was an increase in robberies, overall crime in the
 neighborhood was roughly the same or decreasing year after year. You
@@ -170,7 +171,7 @@ week.
 
 There was a certain level of hyperbole that would trump crime data at
 times as a spat of “flash mobs” garnered attention from even national
-news outlets. The Wall Street Journal ran the headline “Chicago Police
+news outlets. The *Wall Street Journal* ran the headline “Chicago Police
 Brace for ‘Flash Mob’ Attacks.” I covered a contentious town hall
 meeting on policing, where one resident, clad in designer clothes,
 described the flower-festooned streets of Chicago’s Lake View
@@ -434,21 +435,21 @@ We’re in the middle of an information renaissance, and while privacy is
 a very real fear, giving the Fourth Estate the ability to match a
 government’s ability to process and analyze data may even the odds.
 
-### About the Author 
+### About the Author {.western}
 
 Elliott is a data reporter and Web producer for WBEZ, a Chicago-based
 public radio station. Elliott focuses on reporting from enterprise
 feature stories to data visualizations. He previously worked as a web
-editor at the Wall Street Journal, where he specialized in managing
+editor at the *Wall Street Journal*, where he specialized in managing
 breaking news online and the production of iPad, Android, and mobile
 applications as the paper’s mobile platform editor. Prior to that, he
-was a senior Web editor at the New York Daily News and interned as a Web
-producer at the New York Times. Elliott graduated from Columbia College
-Chicago in 2006 with a B.A. in journalism, having interned at the
-Chicago Tribune, Chicago RedEye, and WBBM CBS2 News. Elliott is a
-Chicago native, hailing from the city’s Jefferson Park neighborhood.
+was a senior Web editor at the *New York Daily News* and interned as a
+Web producer at the *New York Times*. Elliott graduated from Columbia
+College Chicago in 2006 with a B.A. in journalism, having interned at
+the *Chicago Tribune*, *Chicago RedEye*, and WBBM CBS2 News. Elliott is
+a Chicago native, hailing from the city’s Jefferson Park neighborhood.
 
-### References 
+### References {.western}
 
 Office of the Chicago City Clerk. (2012). Amendment of Title 2, Chapter
 8 of Municipal Code Concerning Redistricting of City of Chicago
@@ -458,10 +459,10 @@ from http://www.suntimes.com/csp/cms/sites/STM/dt.common.streams.StreamServer.c
 The Pulitzer Prizes. (2013). The 2013 Pulitzer Prize Winners. Retrieved
 from http://www.pulitzer.org/works/2013-Public-Service
 
-Sun Sentinel. (2012). Speeding Cops in South Florida (data file).
+*Sun Sentinel*. (2012). Speeding Cops in South Florida (data file).
 Retrieved
 from http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds\_list.php
 
-* * * * *
-
+\
+\
 

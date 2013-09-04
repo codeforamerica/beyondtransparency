@@ -5,12 +5,12 @@ title: blank
 ---
 
 
-Chapter 21 
+Chapter 21 {.western}
 ==========
 
-### Open Data and Algorithmic Regulation 
+### Open Data and Algorithmic Regulation {.western}
 
-#### By Tim O’Reilly 
+#### By Tim O’Reilly {.western}
 
 Regulation is the bugaboo of today’s politics. We have too much of it in
 most areas, we have too little of it in others, but mostly, we just have
@@ -118,7 +118,7 @@ malfeasance needs systemic regulation. It’s time for government to enter
 the age of big data. Algorithmic regulation is an idea whose time has
 come.
 
-### The Role of Open Data and Government as a Platform 
+### The Role of Open Data and Government as a Platform {.western}
 
 There are those who say that government should just stay out of
 regulating many areas, and let “the market” sort things out. But there
@@ -172,7 +172,7 @@ When government regulators focus on requiring disclosure, that lets
 private companies build services for consumers, and frees up more
 enforcement time to go after truly serious malefactors.
 
-### Regulation Meets Reputation 
+### Regulation Meets Reputation {.western}
 
 It is true that “that government governs best that governs least.” But
 the secret to “governing least” is to identify key outcomes that we care
@@ -235,7 +235,7 @@ next door to the one in which he was having lunch with staff including a
 number of EMR techs, he commissioned an app that would allow any citizen
 with EMR training to receive the same dispatch calls as officials.
 
-### The Role of Sensors in Algorithmic Regulation 
+### The Role of Sensors in Algorithmic Regulation {.western}
 
 Increasingly, our interactions with businesses, government, and the
 built environment are becoming digital, and thus amenable to creative
@@ -286,7 +286,7 @@ route. Smartphone GPS sensors and smart routing algorithms could lead to
 a hybrid of taxi and bus service, bringing affordable, flexible public
 transportation to a much larger audience.
 
-### The First Step is Measurement 
+### The First Step is Measurement {.western}
 
 Data driven regulatory systems need not be as complex as those used by
 Google or credit card companies, or as those imagined above. Sometimes,
@@ -362,7 +362,7 @@ interventions.
 There’s a long way to go. We’re just at the beginning of thinking about
 how measurement, outcomes, and regulation come together.
 
-### Risks of Algorithmic Regulation 
+### Risks of Algorithmic Regulation {.western}
 
 The use of algorithmic regulation increases the power of regulators, and
 in some cases, could lead to abuses, or to conditions that seem anathema
@@ -414,7 +414,7 @@ benefits we receive from its use.
 
 This is no different in a government context.
 
-### In Conclusion 
+### In Conclusion {.western}
 
 We are just at the beginning of a big data algorithmic revolution that
 will touch all elements of our society. Government needs to participate
@@ -440,7 +440,7 @@ data also helps us to understand whether we are achieving our desired
 objectives, and potentially allows for competition in better ways to
 achieve those objectives.
 
-### About the Author 
+### About the Author {.western}
 
 Tim O’Reilly is the founder and CEO of [O’Reilly Media
 Inc.](http://oreilly.com/), thought by many to be the best computer book
@@ -462,10 +462,10 @@ O’Reilly Media. Maker Media’s [Maker Faire](http://makerfaire.com/) has
 been compared to the West Coast Computer Faire, which launched the
 personal computer revolution.
 
-### References 
+### References {.western}
 
 Lichtblau, E., & Schmidt, M.S. (2013, August 3). Other Agencies Clamor
-for Data N.S.A. Compiles. The New York Times. Retrieved from
+for Data N.S.A. Compiles. The New York Times. Retrieved from
 http://www.nytimes.com/2013/08/04/us/other-agencies-clamor-for-data-nsa-compiles.html
 
 Open Government Working Group. (2007, December 8). 8 Principles of Open

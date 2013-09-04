@@ -16,7 +16,7 @@ research previously undertaken by Leo Boland, who had recently taken on
 the role of Chief Executive of The Greater London Authority.
 
 Boland and I co-authored an article published in 2008 in the journal
-Public Money & Management entitled “What Lies Beyond Service Delivery?
+*Public Money & Management* entitled “What Lies Beyond Service Delivery?
 Leadership Behaviors for Place Shaping in Local Government” (Boland, L.
 & Coleman, E., 2008). We noted how governments were struggling to create
 cognitive shifts around areas such as waste minimization and obesity, as
@@ -86,7 +86,7 @@ the London Datastore a possibility.
 In 2007, a working group convened by Tim O’Reilly and Carl Malamud
 offered a definition of what constitutes open data. The resulting
 document cited eight principles that are widely quoted in the open data
-movement to determine whether data is open or not:  complete, timely,
+movement to determine whether data is open or not: complete, timely,
 accessible, able to be processed by a machine, non-discriminatory,
 available without registration, non-proprietary, and free of any
 copyright or patent regulations (Open Government Working Group,
@@ -154,7 +154,7 @@ things better—it was a powerful moment in the data release journey.
 
 I believe that being open from the very beginning was a crucial element
 of the success of the London Datastore. Said technologist Chris Thorpe,
-a former engagement strategist for The Guardian’s Open Platform
+a former engagement strategist for *The Guardian’s* Open Platform
 initiative, in his subsequent blog:
 
 Being invited into an organization’s home for the start of something
@@ -244,7 +244,7 @@ networks (social and otherwise) that brought external pressure to bear
 on their local and central government contacts.
 
 Equally, the role of the media cannot be underestimated. Charles Arthur,
-technology editor for The Guardian, played an essential part in the
+technology editor for *The Guardian*, played an essential part in the
 establishment of the London Datastore. He epitomizes the potential of a
 new relationship between government and media. A long-time proponent of
 open data, Charles understood the state’s nervousness in entering this
@@ -265,10 +265,10 @@ go on to publish them, and London has been in the forefront of cities
 which have tried to do innovative things with the data that its local
 government and authorities collect. (Arthur, 2010)
 
-It’s worth noting that from a UK perspective, The Guardian publicly
-praising a Conservative Mayor is notable because while The
-Guardian regards itself as the paper of record, Conservative
-commentators perceive it as the home of the left.
+It’s worth noting that from a UK perspective, *The Guardian* publicly
+praising a Conservative Mayor is notable because while *The Guardian*
+regards itself as the paper of record, Conservative commentators
+perceive it as the home of the left.
 
 ### And Then There Is Happenstance 
 
@@ -329,7 +329,7 @@ better terms and conditions than those offered by the incumbents.
 We are surrounded by many small companies working on similar issues in
 the Open Data Institute offices in London where we are based. Our
 colleagues at Mastodon C, who work with big data and health data, were
-recently lauded by the Economist for their prescription analytics
+recently lauded by *the**Economist* for their prescription analytics
 demonstrating the vast sums of money that the National Health Service
 could save by using generic versions of commonly prescribed drugs. There
 is also mySociety, a nonprofit organization that continues to develop
@@ -380,14 +380,14 @@ as a journalist and consultant and writes about how technology impacts
 organizational development. She is the founder of DSRPTN, a consultancy
 specializing in leadership and change, and also the Business Development
 Director at TransportAPI, a startup powering innovation and change in
-transport. She was named in Wired Magazine’s Top 100 Digital Power
+transport. She was named in *Wired Magazine’s* Top 100 Digital Power
 Influencers List 2011. She holds a BA in History and Sociology from
 University College Cork and an MPA from Warwick Business School.
 
 ### References 
 
 Arthur, C. (2010, September 3). Another Data Win: TfL Opens Up Bus and
-Tube Timetables for Developers. The Guardian. Retrieved
+Tube Timetables for Developers. *The Guardian*. Retrieved
 from [http://www.guardian.co.uk/technology/blog/2010/sep/03/tfl-timetables-boris-johnson](http://www.guardian.co.uk/technology/blog/2010/sep/03/tfl-timetables-boris-johnson)
 
 Bennett, C. (1985). From the Dark to the Light: The Open Government
@@ -446,5 +446,4 @@ Worthy, B. (2008). The Future of Freedom of Information in the UK. The
 Political Quarterly, 79(1), 100-108.
 doi: 10.1111/j.1467-923X.2008.00907.x. Retrieved
 from http://onlinelibrary.wiley.com/doi/10.1111/j.1467-923X.2008.00907.x/abstract
-
 

@@ -25,7 +25,7 @@ reflective, mindful, and adaptive. We must take stock of what’s worked
 so far and what we still need to learn in order to ensure we are driving
 towards meaningful, sustainable outcomes.
 
-Beyond Transparency is a cross-disciplinary survey of the open data
+*Beyond Transparency* is a cross-disciplinary survey of the open data
 landscape, in which practitioners share their own stories of what
 they’ve accomplished with open data. It seeks to move beyond the
 rhetoric of transparency for transparency’s sake and towards action and
@@ -68,10 +68,10 @@ data movement in and of itself.
 
 ### What does this book seek to do? 
 
-Beyond Transparency is a resource for (and by) practitioners inside and
-outside government—from the municipal chief information officer to the
-community organizer to the civic-minded entrepreneur. We aim for this
-book to accomplish a few specific things.
+*Beyond Transparency* is a resource for (and by) practitioners inside
+and outside government—from the municipal chief information officer to
+the community organizer to the civic-minded entrepreneur. We aim for
+this book to accomplish a few specific things.
 
 For a local government looking to start an open data program, we hope
 the lessons outlined here will help them do exactly that.
@@ -88,13 +88,13 @@ And we want lend a voice to many aspects of the open data community. In
 this book, you’ll see perspectives from many different participants that
 comprise an open data ecosystem: public servants, community organizers,
 NGOs, technologists, designers, researchers, journalists, and citizens.
-With Beyond Transparency, we’ve brought together a diverse cross-section
-of the field’s top innovators and leaders to share their stories of what
-has been achieved with open data so far, what they’ve learned along the
-way, and how we can apply those lessons to realize a more promising
-future for America’s cities. As they look back on what’s been
-accomplished so far—and what is yet to come—emergent themes resonate
-throughout their stories.
+With *Beyond Transparency*, we’ve brought together a diverse
+cross-section of the field’s top innovators and leaders to share their
+stories of what has been achieved with open data so far, what they’ve
+learned along the way, and how we can apply those lessons to realize a
+more promising future for America’s cities. As they look back on what’s
+been accomplished so far—and what is yet to come—emergent themes
+resonate throughout their stories.
 
 As the title of this book suggests, the community is realizing the need
 to look beyond the rationale of transparency and instead align open data
@@ -123,7 +123,5 @@ data in Chicago to become what it is today. And above all, thank you to
 the community of practitioners whose work is featured in this book. Your
 ingenuity, hard work, and commitment to innovation illuminate a path
 forward to a stronger public sphere powered by open data.
-
-* * * * *
 
 

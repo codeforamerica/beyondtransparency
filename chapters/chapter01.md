@@ -5,8 +5,8 @@ title: The Promise and Pitfalls of Open Data
 chapter: 1
 ---
 
-What follows is excerpted from a conversation with Bryan Sivak, edited
-for clarity and brevity.
+*What follows is excerpted from a conversation with Bryan Sivak, edited
+for clarity and brevity.*
 
 In 1997, I graduated from college and got a job working for IBM doing
 natural language processing. Just like pretty much everybody else at the
@@ -344,5 +344,6 @@ Murray, C. J. L., & Frenk, J. (2010). Ranking 37th—Measuring the
 Performance of the U.S. Health Care System. The New England Journal of
 Medicine, 362, 98-99. Retrieved from
 http://www.nejm.org/doi/full/10.1056/NEJMp0910064
+
 
 

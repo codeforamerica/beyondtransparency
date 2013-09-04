@@ -5,22 +5,22 @@ title: blank
 ---
 
 
-Chapter 19 
+Chapter 19 {.western}
 ==========
 
-##### Benchmarking Performance Data 
+##### Benchmarking Performance Data {.western}
 
-#### By Ken Wolf and John Fry 
+#### By Ken Wolf and John Fry {.western}
 
-Come senators, congressmen, please heed the call
+*Come senators, congressmen, please heed the call*
 
-Don’t stand in the doorway, don’t block up the hall…
+*Don’t stand in the doorway, don’t block up the hall…*
 
-It’ll soon shake your windows and rattle your walls
+*It’ll soon shake your windows and rattle your walls*
 
-For the times they are a-changin’.
+*For the times they are a-changin’.*
 
-—Bob Dylan, 1964
+—*Bob Dylan, 1964*
 
 Fifty years later, and the times they are still a-changin’. Back in the
 1960s, the battle being fought was about freedom, individuality, and
@@ -67,7 +67,7 @@ improve.
 Let’s start by getting a baseline understanding of what performance
 management is and why we do it.
 
-### What Is Performance Management? 
+### What Is Performance Management? {.western}
 
 Performance management, specifically as it relates to the public sector,
 is a management system to improve the delivery of services using
@@ -132,7 +132,7 @@ alert us when performance is moving in a negative direction so we can
 respond accordingly, and it should highlight positive trends so that we
 know that our actions are keeping us on the right course.
 
-### Why Bother? 
+### Why Bother? {.western}
 
 Having an effective, ongoing performance management process in place is
 the key to running a successful government. Through these processes,
@@ -152,7 +152,7 @@ communication with stakeholders. That means knowing the stakeholders of
 local government and monitoring how a good performance management
 process can properly engage them through the data.
 
-Accountability and Communication
+### Accountability and Communication {.section2-heading-western}
 
 Government accountability is about setting expectations and reporting to
 stakeholders what has been accomplished relative to those expectations.
@@ -166,10 +166,13 @@ The four major stakeholders of local government are:
 
 -   Department heads, who oversee the operations within each service
     area.
+
 -   Municipal management, who coordinate the different service areas and
     are responsible for the implementation of policies.
+
 -   Elected officials, who set policy, may have a management role, and
     are one step from the public.
+
 -   The public, either through individuals or stakeholder groups.
 
 The benefit of a good performance management system is that objective
@@ -180,13 +183,15 @@ of the commonality of the facts. Staff, management, and the public see
 these facts through their individual lenses:
 
 -   Staff: Are we getting the job done?
+
 -   Management: Is the job getting done efficiently and effectively?
+
 -   Public: Are we getting the results we pay for?
 
 To that last point, we are seeing two interesting trends emerge that
 support open data with respect to operational performance.
 
-Public Participation
+### Public Participation {.section2-heading-western}
 
 First, citizens, in part thanks to technological developments, are
 taking a more active role in wanting to understand and contribute to the
@@ -210,7 +215,7 @@ vandalism in their neighborhoods. Technology is increasing the potential
 for citizens to produce services in conjunction with their local
 governments.
 
-High Performance Cultures
+### High Performance Cultures {.section2-heading-western}
 
 At the same time as it is becoming easier for citizens to identify
 problems for their governments, forward-thinking government officials,
@@ -226,7 +231,7 @@ those objectives, strategies, and metrics, he is driving accountability
 and strengthening the relationship between citizens and their government
 leaders.
 
-### How Cities Are Communicating Performance Results With Their Public 
+### How Cities Are Communicating Performance Results With Their Public {.western}
 
 To date, only a small percentage of cities have gone so far as to
 publish their performance strategies and results publicly on their
@@ -239,9 +244,12 @@ certain common characteristics:
 
 -   These initiatives are driven from the very top of the organization,
     often by the mayor or city manager.
+
 -   Performance data is collected, reviewed, and published on a routine
     basis.
+
 -   Department managers are integral to the process.
+
 -   There is a specific part of the organization dedicated to the
     performance management program. In smaller cities, this might be all
     or part of the responsibilities of a single individual. In larger
@@ -255,19 +263,22 @@ these municipalities went about their reporting:
 -   The population sizes range from towns that may have less than 50,000
     residents to the largest of cities throughout the nation, including
     New York City.
+
 -   The frequency of the data reporting varies, including monthly,
     bi-monthly, quarterly, semi-annually, and annually.
 
--   Some report performance against targets and discuss the goals and
-    objectives of their departments, while others do not.
+Some report performance against targets and discuss the goals and
+objectives of their departments, while others do not.
 
 -   The most commonly used source of data is operational measures, which
     are collected by the departments, but some of the cities use citizen
     satisfaction surveys and outcomes based on inspections or other ways
     of determining results of the operations.
+
 -   Several of the cities have found ways to have the public determine
     what measures are important to them, including focus groups, citizen
     surveys, and individual suggestions.
+
 -   There are no apparent correlations between these diverse factors,
     such as a tendency for the larger municipalities to report more (or
     less) frequently.
@@ -276,7 +287,7 @@ We spoke to officials who manage performance programs from four cities
 that are widely known for their performance initiatives. The following
 are highlights of their programs:
 
-San Francisco, California
+### San Francisco, California {.section2-heading-western}
 
 San Francisco’s performance program is called “San Francisco Performs.”
 It is primarily focused on supporting the mayor’s proposed budget and
@@ -301,7 +312,7 @@ budget process… Transparency and the idea of having the data published
 allow citizens to understand how the city is performing and delivering
 services. (Burns, personal communication, 2013.)
 
-Bellevue, Washington
+### Bellevue, Washington {.section2-heading-western}
 
 The City of Bellevue, Washington, has been, “Managing for Results” since
 1997, when the city manager started a performance management program
@@ -330,7 +341,7 @@ to Rich Siegel, Performance & Outreach Coordinator, “We need to let
 citizens know if we are doing better, the same, or worse. We are likely
 to get support for projects when they know how well we are doing.”
 
-Austin, Texas
+### Austin, Texas {.section2-heading-western}
 
 Austin, Texas started “Managing for Results” in 1992. “The core focus of
 the performance program is to focus on the customer,” said Shannon
@@ -351,7 +362,7 @@ displaying the results for the past three years in the context of
 targets for the current and upcoming year. According to Szymczak, “goals
 must be measurable.”
 
-Baltimore, Maryland
+### Baltimore, Maryland {.section2-heading-western}
 
 Baltimore, Maryland, is appropriately credited as a pioneer of the
 CitiStat model. CitiStat and all the management methods known as the
@@ -393,12 +404,12 @@ this data more understandable by providing neighborhood-based
 information and working with local groups who help citizens understand
 the data.
 
-### Lessons Learned 
+### Lessons Learned {.western}
 
 What takeaway points did these four cities, as a group, suggest? How
 have they addressed the challenges of publicly reporting data?
 
-Address Department Concerns of Misinterpretation
+### Address Department Concerns of Misinterpretation {.section2-heading-western}
 
 It is common for department managers to be concerned that the public
 will be critical and misinterpret data because they do not have
@@ -408,9 +419,12 @@ order to reduce the misinterpretation, other responses have included:
 
 -   Emphasize performance exceeding expectations, as well as performance
     not meeting expectations.
+
 -   Ignore individual data points and emphasize stable trends.
+
 -   Emphasize results, rather than activities, to allow the same metrics
     to be reported, even when business processes change.
+
 -   Partner with non-government organizations to present the data to the
     public to increase their understanding.
 
@@ -435,7 +449,7 @@ interpretation of the data or whether it will still need further
 summarization and a results orientation in the public-facing data
 reporting.
 
-Public Use Is Not Extensive
+### Public Use Is Not Extensive {.section2-heading-western}
 
 Most of the cities felt that the use of the data by the public was not
 extensive. Almost all of them recognized the challenge of presenting the
@@ -482,7 +496,7 @@ governments that engage citizens in the performance reporting process.
 GFOA has put an increasing emphasis on performance management in its
 publications and recognizes it in its Awards for Excellence.
 
-Benefits of Public Performance Reporting
+### Benefits of Public Performance Reporting {.section2-heading-western}
 
 The cities we talked to cite increased transparency as a benefit of
 public reporting. Bellevue believes it is the fact that they are
@@ -496,7 +510,7 @@ to the budget and state that doing so has enabled them to get public
 support for capital programs and increases in revenue generation when
 they were needed.
 
-### The Multiplier Effect: Inter-City Collaboration 
+### The Multiplier Effect: Inter-City Collaboration {.western}
 
 Open data is about sharing and exposing information for the good of all.
 In the context of local government, this can be about more than just the
@@ -516,7 +530,9 @@ A good performance management system allows us to answer three basic
 questions:
 
 -   How are we doing?
+
 -   What could we be doing better?
+
 -   How can we learn from our peers to improve?
 
 Up until this point, we have been primarily concerned with the process
@@ -531,7 +547,7 @@ answering the third question, so that we don’t have to reinvent the
 wheel ourselves? The answer lies in the two inter-jurisdictional
 collaborative facets of performance management—compare and learn.
 
-Compare
+### Compare {.section2-heading-western}
 
 By comparing our measures, we gain actionable information. In providing
 a context through comparison, we can assess whether we are doing well or
@@ -539,7 +555,7 @@ not as well as we would like. There are a multitude of contexts and many
 ways to compare any measure. If we filled ten potholes, cleared ten
 crimes, or confined ten fires to the room of origin, are we doing well?
 
-Temporal Comparisons
+### Temporal Comparisons {.section3-heading-western}
 
 The most common context for comparison is to what we normally do,
 whether normal is defined as last month, the same time last year, or a
@@ -549,7 +565,7 @@ any government that routinely collects the same data and uses it to
 monitor its performance. It provides powerful information to see if you
 are doing better or not.
 
-Peer Comparisons
+### Peer Comparisons {.section3-heading-western}
 
 An enhancement to simply seeing if you are doing better is seeing if you
 are doing as well as others. “Benchmarking” is the comparison of our own
@@ -571,7 +587,7 @@ that reflect the level of service provided also help find like peers.
 Providers of twice-a-week solid waste collection would not typically be
 compared to once-a-week collectors.
 
-Comparisons to Targets
+### Comparisons to Targets {.section3-heading-western}
 
 Proactive management does more than just comparing current performance
 after the fact. It motivates better performance and sets goals (through
@@ -588,7 +604,7 @@ measures are compared to these managerial targets, and the differences
 are analyzed and reviewed to initiate the third step of the performance
 management process, which is learning what can be done.
 
-Learn
+### Learn {.section2-heading-western}
 
 The next step is discovering what you can do, based on your measures and
 comparisons, in order to achieve improvement. If you have set managerial
@@ -612,7 +628,7 @@ combining context-specific data with social networking technologies
 offers the promise of practical and efficient capabilities to learn from
 others.
 
-### Towards Performance-Based Collaboration 
+### Towards Performance-Based Collaboration {.western}
 
 At Revelstone, we built an online performance platform, Compass, with
 these three elements of the performance management challenge in
@@ -660,7 +676,7 @@ other in the process, taking advantage of the power of the network to
 drive learning, collaboration, and improved outcomes for all. The open
 data movement is here. “It’ll shake your windows and rattle your halls.”
 
-### About the Authors 
+### About the Authors {.western}
 
 As President and CEO of Revelstone, Ken Wolf is the guiding force behind
 Revelstone’s vision to bring a low cost and easy-to-use performance
@@ -683,12 +699,15 @@ research and computing led to his work in at the Fund for the City of
 New York, where he implemented the first performance management system
 in New York City, Project Scorecard.
 
-### References 
+### References {.western}
 
 [http://logd.tw.rpi.edu/iogds\_data\_analytics](http://logd.tw.rpi.edu/iogds_data_analytics)
 
 2010, GASB issued “Suggested Guidelines for Voluntary Reporting”
 
-* * * * *
+\
+\
 
+\
+\
 

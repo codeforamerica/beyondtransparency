@@ -5,12 +5,12 @@ title: blank
 ---
 
 
-Chapter 15 
+Chapter 15 {.western}
 ==========
 
-##### Local Scale and Local Data 
+##### Local Scale and Local Data {.western}
 
-#### By Alissa Black and Rachel Burstein 
+#### By Alissa Black and Rachel Burstein {.western}
 
 Today, the town hall meeting conjures visions of televised,
 invitation-only debates in which candidates for national office respond
@@ -58,7 +58,7 @@ government—including the sensible release and adequate guidance in the
 use of open data—can offer a path toward developing a new and vibrant
 public square.
 
-### Towards a Twenty-First Century Town Hall 
+### Towards a Twenty-First Century Town Hall {.western}
 
 The local level provides an unparalleled space for government to harness
 the power of community groups, neighborhood associations, other
@@ -97,7 +97,7 @@ Because of this immediate relevance of municipal services to the average
 citizen’s life, the local level is a promising point of entry into
 establishing a modern day public sphere.
 
-### From Data to Engagement 
+### From Data to Engagement {.western}
 
 Any conversation about relationships between government and citizens at
 the local level necessitates a consideration of data. Our cities are
@@ -193,7 +193,7 @@ transportation trips more effectively. This seemingly small action
 changed the public’s expectation for transit planning and transit data
 sharing.
 
-### The Challenge of Inclusive Engagement 
+### The Challenge of Inclusive Engagement {.western}
 
 Open data that powers inclusive citizen engagement requires a level of
 co-governance that goes beyond simply publishing data for transparency’s
@@ -298,7 +298,7 @@ century democracy. But that will only occur if the open data community
 moves forward with sensitivity and wisdom to the realities of our
 cities’ ecosystems and needs.
 
-### About the Authors 
+### About the Authors {.western}
 
 Alissa Black directs the New America Foundation’s California Civic
 Innovation Project. Based in the Bay area, Ms. Black is exploring the
@@ -316,7 +316,7 @@ citizen reporting.
 Rachel Burstein is a research associate at the California Civic
 Innovation Project at the New America Foundation.
 
-### References 
+### References {.western}
 
 Burstein, Rachel (2013). The Case for Strengthening Personal Networks in
 California Local Government: Understanding local government innovation
@@ -334,6 +334,6 @@ http://icma.org/en/icma/knowledge\_network/documents/kn/Document/303818/Form\_of
 Thoreau, Henry David (1854). Slavery in Massachusetts. Retrieved from
 http://www.africa.upenn.edu/Articles\_Gen/Slavery\_Massachusetts.html
 
-* * * * *
-
+\
+\
 

@@ -5,12 +5,12 @@ title: blank
 ---
 
 
-Chapter 5 
+Chapter 5 {.western}
 =========
 
-##### Asheville’s Open Data Journey: Pragmatics, Policy, and Participation 
+##### Asheville’s Open Data Journey: Pragmatics, Policy, and Participation {.western}
 
-#### By Jonathan Feldman 
+#### By Jonathan Feldman {.western}
 
 Much of the open data conversation centers on policy, politics, or
 solving community problems. These are great—and needed—beginning and end
@@ -46,8 +46,8 @@ me?”
 
 Change in general is hard, as those in IT and innovation understand very
 well. The seminal works on change—whether you’re talking Chip and Dan
-Heath’s Switch: How to Change Things When Change is Hard or John P.
-Kotter’s Leading Change—are no less relevant to the open data movement
+Heath’s *Switch: How to Change Things When Change is Hard* or John P.
+Kotter’s *Leading Change*—are no less relevant to the open data movement
 than any other innovation.
 
 In Asheville, North Carolina, where I work, building an awareness of the
@@ -158,15 +158,19 @@ It would be a “big push” to introduce the problems associated with a
 lack of open data to citizens, journalists, business people, elected
 officials, and others in the community and region.
 
--   It would clarify that open data is more than just a government IT or
-    civic-minded individual’s problem.
--   It would feature national speakers from communities that had success
-    stories surrounding the open data problem.
--   It would act as a launch event for our city’s open data portal.
--   It would feature a hackathon that would act as proof of the concept
-    of what could be possible by using the data on the open data portal.
--   Above all else, it would make the problem of open data into a
-    community problem, not just a city government problem.
+It would clarify that open data is more than just a government IT or
+civic-minded individual’s problem.
+
+It would feature national speakers from communities that had success
+stories surrounding the open data problem.
+
+It would act as a launch event for our city’s open data portal.
+
+It would feature a hackathon that would act as proof of the concept of
+what could be possible by using the data on the open data portal.
+
+Above all else, it would make the problem of open data into a community
+problem, not just a city government problem.
 
 In fact, we did exactly that. We brought in Code for America’s Brigade
 director, Kevin Curry, as well as Robert Cheetham from Open Data Philly
@@ -208,19 +212,22 @@ town, was another important organizer group.
 
 In terms of outcomes, the community’s open data day effort resulted in:
 
--   Journalists being able to candidly speak about challenges that they
-    had in getting data.
--   A lower fear level among local government staff regarding the
-    opening of data due to a greater understanding about the consumers
-    of that data and a greater understanding that the benefits outweigh
-    the risks.
--   Great local press coverage, which further educated the community
-    (Forbes, 2012).
--   A successful hackathon, with the winner being an app that mashed up
-    data from bus routes and public art to steer citizens to visit
-    public art via bus.
--   A platform for the launch of a Code for America Brigade called Code
-    for Asheville.
+Journalists being able to candidly speak about challenges that they had
+in getting data.
+
+A lower fear level among local government staff regarding the opening of
+data due to a greater understanding about the consumers of that data and
+a greater understanding that the benefits outweigh the risks.
+
+Great local press coverage, which further educated the community
+(Forbes, 2012).
+
+A successful hackathon, with the winner being an app that mashed up data
+from bus routes and public art to steer citizens to visit public art via
+bus.
+
+A platform for the launch of a Code for America Brigade called Code for
+Asheville.
 
 Challenges and problems naturally remain. Open data shows up so much in
 the ideological world that city staff can still be worried that
@@ -231,7 +238,7 @@ between an open record and open data. Technology and automation is never
 going to declare a record “open” if it is not open by law, but not every
 stakeholder understands that.
 
-Sustainability
+**Sustainability**
 
 Our experience demonstrates that a “product launch” is an effective way
 to get the ideas about problems and solutions out into your community.
@@ -250,7 +257,7 @@ publishing criteria. This makes sure that the politics and policy stay
 with elected officials, the publishing choices city staff makes are
 reasonable, and we are using our time well.
 
-Pragmatics
+### Pragmatics {.section2-heading-western}
 
 Does publishing a dataset save staff time? Does it lower the burden of
 public record requests by automating a frequently requested or
@@ -259,7 +266,7 @@ make the process easier for citizens? Does it contribute to a business
 goal of a citizen-facing business unit (for example, police, fire, or
 development services, to name a few)?
 
-Participation
+### Participation {.section2-heading-western}
 
 This criterion asks how many votes a dataset has on the open data
 catalog site. If two people want it, it’s probably not a great candidate
@@ -268,7 +275,7 @@ dataset receive strong support from the community. When there is clear
 support for a dataset to be published, though, we’ll do our best to get
 it out there.
 
-Policy
+### Policy {.section2-heading-western}
 
 What does our governing board want? If our board says to publish a
 dataset that hasn’t met the other two criteria of “pragmatic” or
@@ -304,7 +311,7 @@ have a barrier to getting it. Therefore, more people are using it,
 without having to hire more staff to handle it. That’s an important
 outcome as well.
 
-Next Steps
+**Next Steps**
 
 Once you launch a data portal, drum up interest, and create
 conversations, it’s my opinion that the right thing to do is back off a
@@ -439,21 +446,21 @@ data is a bad idea.
 
 Good leadership will recognize the pragmatics of open data.
 
-### About the Author 
+### About the Author {.western}
 
 Jonathan Feldman is Chief Information Officer for the City of Asheville,
 North Carolina, where his business background and work as an
-InformationWeek columnist have helped him to develop innovation through
-better business technology and process. Asheville is a rapidly growing
-and popular city; it has been named a Fodor top travel destination, and
-is the site of many new breweries, including New Belgium’s east coast
-expansion. During Jonathan’s leadership, the City has been recognized
-nationally and internationally (including the International Economic
-Development Council New Media, NATOA Community Broadband, and the GMIS
-Best Practices awards) for improving services to citizens and reducing
-expenses through IT innovation.
+*InformationWeek* columnist have helped him to develop innovation
+through better business technology and process. Asheville is a rapidly
+growing and popular city; it has been named a *Fodor* top travel
+destination, and is the site of many new breweries, including New
+Belgium’s east coast expansion. During Jonathan’s leadership, the City
+has been recognized nationally and internationally (including the
+International Economic Development Council New Media, NATOA Community
+Broadband, and the GMIS Best Practices awards) for improving services to
+citizens and reducing expenses through IT innovation.
 
-### References 
+### References {.western}
 
 [http://www.charlotteobserver.com/2013/03/03/3889773/nc-sheriffs-wage-fight-over-gun.html\#.UiZBV2RATy0](http://www.charlotteobserver.com/2013/03/03/3889773/nc-sheriffs-wage-fight-over-gun.html#.UiZBV2RATy0)
 
@@ -461,4 +468,6 @@ expenses through IT innovation.
 
  [http://www.mountainx.com/article/46806/Age-of-Access-Ashevilles-budding-open-data-push](http://www.mountainx.com/article/46806/Age-of-Access-Ashevilles-budding-open-data-push)
 
+\
+\
 

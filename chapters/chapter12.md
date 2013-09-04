@@ -5,12 +5,12 @@ title: blank
 ---
 
 
-Chapter 12 
+Chapter 12 {.western}
 ==========
 
-##### Pioneering Open Data Standards: The GTFS Story 
+##### Pioneering Open Data Standards: The GTFS Story {.western}
 
-#### By Bibiana McHugh 
+#### By Bibiana McHugh {.western}
 
 In 2005, I was working at TriMet, the public transit agency in Portland,
 Oregon, as an IT manager for Geographic Information Services. Earlier
@@ -31,7 +31,7 @@ destinations for driving directions—Google Maps, MapQuest, and Yahoo
 were all widely used at the time—but the data they needed to plan a trip
 using public transit wasn’t available where they were looking.
 
-### Bringing Data to the Citizens 
+### Bringing Data to the Citizens {.western}
 
 As a public servant who had worked to improve public transit for nearly
 a decade, I saw this as a missed opportunity to promote public transit
@@ -96,7 +96,7 @@ something important—something that people cared about. We knew we needed
 to get other agencies on board so that this could expand beyond
 Portland.
 
-### Scaling Up 
+### Scaling Up {.western}
 
 We had held a workshop just before the launch of the Google Transit
 beta, in an attempt to get other agencies and developers on board with
@@ -189,20 +189,21 @@ adoption in the industry. Companies that offer support for the
 production and maintenance for GTFS began to fill an important void in
 the industry. GTFS began to generate business and business incentives.
 
-### Why Standards Matter for Cities 
+### Why Standards Matter for Cities {.western}
 
 I believe there are several important ingredients that made the GTFS
 initiative successful:
 
 -   A collaborative team that started small and designed for a very
     specific use.
+
 -   Releasing the transit data specification in an open standard; the
     simplicity of the specification and format.
+
 -   A tangible business incentive for the transit agencies and for
     private partners to participate.
 
--   The contributions and involvement from the worldwide community of
-    users.
+The contributions and involvement from the worldwide community of users.
 
 The biggest advantage of being part of the GTFS standard for agencies is
 that their information appears in a global set of search products that
@@ -245,7 +246,7 @@ method that ensured access to current and accurate customer information.
 It became apparent that open data in a standard format was the solution
 that was in the best interest of the public.
 
-### Lessons Learned for Designing Scalable Standards 
+### Lessons Learned for Designing Scalable Standards {.western}
 
 Civic data standards are not just limited to the realm of public
 transit. Data is a central component of every facet of public service,
@@ -301,7 +302,7 @@ adopted worldwide voluntarily. Apparent and persuasive ROIs, its
 unpretentious and evolving nature, and its supporting community are all
 key growth factors.
 
-### Standards for Better Public Service 
+### Standards for Better Public Service {.western}
 
 Why did we do all this? I believe it comes back to the core meaning of
 the term “public service.” It is about providing the best experience
@@ -353,7 +354,7 @@ the standard to meet the requirements of many more applications. The end
 result is that it is now just as easy to get transit directions as it is
 to get driving directions from nearly anywhere in the world.
 
-### About the Author 
+### About the Author {.western}
 
 Bibiana McHugh has worked in TriMet’s Information Technology Department
 since 1997 and currently leads a team of innovative web developers and
@@ -366,7 +367,7 @@ Transit, she helped pioneer the now worldwide standard General Transit
 Feed Spec (GTFS). She received a degree in Geography from the University
 of Kansas.
 
-### References 
+### References {.western}
 
 Bay Area Rapid Transit. (2013). For Developers. Retrieved
 from [http://www.bart.gov/schedules/developers/index.aspx](http://www.bart.gov/schedules/developers/index.aspx)
@@ -404,4 +405,6 @@ from [http://trimet.org/apps/](http://trimet.org/apps/)
 TriMet. (2013). Developer Resources. Retrieved
 from [http://developer.trimet.org/](http://developer.trimet.org/)
 
+\
+\
 

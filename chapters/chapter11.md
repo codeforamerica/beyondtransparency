@@ -5,12 +5,12 @@ title: blank
 ---
 
 
-Chapter 11 
+Chapter 11 {.western}
 ==========
 
-##### From Entrepreneurs to Civic Entrepreneurs 
+##### From Entrepreneurs to Civic Entrepreneurs {.western}
 
-#### By Ryan Alfred and Mike Alfred 
+#### By Ryan Alfred and Mike Alfred {.western}
 
 My brother Mike and I never set out to become “civic entrepreneurs.” We
 did not see ourselves as being a part of the “open government”
@@ -93,7 +93,7 @@ entrepreneurship with BrightScope. Though we never intended to build a
 business around “open data” and “open government,” that was precisely
 what we were about to do.
 
-### When “Public Disclosure” Is Not Enough 
+### When “Public Disclosure” Is Not Enough {.western}
 
 Showing up at the Department of Labor for the first time was definitely
 a culture shock. We had been to DC several times before, but mostly to
@@ -172,7 +172,7 @@ approach, we collected enough data to produce our ratings and launch our
 initial DC plan ratings to the public—and thus, our company BrightScope
 became a reality.
 
-### From Adversaries to Partners 
+### From Adversaries to Partners {.western}
 
 If forced to select a single term to define our relationship with the
 DOL up through early 2009, the word “adversarial” would certainly be
@@ -211,14 +211,14 @@ went from being constrained by data to having all of the data at our
 fingertips.
 
 Meanwhile, our public ratings had begun to get serious traction. We
-received numerous write-ups in the Wall Street Journal, the New York
-Times, and other mainstream media, and the traffic to our 401(k) ratings
-pages was on an upward arc. Starting with just eight hundred plans rated
-at launch, we had reached fifteen thousand plans by October and thirty
-thousand plans by the end of December. To process this volume of
-documents, we brought on new engineers and hired and trained a team of
-data analysts. Our team quickly expanded from fewer than ten at launch
-to thirty by the end of the year.
+received numerous write-ups in the *Wall Street Journal*, the *New York
+Times*, and other mainstream media, and the traffic to our 401(k)
+ratings pages was on an upward arc. Starting with just eight hundred
+plans rated at launch, we had reached fifteen thousand plans by October
+and thirty thousand plans by the end of December. To process this volume
+of documents, we brought on new engineers and hired and trained a team
+of data analysts. Our team quickly expanded from fewer than ten at
+launch to thirty by the end of the year.
 
 Our relationship with the DOL has transformed over the years. We have
 spent a tremendous amount of time with DOL staffers and political
@@ -234,7 +234,7 @@ for a variety of purposes. What started as a contentious relationship
 has turned into a true partnership, thanks to the DOL embracing an open
 approach to data.
 
-### Finding Comfort in Transparency 
+### Finding Comfort in Transparency {.western}
 
 The changed relationship at the DOL is thanks to a combination of a
 mindset shift on the part of the department and an adoption of
@@ -277,7 +277,7 @@ the DOL could themselves. So, it makes sense for the DOL to focus on
 platformizing itself and taking advantage of the entrepreneurial energy
 and innovations of the private market.
 
-### Defining Open Data 
+### Defining Open Data {.western}
 
 While BrightScope started with DOL data, as we have grown we have
 gathered data and information from a variety of public sources,
@@ -293,7 +293,7 @@ create. In addition, through this analysis, it is useful to have a
 common framework with which to evaluate the quality of the disclosure,
 both in terms of data openness and legal openness.
 
-### Technical Openness 
+### Technical Openness {.western}
 
 When it comes to technical openness, our first belief is that releasing
 data in whatever state it is in is better than releasing no data at all.
@@ -304,9 +304,9 @@ adoption, the more engagement you can generate around the data you are
 releasing.
 
 The following framework comes from Cass Sunstein, President Obama’s
-regulatory czar, and the author of Nudge: Improving Decisions About
-Health, Wealth, and Happiness and Simpler: The Future of Government. In
-a memorandum for the heads of executive departments and agencies on
+regulatory czar, and the author of *Nudge: Improving Decisions About
+Health, Wealth, and Happiness* and *Simpler: The Future of Government*.
+In a memorandum for the heads of executive departments and agencies on
 September 8, 2011, he describes a simple four-part test he uses to
 define “smart disclosure:”
 
@@ -331,7 +331,7 @@ the reports are narrative attachments to a document (the Form 5500), so
 they still require processing. I would still give the DOL high marks for
 making the most of what they currently receive, though.
 
-### Legal Openness 
+### Legal Openness {.western}
 
 Even once data is technically accessible, it must be open from a legal
 standpoint for it to be truly “open.” The “Open Definition,” as defined
@@ -368,7 +368,7 @@ the public is an important goal, but if that was the only blocking
 issue, I think it could be overcome. I fear that organizations like
 FINRA do not open their data because they are concerned with the
 potential negative impact. As described by Gavin Newsom in his book
-Citizenville:
+*Citizenville*:
 
 [Information] often ends up being used against them. Historically,
 people who request data or information aren’t doing it because they want
@@ -390,7 +390,7 @@ data under a closed license lose the opportunity to cut their costs and
 leverage the combined skills and abilities of web-savvy engineers and
 entrepreneurs all over the world.
 
-### Lowering the Barriers to the Next Generations of Civic Startups 
+### Lowering the Barriers to the Next Generations of Civic Startups {.western}
 
 At BrightScope, we spend a tremendous amount of time collecting,
 processing, and integrating the data we obtain from our government
@@ -482,7 +482,7 @@ open data entrepreneurs and also to the very government agencies and
 departments tasked with regulating the companies, products, and
 industries that presently lack standards.
 
-### Closing Thoughts 
+### Closing Thoughts {.western}
 
 While we did not think of ourselves as civic entrepreneurs when we
 started, our history is really a history of government as a platform and
@@ -497,13 +497,13 @@ opportunities for entrepreneurs. Now, it is up to the open data
 community to work to lower the barriers to entry for future civic
 entrepreneurs.
 
-### About the Authors 
+### About the Authors {.western}
 
 Ryan Alfred is Co-Founder, President and COO of BrightScope, a financial
 information company that brings transparency to opaque markets. Ryan is
 a noted expert and frequent speaker on financial industry regulation and
 is actively engaged in the debate in Washington DC about issues relating
-to retirement. Ryan was named to Forbes’ Top 30 Under 30 in Finance
+to retirement. Ryan was named to *Forbes*’ Top 30 Under 30 in Finance
 (2012) and to the Smart Money Power 30 (2011).
 
 Mike Alfred is Co-Founder and CEO of BrightScope. Previously, Mike was
@@ -511,11 +511,11 @@ the Co-Founder and Portfolio Manager of Alfred Capital Management LLC,
 an independent registered investment firm located in La Jolla, CA. He
 has been a Financial Advisor and Portfolio Manager since 2003. A noted
 and quoted 401k and financial expert, Mike has appeared on CNBC, ABC
-News, Fox Business News, National Public Radio and in the Wall Street
-Journal, the New York Times, USA Today, Forbes, BusinessWeek, and many
-others.
+News, Fox Business News, National Public Radio and in the *Wall Street
+Journal*, the *New York Times*, *USA Today*, *Forbes*, *BusinessWeek*,
+and many others.
 
-### References 
+### References {.western}
 
 Financial Industry Regulatory Authority, Inc. (2013). Legal Notices.
 Retrieved
@@ -543,5 +543,3 @@ from [http://www.whitehouse.gov/sites/default/files/omb/inforeg/for-agencies/in
 The Depository Trust & Clearing Corporation. (2012, November 26). Legal
 Identity Identifier. Retrieved
 from [http://www.dtcc.com/products/dataservices/lei.php](http://www.dtcc.com/products/dataservices/lei.php)
-
-* * * * *

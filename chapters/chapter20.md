@@ -5,14 +5,14 @@ title: blank
 ---
 
 
-Chapter 20 
+Chapter 20 {.western}
 ==========
 
-##### Why Data Must Drive Decisions in Government 
+##### Why Data Must Drive Decisions in Government {.western}
 
-#### By Beth Blauer 
+#### By Beth Blauer {.western}
 
-### The Dawn of the Data-Driven Government 
+### The Dawn of the Data-Driven Government {.western}
 
 The government landscape in 2013 includes a host of challenges and
 opportunities. The economy is uncertain, politics are highly polarized,
@@ -49,7 +49,7 @@ my story of how I arrived at that role, what we accomplished during my
 tenure, and why I have now chosen to move to the private sector to
 create a platform for data-driven governance.
 
-### How I Joined the Data-Driven Government Movement 
+### How I Joined the Data-Driven Government Movement {.western}
 
 For most people, government is an ancillary part of everyday life; that
 is certainly how I saw it before I decided to attend law school. I had a
@@ -105,7 +105,7 @@ pothole response guarantee.
 I observed the success of CitiStat from my role in the juvenile justice
 system and was naturally drawn to the data-based analysis of problems.
 
-### The Birth of Maryland StateStat 
+### The Birth of Maryland StateStat {.western}
 
 When Baltimore’s Mayor O’Malley became Maryland’s Governor O’Malley in
 2006, it was clear that CitiStat would be rolled out statewide. After
@@ -129,9 +129,9 @@ essential to solving these complicated issues. He purposefully pulled
 together people from different departments, and their data, to find
 solutions.
 
-### Stories of Success with StateStat 
+### Stories of Success with StateStat {.western}
 
-Childhood Hunger
+### Childhood Hunger {.section2-heading-western}
 
 Take, for instance, Governor O’Malley’s goal of ending childhood hunger.
 It’s a pretty weighty goal. Plus, it’s hard to quantify success in
@@ -166,7 +166,7 @@ free meals programs, Maryland wouldn’t have been awarded the designation
 of best schools in the country by Education Week five years in a row:
 2008, 2009, 2010, 2011, and 2012 (“Quality Counts 2012,” 2012).
 
-Safety for Foster Children
+### Safety for Foster Children {.section2-heading-western}
 
 In another dramatic story of impact, we worked with the Department of
 Human Resources to find out how foster children in Maryland were faring.
@@ -185,7 +185,7 @@ criminals. We were able to dispatch safety assessments to the most
 worrisome situations. This effort is still one of my proudest
 accomplishments as the Director of StateStat.
 
-Financial Stability
+### Financial Stability {.section2-heading-western}
 
 In 2007, Governor O’Malley decided to raise taxes. We saw the economic
 meltdown as an impending reality so we first sought to identify waste
@@ -201,7 +201,7 @@ funding cuts, but by making data-driven decisions about revenue
 increases and service reductions, the state was one of only nine states
 to retain an AAA bond rating during the recession.
 
-### StateStat’s Results 
+### StateStat’s Results {.western}
 
 The data-driven approach has made a significant impact in Maryland, from
 determining the right approach to better air quality to getting
@@ -248,7 +248,7 @@ efficiency and make the right decisions for citizens, we needed to
 understand which services were the most valuable. The answers were in
 the data.
 
-### The Shift to Open Data 
+### The Shift to Open Data {.western}
 
 Our biggest challenge with early StateStat was that the data was coming
 from multiple places. Without secure databases, we didn’t have a central
@@ -277,19 +277,19 @@ to spend the money.
 Our efforts toward transparency through open data sparked a citizen-led,
 quality-of-life movement in the state.
 
-### The Essentials of Data-Driven Government Success 
+### The Essentials of Data-Driven Government Success {.western}
 
 After five years at StateStat, I felt like we had a good method for
 using data to make better decisions and engage the community. The three
 basic guidelines I developed were to:
 
--   Curate data and inform people about the government conversation.
+Curate data and inform people about the government conversation.
 
 -   Let developers access the data and allow the ecosystem to flourish.
 
--   Nurture a collaborative environment where data analysts talk with
-    the government and developers, and everyone understands the big
-    picture and feels empowered to take risks and set ambitious goals.
+Nurture a collaborative environment where data analysts talk with the
+government and developers, and everyone understands the big picture and
+feels empowered to take risks and set ambitious goals.
 
 Meanwhile, Governor O’Malley defined the leadership style needed to be
 successful. He bred this technology-based accountability into every
@@ -306,7 +306,7 @@ StateStat-style approach reproduced by governments worldwide. A strong
 leader is the key to ensuring widespread, long-term adoption within an
 organization.
 
-### Why I Moved to the Private Sector 
+### Why I Moved to the Private Sector {.western}
 
 While working on the open data architecture within the StateStat model,
 I collaborated with our open data platform provider, Socrata, to
@@ -353,7 +353,7 @@ this approach and spread the word that the often-difficult task of
 running government can absolutely work and bring amazing results for
 all.
 
-### The Future of Data-Driven Performance Management in Government 
+### The Future of Data-Driven Performance Management in Government {.western}
 
 The success we have had in Maryland has drawn attention from other
 states and cities. During my time as Director of StateStat, many
@@ -431,14 +431,14 @@ locally, nationally, and globally. The tighter we weave together open
 data and performance, the faster we can realize the results and the
 richer the data will be.
 
-### About the Author 
+### About the Author {.western}
 
 Beth Blauer is director of GovStat for Seattle-based Socrata, an open
 data platform provider. She served from 2008 to 2012 as director of
 Maryland’s StateStat and the Governor’s Delivery Unit for Maryland
 Governor Martin O’Malley.
 
-### References 
+### References {.western}
 
 Education Week. (2012). Quality Counts 2012: The Global
 Challenge. Education Week, 31 (16). Retrieved
@@ -456,8 +456,9 @@ O’Malley, Martin, State of Maryland. (2013, January 30). State of the
 State: Better Choice; Better Results. Retrieved from
 [http://www.governor.maryland.gov/documents/2013StateoftheState.pdf](http://www.governor.maryland.gov/documents/2013StateoftheState.pdf)
 
-* * * * *
+\
+\
 
-[](http://www.governor.maryland.gov/documents/2013StateoftheState.pdf)
-
+\
+\
 

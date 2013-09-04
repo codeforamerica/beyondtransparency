@@ -5,10 +5,13 @@ title: blank
 ---
 
 
-Appendix I 
+\
+\
+
+Appendix I {.western}
 ==========
 
-##### Further Reading 
+##### Further Reading {.western}
 
 Open Data Field Guide – Socrata
 
@@ -22,4 +25,14 @@ Foundation for an Open Source City – Jason Hibbets
 
 Smart Cities – Anthony Townsend
 
+\
+\
+
+1
+
+\
+\
+
+\
+\
 

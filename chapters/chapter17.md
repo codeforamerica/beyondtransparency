@@ -5,14 +5,14 @@ title: blank
 ---
 
 
-Chapter 17 
+Chapter 17 {.western}
 ==========
 
-##### New Thinking in How Governments Deliver Services 
+##### New Thinking in How Governments Deliver Services {.western}
 
-#### By Mark Headd 
+#### By Mark Headd {.western}
 
-### Introduction 
+### Introduction {.western}
 
 Open data programs provide a number of important benefits for
 governments and the citizens they serve. At the most basic level, these
@@ -27,7 +27,7 @@ problems with incumbent processes that are used by governments to
 procure technology solutions and services and provide insight into how
 these older processes might be improved.
 
-### Unlocking the Power of Open Data 
+### Unlocking the Power of Open Data {.western}
 
 The concept of “government as a platform”—an idea best, and most
 famously, articulated by Tim O’Reilly (2010), the founder of O’Reilly
@@ -36,7 +36,7 @@ movements—often references the iPhone as an example of a platform done
 well. The decision in 2008 by Apple chief executive Steve Jobs to allow
 independent developers to build apps that would work on the iPhone
 “platform” has made the now ubiquitous device the success that it is. As
-noted in a 2012 New York Times article by David Streitfeld:
+noted in a 2012 *New York Times* article by David Streitfeld:
 
 The App Store opened in July 2008 with 500 apps. In an interview, Mr.
 Jobs laid bare the company’s goal: “Sell more iPhones.” Thanks to the
@@ -104,7 +104,7 @@ Transportation Authority, which serves the Philadelphia area—are now
 actively advertising apps built by independent developers to their
 riders.
 
-### Beyond Public Transit: The Limits of Open Data 
+### Beyond Public Transit: The Limits of Open Data {.western}
 
 This fundamental shift away from government as the sole solution
 provider to a data steward is now taking hold outside the world of
@@ -151,7 +151,7 @@ sector entities to procure goods and services is often cited as a major
 barrier to introducing innovation—particularly the use of new
 technologies—into government operations.
 
-### Looking Ahead: Three Hard Truths for Government Procurement Reform 
+### Looking Ahead: Three Hard Truths for Government Procurement Reform {.western}
 
 Advancing the innovation agenda within government often means
 confronting the harsh reality of the government procurement process.
@@ -175,7 +175,7 @@ focusing on open government data as a foundational component for
 systematic change in how governments deliver services and information to
 those they serve.
 
-Balancing Values
+### Balancing Values {.section2-heading-western}
 
 The arguments in favor of reforming the government procurement process
 bear a striking similarity to arguments used by advocates for
@@ -257,7 +257,7 @@ this type to be relaxed or removed, or are there ways to relax these
 provisions without compromising the laudable outcomes they seek to
 encourage? This remains to be seen.
 
-Nimbler Doesn’t Always Mean Better
+### Nimbler Doesn’t Always Mean Better {.section2-heading-western}
 
 The great myth in government IT is that the private sector is always way
 ahead of the public sector in how technology is used.
@@ -298,7 +298,7 @@ to think more strategically about how they invest in technology and
 become better at learning how it can be used to make the delivery of
 public services more efficient and effective.
 
-A Dearth of Makers Inside Government
+### A Dearth of Makers Inside Government {.section2-heading-western}
 
 My experience working as a software developer for several years, and
 continuing to work with other developers from a variety of disciplines
@@ -370,7 +370,7 @@ focus on developing the “maker skills” of existing employees. This, by
 extension, will enhance the ability of governments to evaluate the
 estimates for work provided by respondents to RFPs.
 
-### Conclusion 
+### Conclusion {.western}
 
 Government open data programs and the independent apps they help
 generate provide tremendously helpful ways of fostering new approaches
@@ -392,7 +392,7 @@ The job of overhauling existing government procurement processes to
 encourage innovation will not be an easy one, but one of the many
 benefits of open data is that it has led to this important discussion.
 
-### About the Author 
+### About the Author {.western}
 
 Mark Headd is a writer, speaker, teacher, and thought leader on web
 development, open government and civic hacking. Self taught in
@@ -413,7 +413,7 @@ cities of New York, San Francisco, Toronto, Baltimore, and Philadelphia.
 He is an organizer, judge, sponsor, and participant in civic hacking
 events across the country, including Philadelphia and Baltimore.
 
-### References 
+### References {.western}
 
 Center for Technology in Government. (2012). The Dynamics of Opening
 Government Data. Albany, NY: Helbig, N., Cresswell, A. M., Burke, G. B.,
@@ -425,5 +425,5 @@ O’Reilly, Tim (2010). Government as a Platform. In Open Government
 from http://ofps.oreilly.com/titles/9780596804350/defining\_government\_2\_0\_lessons\_learned\_.html
 
 Streitfeld, D. (2012, Nov. 17). As Boom Lures App Creators, Tough Part
-Is Making a Living. The New York Times. Retrieved
+Is Making a Living. The *New York Times*. Retrieved
 from http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html?pagewanted=4

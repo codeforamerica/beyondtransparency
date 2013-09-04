@@ -134,14 +134,17 @@ However, along the way, a couple of critical items needed to happen in
 order to ensure that the data was secure and could be rendered into a
 releasable form:
 
--   The addresses needed to be block-reduced to protect privacy.
--   Spatial coordinates also had to be scattered to assist with privacy
-    protection.
--   Updates needed to be captured and replicated into the dataset as the
-    source system records were updated.
--   Since the Crimes dataset was to be one of their first large
-    datasets, the Socrata platform needed to be able to efficiently
-    handle uploads, updates, and queries.
+The addresses needed to be block-reduced to protect privacy.
+
+Spatial coordinates also had to be scattered to assist with privacy
+protection.
+
+Updates needed to be captured and replicated into the dataset as the
+source system records were updated.
+
+Since the Crimes dataset was to be one of their first large datasets,
+the Socrata platform needed to be able to efficiently handle uploads,
+updates, and queries.
 
 We successfully completed all of these steps, experiencing some pain
 along the way, but the process eventually came together. As of April
@@ -224,13 +227,13 @@ sets and ongoing financial resources. Instead, a standards-based data
 portal allows us to be the platform, as O’Reilly suggests, and support
 the innovative ideas cultivated by various communities.
 
-### Successfully Implementing an Open Data Program {.c1}
+### Successfully Implementing an Open Data Program 
 
 After two years of building a successful program in the City of Chicago,
 there are a series of critical points that can be leveraged as other
 cities consider implementing or expanding open data.
 
-Architecture
+### Architecture {.section2-heading-western}
 
 Building a large, useful, machine-readable, and meaningful data portal
 is a non-trivial technical task. First, of course, comes the question of
@@ -266,7 +269,7 @@ the issue is trivial. However, what if you want to load something like
 GPS coordinates of your assets? In Chicago, that would be approximately
 ten million rows a day. That would stress most environments.
 
-Sustainability
+### Sustainability {.section2-heading-western}
 
 It may seem odd to call out this very specific point, but I suspect it
 is one of the most critical: the sustainability of the overall design.
@@ -295,7 +298,7 @@ honest. Lastly, it creates sustainability. The program ceases to become
 about a single individual and, instead, becomes a programmatic area
 within the technological organization.
 
-Fear
+### Fear {.section2-heading-western}
 
 There is a strong institutional fear of open data. In a culture of
 “gotcha” journalism, the idea of something being disclosed that could
@@ -314,7 +317,7 @@ create a “let’s make it work together” ethos. I explained that if every
 mistake I made got blown into a major incident, it would stymie our
 collaborative goals. In Chicago, they took this to heart. We created a
 team effort, working with Joe Germuska from the Northwestern University
-Knight Lab, and formerly of the Chicago Tribune, along with Daniel X.
+Knight Lab, and formerly of the *Chicago Tribune*, along with Daniel X.
 O’Neil of the Smart Chicago Collaborative. We would regularly convene
 via Twitter, email, or phone, or at meet-ups. This worked out
 particularly well as we strived to conquer large and complicated
@@ -355,7 +358,7 @@ the news organization, that allowed for the relationship building. These
 people believed that our open data plan was bigger than the single story
 and that we were building a broader system.
 
-### Becoming Part of Day-to-Day Operations {.c1}
+### Becoming Part of Day-to-Day Operations 
 
 As the open data program in Chicago became a robust and useful platform,
 the question came as to how we should take it to the next level. In the
@@ -385,7 +388,7 @@ certainly a model that can be conducive to success. It is critical to
 create a viable program before becoming overly prescriptive about its
 functions.
 
-### The Bare Minimum to be Successful {.c1}
+### The Bare Minimum to be Successful 
 
 In order for an open data program to be truly successful, it requires
 two key items that are, in fact, also a broader lesson for many
@@ -437,7 +440,7 @@ These lessons from Chicago’s rapid scaling up of our program will help
 inform the next generation of open data initiatives, as new models for
 growth and sustainability of open data emerge.
 
-### About the Author {.c1}
+### About the Author 
 
 Brett Goldstein is the former Chief Data and Information Officer for the
 City of Chicago. In 2013, he was named the inaugural recipient of the
@@ -449,7 +452,7 @@ online real-time restaurant reservation service OpenTable. Goldstein is
 currently pursuing his PhD in Criminology, Law and Justice at the
 University of Illinois-Chicago.
 
-### References {.c1}
+### References 
 
 O’Reilly, Tim. (2010). Government as a Platform. In Open Government
 (Chapter 1). Retrieved
@@ -462,5 +465,3 @@ from [http://www.cityofchicago.org/city/en/narr/foia/open\_data\_executiveorder
 Tareen, S. (2011, September 14).  Chicago to publish crime stats online.
 The Washington Times. Retrieved from
 http://www.washingtontimes.com/news/2011/sep/14/apnewsbreak-chicago-to-publish-crime-stats-online/?page=all
-
-

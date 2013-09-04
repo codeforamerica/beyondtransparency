@@ -5,16 +5,16 @@ title: blank
 ---
 
 
-CHAPTER 8 
+CHAPTER 8 {.western}
 =========
 
-##### Generating Economic Value through Open Data 
+##### Generating Economic Value through Open Data {.western}
 
-#### By Michael Chui, Diana Farrell, and Steve Van Kuiken 
+#### By Michael Chui, Diana Farrell, and Steve Van Kuiken {.western}
 
-The authors wish to thank their colleague Peter Groves, a principal at
+*The authors wish to thank their colleague Peter Groves, a principal at
 McKinsey & Company based in New Jersey, for his substantial
-contributions to this article.
+contributions to this article.*
 
 The private and public sectors have begun to embrace “big data” and
 analytics to improve productivity and enable innovation. We have
@@ -55,7 +55,7 @@ from our research into open data in healthcare (See “The ‘Big Data’
 revolution in healthcare,” McKinsey Center for U.S. Healthcare Reform
 and Business Technology).
 
-### Definitions 
+### Definitions {.western}
 
 It’s helpful to first clarify what we mean by open data. We use four
 criteria to define open data:
@@ -64,12 +64,13 @@ criteria to define open data:
     accessible outside of the organization that generated or collected
     it.
 
--   Machine-readable: Data must be useable, which means it must be made
-    available in formats that are easily used in third-party
-    applications.
--   Free: Zero or low costs for data access aid openness.
--   Unrestricted rights to use: Data that is unencumbered by contractual
-    or other restrictions leads to the maximum potential of innovation.
+Machine-readable: Data must be useable, which means it must be made
+available in formats that are easily used in third-party applications.
+
+Free: Zero or low costs for data access aid openness.
+
+Unrestricted rights to use: Data that is unencumbered by contractual or
+other restrictions leads to the maximum potential of innovation.
 
 However, we also recognize that these are the ideals of “openness” and
 there is still significant value in making data more widely available,
@@ -101,7 +102,7 @@ can opt in to make their data available to other service providers
 (e.g., a service that analyzes energy consumption and suggests ways in
 which to improve energy efficiency).
 
-### Why now? 
+### Why now? {.western}
 
 It’s also worth considering why the open data movement is gathering
 momentum. First, the amount and variety of valuable data that is being
@@ -132,7 +133,7 @@ more datasets. Individuals can develop applications that use open data,
 reflecting their interests, rather than relying on data services
 provided by large organizations.
 
-### How Open Data creates economic value 
+### How Open Data creates economic value {.western}
 
 Our emerging hypothesis is that the effective use of open data can
 unlock significant amounts of economic value. For example, in US
@@ -151,7 +152,7 @@ So what are some of the archetypes for value creation that we
 discovered? Building on our big data research, we see five common ways
 in which the use of open data can unlock value.
 
-Transparency
+### Transparency {.section2-heading-western}
 
 In many cases, we find that decisions are made without access to
 relevant data. Simply providing data to the right decision maker at the
@@ -165,7 +166,7 @@ patients go to the right care setting (e.g., the one with the best
 record of outcomes and the best costs) could unlock \$50 to \$70 billion
 in annual value.
 
-Exposing variability and enabling experimentation
+### Exposing variability and enabling experimentation {.section2-heading-western}
 
 Closely related to transparency is the concept of exposing variability
 in processes and outcomes, then using experimentation to identify the
@@ -178,7 +179,7 @@ design and analyze the outcomes of purposeful experimentation to
 determine which organizational or teaching techniques raise student
 achievement.
 
-Segmenting populations to tailor actions
+### Segmenting populations to tailor actions {.section2-heading-western}
 
 Open data can also be used to ensure that individuals and organizations
 receive the products and services that best meet their needs. There is
@@ -190,7 +191,7 @@ its targeted offers to customers who both have sufficient roof area, and
 sufficient solar exposure by using aerial imagery and weather data
 available from public sources.
 
-Augmenting and/or automating human decision-making
+### Augmenting and/or automating human decision-making {.section2-heading-western}
 
 Open data can be used to augment the data that is being analyzed to
 improve or automate decision-making. We know from research in behavioral
@@ -206,7 +207,7 @@ open data traffic information, it is possible to create systems that
 automatically adjust the timing of traffic signals to relieve
 congestion.
 
-Creating new products, services and business models
+### Creating new products, services and business models {.section2-heading-western}
 
 Some of the most exciting applications of open data come about when it
 is used to create new products and services by existing companies, or to
@@ -218,14 +219,14 @@ inhalers with open environmental data (e.g., pollen counts and data on
 other allergens) to develop personalized treatment plans for patients
 with asthma.
 
-### Enablers to create economic value 
+### Enablers to create economic value {.western}
 
 Successful open data initiatives have many elements and the open data
 community is beginning to share practices and stories to make success
 more likely. Based on our ongoing research, we suggest that the
 following elements are needed for a successful open data initiative.
 
-Prioritize open data efforts according to potential value
+### Prioritize open data efforts according to potential value {.section2-heading-western}
 
 Too often, open data initiatives seem to prioritize releasing data based
 on the ease of implementation (i.e., making available the data that is
@@ -243,7 +244,7 @@ innovators, even if it’s not clear how it will be used. But in the near
 term, considering potential value creation along with ease of
 implementation should be part of the prioritization process.
 
-Activate a thriving ecosystem of developers to use open data
+### Activate a thriving ecosystem of developers to use open data {.section2-heading-western}
 
 To a certain extent, open data is a “platform play,” i.e., a foundation
 on which third parties can build innovative products and services. Tim
@@ -262,7 +263,7 @@ activating an ecosystem of developers to consume open data, as they
 convene developers at common events, celebrating successes and raising
 the visibility of and excitement around open data.
 
-Build the infrastructure to manage data
+### Build the infrastructure to manage data {.section2-heading-western}
 
 Clearly, a scalable and reliable data infrastructure has to be put in
 place. Ideally, an institution’s internal data infrastructure will be
@@ -274,7 +275,7 @@ IT services to have standard application program interfaces. Then, when
 it wants to expose a new service that it has developed internally to the
 outside world, the process is relatively straightforward.
 
-Identify channels to release data
+### Identify channels to release data {.section2-heading-western}
 
 Thoughtful consideration must also be given to the channels through
 which open data is distributed. These decisions can greatly affect the
@@ -284,7 +285,7 @@ provide appropriate metadata to help guide the users to the data? Do you
 provide means through which users of the data are alerted automatically
 when data has been updated?
 
-Protect data that needs to be protected
+### Protect data that needs to be protected {.section2-heading-western}
 
 Some institutions have decided to make “open” the default for their
 data. However, there are often good reasons not to release all of an
@@ -294,7 +295,7 @@ Thoughtfully identifying the criteria for such restrictions will be
 important; they could include safety, security, privacy, liability,
 intellectual property, and confidentiality.
 
-Provide leadership to the open data community
+### Provide leadership to the open data community {.section2-heading-western}
 
 Last but not least, a successful open data program needs real leadership
 and a commitment to supporting an open data culture. In some cases, the
@@ -311,7 +312,7 @@ suggestions.
 
 Particularly for smaller municipalities, it can be a challenge to find
 the resources, both financial as well as human, to invest in open data
-initiatives. One point  that can help the investment case for open data
+initiatives. One point  that can help the investment case for open data
 is that much of the infrastructure for open data, e.g. building internal
 IT service interfaces as if they were external interfaces, actually
 improves the efficiency and scalability of the institution itself.
@@ -330,7 +331,7 @@ potential, particularly for stakeholders outside of the organization
 opening its data, and how to effectively create an ecosystem of data
 users, will be essential in order to generate this value.
 
-### About the Authors 
+### About the Authors {.western}
 
 Dr. Michael Chui is a principal of the McKinsey Global Institute (MGI),
 McKinsey’s business and economics research arm, where he leads research
@@ -353,7 +354,7 @@ developing and executing technology strategies, including payors and
 providers, pharmaceutical and medical products companies, and IT
 providers to the industry. He is based in McKinsey’s New Jersey office.
 
-### References 
+### References {.western}
 
 Manyika, J., Chui, M., Brown, B., Bughin, J., Dobbs, R., Roxburgh, C., &
 Hung Byers, A. (2011). Big Data: The next frontier for innovation,
@@ -364,4 +365,6 @@ http://www.mckinsey.com/insights/business\_technology/big\_data\_the\_next\_fron
 O’Reilly, Tim (2011). Government as a Platform. Innovations, Winter
 2011, Vol. 6, No. 1, Pages 13-40.
 
+\
+\
 

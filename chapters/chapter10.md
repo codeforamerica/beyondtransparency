@@ -5,12 +5,12 @@ title: blank
 ---
 
 
-Chapter 10 
+Chapter 10 {.western}
 ==========
 
-##### Open Data and Open Discourse at Boston Public Schools 
+##### Open Data and Open Discourse at Boston Public Schools {.western}
 
-#### By Joel Mahoney 
+#### By Joel Mahoney {.western}
 
 I am a firm believer in the people. If given the truth, they can be
 depended upon to meet any national crisis. The great point is to bring
@@ -18,12 +18,12 @@ them the real facts.
 
 —Abraham Lincoln
 
-### Inside the Maze 
+### Inside the Maze {.western}
 
-In March of 2011, the City of Boston had a problem: the Boston Globe had
-just published a special multimedia series titled “Getting In: Inside
-Boston’s School Assignment Maze” that offered a critical view of
-Boston’s school assignment policies (Boston Globe, 2011). The report
+In March of 2011, the City of Boston had a problem: the *Boston Globe*
+had just published a special multimedia series titled “Getting In:
+Inside Boston’s School Assignment Maze” that offered a critical view of
+Boston’s school assignment policies (*Boston Globe*, 2011). The report
 profiled thirteen families entering the Boston public school system, and
 traced their hopes and frustrations as they navigated the complicated
 school selection process. The following quotes from interviews with the
@@ -74,12 +74,12 @@ The simple act of sending a child to school involves some of society’s
 most divisive issues.
 
 By highlighting the school assignment problem in their 2011 report, the
-Boston Globe brought a longstanding issue back into the public
+*Boston Globe* brought a longstanding issue back into the public
 spotlight. The report sparked high-level conversations in City Hall and
 made it difficult for the School Department to ignore the problem. The
 criticism demanded a response.
 
-### Coding for America 
+### Coding for America {.western}
 
 In January 2011, Code for America began work in Boston as part of an
 eleven-month engagement with the City I was part of a five-person
@@ -91,18 +91,18 @@ teammate Scott Silverman.
 
 Our main project was a “trust framework” that would allow developers to
 build innovative services on top of student information—a kind of “app
-store for students.” By the time the Globe article was published in
+store for students.” By the time the *Globe* article was published in
 March, however, the viability of the project was in doubt: BPS lawyers
 were taking a conservative stance toward the possibility of opening
 data, so we shifted our focus to other projects that would be less
 reliant on open data.
 
-After the Globe report was published, however, we sensed an opportunity
-to make progress with the city around the sensitive topic of open data.
-In an early meeting with the School Department, the Superintendent
-suggested that we build an application to help parents through the
-school discovery process. We realized that the project would be an
-excellent opportunity to clarify the eligibility rules in context,
+After the *Globe* report was published, however, we sensed an
+opportunity to make progress with the city around the sensitive topic of
+open data. In an early meeting with the School Department, the
+Superintendent suggested that we build an application to help parents
+through the school discovery process. We realized that the project would
+be an excellent opportunity to clarify the eligibility rules in context,
 especially considering the existing tools—a twenty-eight-page parent
 handbook, and a home-grown BPS website called “What Are My
 Schools?”—left much to be desired. In July of 2011, we began work on a
@@ -141,7 +141,7 @@ goals of Code for America—improving citizen engagement by making
 government services more open, efficient and participatory—I can’t
 imagine a much higher form of praise.
 
-### Algorithmic Regulation 
+### Algorithmic Regulation {.western}
 
 It is important to note the backdrop for the Superintendent’s remark: I
 met her at a town hall meeting in February of 2013 where BPS officials
@@ -205,8 +205,8 @@ location, which he believed were poorly addressed by fixed geographical
 zones. His solution used an algorithm to ensure that each student had
 access to a guaranteed number of high-quality choices (as defined by the
 School Department using test scores and other metrics), no matter where
-in the city the student lived. According to a New York Times article on
-the topic by Katharine Seelye (2013), “He started saying things like,
+in the city the student lived. According to a *New York Times* article
+on the topic by Katharine Seelye (2013), “He started saying things like,
 ‘What I’m hearing is, parents want close to home but they really care
 about quality… I’m working on something to try to meet those two goals.’
 He didn’t have a political agenda.”
@@ -231,7 +231,7 @@ it uses to assign students). (Seelye, 2013)
 This description would have applied equally well to our work in Boston
 as Code for America Fellows.
 
-### Data and Discourse 
+### Data and Discourse {.western}
 
 The Boston school assignment story shows the power of open data to shift
 the public discourse around social issues. The Boston Globe made its
@@ -267,7 +267,7 @@ embracing technological solutions—consider what it means that the School
 Department can no longer pin assignment zone maps on the wall, since the
 algorithm generates a unique list of eligible schools for each address.
 
-##### Conclusion 
+##### Conclusion {.western}
 
 Our work in Boston shows how open data can catalyze change around even
 the most contentious social issues. At first, we tried to affect change
@@ -288,7 +288,7 @@ transparent measure of progress towards those goals. Indeed, as Abraham
 Lincoln noted, with “real facts” even the most challenging social issues
 can be met.
 
-### About the Author 
+### About the Author {.western}
 
 Joel Mahoney is an entrepreneur and former Code for America Fellow. He
 is the creator of [DiscoverBPS.org](http://discoverbps.org/),
@@ -296,13 +296,13 @@ which helps Boston parents to find the best public schools for
 their kids, and the co-founder of
 [OpenCounter.us](http://opencounter.us/), which helps entrepreneurs to
 navigate business permitting. His work on
-[DataDonor.org](http://datadonor.org/) explores the use of personal data
+[DataDonor.org](http://datadonor.org/) explores the use of personal data
 as a new medium of charitable contribution.
 
-### References 
+### References {.western}
 
-Boston Globe (2011). Getting In: Inside Boston’s School Assignment Maze
-[Multimedia series]. The Boston Globe. Retrieved from
+*Boston Globe* (2011). Getting In: Inside Boston’s School Assignment
+Maze [Multimedia series]. The *Boston Globe*. Retrieved from
 http://www.boston.com/news/education/specials/school\_chance/index/
 
 City of Boston. (2012). The Honorable Mayor Thomas M. Menino: State of
@@ -314,5 +314,5 @@ Massacre. Policy Review, 98. Retrieved from
 http://www.hoover.org/publications/policy-review/article/7768
 
 Seelye, Katherine Q. (2013, March 12). No Division Required in This
-School Problem. The New York Times. Retrieved from
+School Problem. The *New York Times*. Retrieved from
 http://www.nytimes.com/2013/03/13/education/no-division-required-in-this-school-problem.html?\_r=0

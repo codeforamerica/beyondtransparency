@@ -5,12 +5,12 @@ title: blank
 ---
 
 
-Chapter 9 
+Chapter 9 {.western}
 =========
 
-##### The Beginning of a Beautiful Friendship: Data and Design in Innovative Citizen Experiences 
+##### The Beginning of a Beautiful Friendship: Data and Design in Innovative Citizen Experiences {.western}
 
-#### By Cyd Harrell 
+#### By Cyd Harrell {.western}
 
 The past decade has brought enormous and growing benefits to ordinary
 citizens through applications built on public data. Any release of data
@@ -24,7 +24,7 @@ impossible to design innovative citizen experiences without data, but
 that data will not reach its full potential without careful choices
 about how to aggregate, present, and enable interaction with it.
 
-### Why Design Matters 
+### Why Design Matters {.western}
 
 Public data is rarely usable by ordinary citizens in the form in which
 it is first released. The release is a crucial early step, but it is
@@ -103,7 +103,7 @@ it will require understanding citizen needs, behaviors, and mental
 models, and making choices about how to use data to support all of
 those. In other words, it will require design.
 
-### Where Does Design Come In? 
+### Where Does Design Come In? {.western}
 
 Data science can be understood in terms of seven stages: acquire, parse,
 filter, mine, represent, refine, and interact (Fry, 2004). For the
@@ -142,7 +142,7 @@ use, but it does a great deal to return this data, which is collected by
 the government and owned by the people, to the people in a form in which
 they can use it.
 
-### Examples From a Design Perspective 
+### Examples From a Design Perspective {.western}
 
 There’s more to designing open data well than just making it searchable
 and presenting it attractively. In a recent study of US counties’
@@ -276,7 +276,7 @@ reducing the burden required to extract meaning (i.e. the specific
 information categories they care about) from public data, it uses design
 to make the information more accessible to everyone.
 
-### How Do Successful Collaborations Between Officials, Data Geeks, and Designers Work? 
+### How Do Successful Collaborations Between Officials, Data Geeks, and Designers Work? {.western}
 
 Design is a less familiar field to some members of the open data
 community, but it shouldn’t be intimidating. Designers, in particular
@@ -319,7 +319,7 @@ documented and require less time to learn than a new programming
 language. So, design can play a role as an activity, as well as a team
 member.
 
-### What Could Open Design Look Like? 
+### What Could Open Design Look Like? {.western}
 
 Whenever I write about design in government systems or open data, I run
 up against the question of whether design, too, can be open. While the
@@ -355,7 +355,7 @@ goals could be a useful starting point for a team working on a transit
 app anywhere. We need to develop better mechanisms for this level of
 sharing as we develop a culture of open civic design.
 
-### Conclusion 
+### Conclusion {.western}
 
 Design is a critical practice for enabling open data to reach its full
 transformative potential. Without citizens being able to interact with
@@ -372,7 +372,7 @@ bring our best design ideas into our shared movement and take advantage
 of everything the discipline has to offer. With design, we can give the
 public back its data in real use, as well as in name.
 
-### About the Author 
+### About the Author {.western}
 
 Cyd Harrell is a user experience expert with over fifteen years of
 experience improving online and software products. As Code for America’s
@@ -381,14 +381,14 @@ and cost-effective civic technology that serves the needs of real users.
 Previously she has been a Board Member at Brightworks School and the VP
 of UX Research at Bolt Peters.
 
-### References 
+### References {.western}
 
 Chisnell, D. (2012, December 6). What I’m working on now. (Web log).
 Retrieved
 from [http://civicdesigning.org/featured-story/what-im-working-on-now/](http://civicdesigning.org/featured-story/what-im-working-on-now/)
 
 Clifford, S. (2010, August 23). Nordstrom Links Online Inventory to Real
-World. The New York Times. Retrieved
+World. The *New York Times*. Retrieved
 from http://www.nytimes.com/2010/08/24/business/24shop.html?\_r=0
 
 Fry, B.J. (2004). Computational Information Design. (Doctoral
@@ -399,7 +399,9 @@ Government Digital Service. (2012). Design Principles. Retrieved
 from [https://www.gov.uk/designprinciples](https://www.gov.uk/designprinciples)
 
 Graham, R. (2013, April 14). What baby names say about everything
-else. The Boston Globe. Retrieved
+else. The *Boston Globe*. Retrieved
 from [http://www.bostonglobe.com/ideas/2013/04/13/what-baby-names-say-about-everything-else/Ln9kVOl9haGhFoHwQv9h7I/story.html](http://www.bostonglobe.com/ideas/2013/04/13/what-baby-names-say-about-everything-else/Ln9kVOl9haGhFoHwQv9h7I/story.html)
 
+\
+\
 
