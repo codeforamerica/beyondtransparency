@@ -7,13 +7,6 @@ twitter: _jfeldman
 permalink: /5-ashevilles-open-data-journey/
 --- 
 
-Chapter 5 
-=========
-
-##### Asheville’s Open Data Journey: Pragmatics, Policy, and Participation 
-
-#### By Jonathan Feldman 
-
 Much of the open data conversation centers on policy, politics, or
 solving community problems. These are great—and needed—beginning and end
 points, but there is an important middle point that raises two
