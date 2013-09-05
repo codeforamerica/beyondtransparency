@@ -1,16 +1,13 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: 
+ -Alissa Black
+ -Rachel Burstein
+title: "Local Scale and Local Data"
+chapter: 15
+twitter: alissa007
+permalink:
 ---
-
-
-Chapter 15 {.western}
-==========
-
-##### Local Scale and Local Data {.western}
-
-#### By Alissa Black and Rachel Burstein {.western}
 
 Today, the town hall meeting conjures visions of televised,
 invitation-only debates in which candidates for national office respond

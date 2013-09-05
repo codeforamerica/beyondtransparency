@@ -1,16 +1,13 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: 
+ -Eric Gordon
+ -Jessica Baldwin-Philippi
+title: "Making a Habit Out of Engagement: How the Culture of Open Data Is Reframing Civic Life"
+chapter: 7
+twitter: ericbot
+permalink:
 ---
-
-
-Chapter 7 {.western}
-=========
-
-##### Making a Habit Out of Engagement: How the Culture of Open Data Is Reframing Civic Life {.western}
-
-#### By Eric Gordon and Jessica Baldwin-Philippi {.western}
 
 We live in data rich times. Digital tools, from Facebook to Fitbit, have
 made more and more thoughts and actions collectable. Thoughts and

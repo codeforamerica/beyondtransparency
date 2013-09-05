@@ -1,18 +1,13 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: Beth Blauer
+title: "Why Data Must Drive Decisions in Government"
+chapter: 20
+twitter: biblauer
+permalink:
 ---
 
-
-Chapter 20 {.western}
-==========
-
-##### Why Data Must Drive Decisions in Government {.western}
-
-#### By Beth Blauer {.western}
-
-### The Dawn of the Data-Driven Government {.western}
+### The Dawn of the Data-Driven Government
 
 The government landscape in 2013 includes a host of challenges and
 opportunities. The economy is uncertain, politics are highly polarized,

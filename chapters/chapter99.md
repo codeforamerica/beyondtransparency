@@ -1,17 +1,13 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: none
+title: "Appendix I"
+chapter: 99
+twitter: 
+permalink:
 ---
 
-
-\
-\
-
-Appendix I {.western}
-==========
-
-##### Further Reading {.western}
+##### Further Reading
 
 Open Data Field Guide – Socrata
 

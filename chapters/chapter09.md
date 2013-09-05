@@ -1,16 +1,11 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: Cyd Harrell
+title: "The Beginning of a Beautiful Friendship: Data and Design in Innovative Citizen Experiences"
+chapter: 9
+twitter: cydharrell
+permalink:
 ---
-
-
-Chapter 9 {.western}
-=========
-
-##### The Beginning of a Beautiful Friendship: Data and Design in Innovative Citizen Experiences {.western}
-
-#### By Cyd Harrell {.western}
 
 The past decade has brought enormous and growing benefits to ordinary
 citizens through applications built on public data. Any release of data

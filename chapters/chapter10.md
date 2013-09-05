@@ -1,16 +1,11 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: Joel Mahoney
+title: "Open Data and Open Discourse at Boston Public Schools"
+chapter: 10
+twitter: joelmahoney
+permalink:
 ---
-
-
-Chapter 10 {.western}
-==========
-
-##### Open Data and Open Discourse at Boston Public Schools {.western}
-
-#### By Joel Mahoney {.western}
 
 I am a firm believer in the people. If given the truth, they can be
 depended upon to meet any national crisis. The great point is to bring

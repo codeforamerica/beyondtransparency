@@ -1,16 +1,11 @@
---- 
+-- 
 layout: chapter
-author: blank
-title: blank 
+author: John Bracken
+title: "The Bigger Picture: Ten Lessons for Taking Open Government Further"
+chapter: 16
+twitter: jsb
+permalink:
 ---
-
-
-Chapter 16 {.western}
-==========
-
-##### The Bigger Picture: Ten Lessons for Taking Open Government Further {.western}
-
-#### By John Bracken {.western}
 
 My job at the Knight Foundation is to identify people with promising
 ideas and help them execute them. Our primary tool for that is the

@@ -1,16 +1,11 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: Michael Flowers
+title: "Beyond Open Data: The Data-Driven City"
+chapter: 14
+twitter:
+permalink:
 ---
-
-
-Chapter 14 {.western}
-==========
-
-##### Beyond Open Data: The Data-Driven City {.western}
-
-#### By Michael Flowers {.western}
 
 *Being a data-driven city is about more efficiently and effectively
 delivering the core services of the city. Being data-driven is not

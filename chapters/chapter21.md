@@ -1,16 +1,11 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: Tim O’Reilly
+title: "Open Data and Algorithmic Regulation"
+chapter: 21
+twitter: timoreilly
+permalink:
 ---
-
-
-Chapter 21 {.western}
-==========
-
-### Open Data and Algorithmic Regulation {.western}
-
-#### By Tim O’Reilly {.western}
 
 Regulation is the bugaboo of today’s politics. We have too much of it in
 most areas, we have too little of it in others, but mostly, we just have

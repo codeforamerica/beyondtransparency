@@ -1,16 +1,13 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: 
+ -Ken Wolf
+ -John Fry
+title: "Benchmarking Performance Data"
+chapter: 19
+twitter: Revelstone
+permalink:
 ---
-
-
-Chapter 19 {.western}
-==========
-
-##### Benchmarking Performance Data {.western}
-
-#### By Ken Wolf and John Fry {.western}
 
 *Come senators, congressmen, please heed the call*
 

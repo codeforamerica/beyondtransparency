@@ -1,16 +1,11 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: Bibiana McHugh
+title: "Pioneering Open Data Standards: The GTFS Story"
+chapter: 12
+twitter: trimet
+permalink:
 ---
-
-
-Chapter 12 {.western}
-==========
-
-##### Pioneering Open Data Standards: The GTFS Story {.western}
-
-#### By Bibiana McHugh {.western}
 
 In 2005, I was working at TriMet, the public transit agency in Portland,
 Oregon, as an IT manager for Geographic Information Services. Earlier

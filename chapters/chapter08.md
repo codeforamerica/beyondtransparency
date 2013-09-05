@@ -1,16 +1,14 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: 
+ -Michael Chui
+ -Diana Farrell
+ -Steve Van Kuiken
+title: "Generating Economic Value through Open Data"
+chapter: 8
+twitter: McKinsey_MGI
+permalink:
 ---
-
-
-CHAPTER 8 {.western}
-=========
-
-##### Generating Economic Value through Open Data {.western}
-
-#### By Michael Chui, Diana Farrell, and Steve Van Kuiken {.western}
 
 *The authors wish to thank their colleague Peter Groves, a principal at
 McKinsey & Company based in New Jersey, for his substantial

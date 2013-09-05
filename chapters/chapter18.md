@@ -1,16 +1,15 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: 
+ -Theresa Reno-Weber
+ -Beth Niblock
+title: "Beyond Transparency: Louisville’s Strategic Use of Data to Drive Continuous Improvement"
+chapter: 18
+twitter:
+ -RenoWeber
+ -LvilleCIO
+permalink:
 ---
-
-
-Chapter 18 {.western}
-==========
-
-##### Beyond Transparency: Louisville’s Strategic Use of Data to Drive Continuous Improvement {.western}
-
-#### By Theresa Reno-Weber and Beth Niblock {.western}
 
 *Government embodies our highest aspirations and our lowest
 expectations.*

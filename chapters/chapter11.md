@@ -1,16 +1,15 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: 
+ -Ryan Alfred
+ -Mike Alfred
+title: "From Entrepreneurs to Civic Entrepreneurs"
+chapter: 11
+twitter:
+ -ryanalfred
+ -mikealfred
+permalink:
 ---
-
-
-Chapter 11 {.western}
-==========
-
-##### From Entrepreneurs to Civic Entrepreneurs {.western}
-
-#### By Ryan Alfred and Mike Alfred {.western}
 
 My brother Mike and I never set out to become “civic entrepreneurs.” We
 did not see ourselves as being a part of the “open government”
