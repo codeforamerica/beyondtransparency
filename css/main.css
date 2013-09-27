@@ -1,21 +1,145 @@
 body{ 
   font-family: 'Open Sans', sans-serif;
-  background:#eee;
-  padding-top: 70px; 
+  background:#fff;
 }
 
 .bt-book-nav{ 
   text-shadow: 0 -1px 0 rgba(0,0,0,.15);
-  background-color: #308bce;
+  background-color: #b9e0ea;
   border-color: #463265;
   box-shadow: 0 1px 0 rgba(255,255,255,.1);
-  height:80px;
+  height:115px;
 }
 .bt-book-nav .navbar-brand{
   color:#fff;
   font-size:28px;
   margin-top:12px;
 } 
+
+div.menu-bar{ 
+  padding:10px 0px;
+  height:35px;
+}
+div.menu-btn{
+  text-transform:uppercase;
+  font-weight:bold;
+} 
+div.byline{ 
+  margin-bottom:10px;
+}
+
+div.header{ 
+  height:800px;
+  background:#b8e0eb;
+  z-index:-10;
+  position:relative;
+}
+div.header div.about{ 
+  margin-top:40px;
+}
+div.header h2{
+  margin-top:0px;
+  font-size:32px;
+}
+
+div.cloud{ 
+  width:243px;
+  height:161px;
+  background:url("/images/cloud.png");
+  position:absolute;
+  top:100px;
+  z-index:-5;
+}
+
+
+@-webkit-keyframes cloud-drift0 {
+  0% {
+    left:-300px;
+  }
+  100%{
+     left:55%;
+  }
+}
+@-webkit-keyframes cloud-drift1 {
+  0% {
+    left:120%;
+  }
+  100%{
+     left:7%;
+  }
+}
+@-webkit-keyframes cloud-drift2 {
+  0% {
+    left:-300px;
+  }
+  100%{
+     left:85%;
+  }
+}
+
+.drift{
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-iteration-count: 1;
+}
+div.offset0{ 
+  -webkit-animation-name: cloud-drift0;
+  -webkit-animation-duration: 6s;
+  top:50px;
+  left:55%;
+}
+div.offset1{ 
+  -webkit-animation-name: cloud-drift1;
+  -webkit-animation-duration: 6s;
+  top:280px;
+  left:7%;
+}
+div.offset2{ 
+  -webkit-animation-name: cloud-drift2;
+  -webkit-animation-duration: 6s;
+  top:530px;
+  left:85%;
+}
+
+
+
+
+
+div.btn-primary{ 
+  background:#bd2961;
+  border-color:#bd2961;
+  font-size:16px;
+  padding:10px 8px;
+}
+
+ul.buy-links{ 
+  list-style:none;
+  margin-top:10px;
+  padding-left:30px;
+}
+ul.buy-links li{ 
+  padding:3px 0px;
+  margin:0px;
+}
+
+a,a:visited{ 
+  color:#404040;
+  text-decoration:underline;
+}
+a,a:hover{
+  color:#505050;
+} 
+
+div.content{ 
+  width:980px;
+  margin:auto;
+}
+div.title{ 
+  text-align:center;
+}
+div.byline{ 
+  text-align:center;
+}
 
 .site{ 
   width:780px;

@@ -1,0 +1,14 @@
+----
+layout:default
+title: Beyond Transparency - Table of Contents
+----
+<div id="home">
+  <h1>Table of Contents</h1>
+  <ul class="posts">
+    {% for page in site.pages %}
+      {% if page.layout == "chapter" %}
+        <li> <a href="{{ page.url }}">{{ page.title }} {{page.author}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
