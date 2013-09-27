@@ -5,6 +5,10 @@ title: "Pioneering Open Data Standards: The GTFS Story"
 chapter: 12
 twitter: trimet
 permalink:
+author_job: IT Manager
+author_employer: Trimet
+author_photo_url: /images/authors/bibiana.png
+featured: true
 ---
 
 In 2005, I was working at TriMet, the public transit agency in Portland,

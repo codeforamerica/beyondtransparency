@@ -2,7 +2,9 @@ body{
   font-family: 'Open Sans', sans-serif;
   background:#fff;
 }
-
+div.clear{ 
+  clear:both;
+}
 .bt-book-nav{ 
   text-shadow: 0 -1px 0 rgba(0,0,0,.15);
   background-color: #b9e0ea;
@@ -31,11 +33,13 @@ div.byline{
 div.header{ 
   height:800px;
   background:#b8e0eb;
-  z-index:-10;
+  z-index:0;
   position:relative;
 }
 div.header div.about{ 
   margin-top:40px;
+  position:relative;
+  z-index:100;
 }
 div.header h2{
   margin-top:0px;
@@ -104,12 +108,24 @@ div.offset2{
 
 
 
-
 div.btn-primary{ 
-  background:#bd2961;
+  background-color:#bd2961;
   border-color:#bd2961;
   font-size:16px;
-  padding:10px 8px;
+  padding:13px 8px;
+}
+div.btn-read{ 
+  background-image:url("/images/btn-arrow.png");
+  background-repeat: no-repeat;
+  background-position: center right 5px;
+  padding-right:42px;
+}
+
+div.btn-primary:hover{
+  background-color:#e33175;
+} 
+div.btn-read:active{
+  background-image:url("/images/btn-arrow.png");
 }
 
 ul.buy-links{ 
@@ -141,6 +157,59 @@ div.byline{
   text-align:center;
 }
 
+
+div.contributors{ 
+  background:#f3f4f3;
+  color:#404040;
+}
+div.section-heading{ 
+  text-align:center;
+  padding:30px 0px;
+}
+div.contributors h3{ 
+  text-transform:uppercase;
+}
+div.contributors .authors{
+  width:820px;
+  margin:auto;
+}
+ 
+div.contributors li { 
+  font-size:12px;
+  color:#777;
+  width:380px;
+  float:left;
+  list-style:none;
+  padding:0px;
+}
+div.contributors li img{ 
+  max-height:70px;
+  float:left;
+  margin:10px 10px 50px 0px;
+}
+div.contributors div.name{ 
+  font-weight:bold;
+  color:#333;
+}
+div.contributors div.chapter-title{ 
+  font-style:italic;
+  font-size:14px;
+}
+
+
+div.critics{ 
+  background:#9bcfa6;
+  color:#404040;
+  padding-bottom:50px;
+}
+div.critics .attribution{ 
+  font-weight:bold;
+  text-align:right;
+}
+
+
+
+
 .site{ 
   width:780px;
   border: solid 1px #ddd;
@@ -159,7 +228,7 @@ div.byline{
   color:#999;
   font-weight:normal;
 }
-.chapter-title{ 
+.chapter .chapter-title{ 
   margin:80px 0px 20px;
   font-size:30px;
   line-height:40px;
@@ -193,4 +262,12 @@ div.byline{
   padding:5px;
   margin:0px;
   padding-left:5px;
+}
+
+
+.footer{ 
+  background:#111;
+  color:#f8f8f8;
+  text-align:right;
+  padding:20px 0px;
 }

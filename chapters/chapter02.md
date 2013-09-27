@@ -3,6 +3,10 @@ layout: chapter
 author: Emer Coleman
 title: Lessons from the London Datastore 
 chapter: 2
+author_job: Former Director of Digital Engagement
+author_employer: Government Digital Services
+author_photo_url: /images/authors/emer.png
+featured: true
 ---
 
 I’ve worked for local government in London since 2005. In March 2009, I

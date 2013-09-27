@@ -27,15 +27,16 @@ title: Beyond Transparency
 A social sweater vest incubator could be great RT @pahlkadot.  Mad Men apps built by cool graphics through civic leadership can you write a blog post? Pandas through communication story ideate if you overlay incubator Google and #civic leaders recruiting awesome innovation through where's my blog post? A social sweater vest incubator could be great RT @pahlkadot.  Mad Men apps built by cool graphics through civic leadership can you write a blog post? Pandas through communication story ideate if you overlay incubator Google and #civic leaders recruiting awesome innovation through where's my blog post?
           </p>
         </div>
-        <div class="col-md-3 ">
-          <div class="btn btn-primary btn-read">Read the book online &mdash;&gt;</div>
+        <div class="col-md-3">
+          <a href="/toc.html"><div class="btn btn-primary btn-read">Read the book online</div></a>
           <ul class="buy-links">
-            <li class="icon-buy"><a href="">Buy it on Amazon</a></li>
-            <li class="icon-pdf"><a href="">Get the PDF</a></li>
+            <li class="icon-buy"><a href="http://amazon.com" target="_blank">Buy it on Amazon</a></li>
+            <li class="icon-pdf"><a href="/BeyondTransparency.pdf">Get the PDF</a></li>
           </ul>
         </div>
+        <div class="clear"></div>
       </div>
-
+      <div class="clear"></div>
       <div class="city-graph">
         <img src="/images/city.png" />
       </div>
@@ -46,37 +47,52 @@ A social sweater vest incubator could be great RT @pahlkadot.  Mad Men apps buil
 
 <section class="contributors">
   <div class="contributors">
-    <div class="section-heading">
-      <img src="/images/contributors.png" />
-      <h3>Some of our contributors</h3>
+    <div class="content">
+      <div class="section-heading">
+        <img src="/images/contributors.png" />
+        <h3>Some of our contributors</h3>
+      </div>
+      <ul class="authors">
+
+        {% for page in site.pages %}
+          {% if page.layout == "chapter" %}
+            {% if page.featured == true %}
+             <li>
+               <div>
+                 <img class="img-circle" src="{{ page.author_photo_url }}" />
+                 <div class="name">{{ page.author }}</div>
+                 <div class="job-title">{{ page.author_job }}</div>
+                 <div class="employer">{{ page.author_employer }}</div>
+                 <div class="chapter-title">{{ page.title }}</div>
+               </div>
+             </li>
+
+           {% endif %}
+        {% endif %}
+      {% endfor %}
+             
+      </ul>
     </div>
-    <ul class="authors">
-      <li>
-        <div>
-          <img src="" />
-          <div class="name"></div>
-          <div class="job-title"></div>
-          <div class="employer"></div>
-          <div class="chapter-title"></div>
-        </div>
-      </li>
-    </ul>
+    <div class="clear"></div>
   </div>
 </section>
 
 <section class="critics">
   <div class="critics">
-    <div class="section-heading">
-      <img src="/images/quote.png" />
-      <h3>What critics have to say</h3>    
+    <div class="content">
+      <div class="section-heading">
+        <img src="/images/quote.png" />
+        <h3>What critics have to say</h3>    
+      </div>
+      <div class="quote col-md-5 col-md-offset-1">
+        <p>“Beyond Transparency combines the inspirational glow and political grit of Profiles in Courage with the clarity of an engineer’s calm explanation of how something technical actually works…. This compilation presents us with a great deal to admire, ample provocation, and wise guidance from a group of remarkable individuals.”</p>
+        <div class="attribution">&mdash; Susan Crawford, author of Captive Audience</div>
+      </div>
+      <div class="quote col-md-5">
+<p>“Just as he did during his time in my administration, Goldstein has brought together industry leaders to discuss issues of relevance in the open data movement and the practical implications of implementing these policies… This book will help continue the work to make open government a reality across the country.”</p>
+        <div class="attribution">&mdash; Mayor Rahm Emanuel, City of Chicago</div>
+      </div>
     </div>
-    <div class="quote">
-      <p>Some things about the book... and more and moreand more and moreand more and moreand more and moreand more and more and more and more</p>
-      <div class="attribution">&mdash; Susan Crawford, author of Captive Audience</div>
-    </div>
-    <div class="quote">
-      <p>Some things about the book... and more and moreand more and moreand more and moreand more and moreand more and more and more and more</p>
-      <div class="attribution">&mdash; Susan Crawford, author of Captive Audience</div>
-    </div>
+    <div class="clear"></div>
   </div>
 </section>

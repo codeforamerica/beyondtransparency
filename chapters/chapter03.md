@@ -4,7 +4,10 @@ author: Brett Goldstein
 title: "Open Data in Chicago: Changing the Game"
 chapter: 3
 twitter: bjgol
-permalink: /3-open-data-in-chicago-changing-the-game/
+author_job: Former Chief Data Officer 
+author_employer: City of Chicago
+author_photo_url: /images/authors/brett.png
+featured: true
 ---
 
 Before I joined Chicago’s government administration, I knew very little

@@ -5,6 +5,10 @@ title: "Open Data and Algorithmic Regulation"
 chapter: 21
 twitter: timoreilly
 permalink:
+author_job: Founder and CEO
+author_employer: O'Reilly Media Inc.
+author_photo_url: /images/authors/tim.png
+featured: true
 ---
 
 Regulation is the bugaboo of today’s politics. We have too much of it in

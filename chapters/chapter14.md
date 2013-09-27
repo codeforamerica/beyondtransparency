@@ -5,6 +5,10 @@ title: "Beyond Open Data: The Data-Driven City"
 chapter: 14
 twitter:
 permalink:
+author_job: Director of Analytics
+author_employer: New York City
+author_photo_url: /images/authors/mike.png
+featured: true
 ---
 
 *Being a data-driven city is about more efficiently and effectively
