@@ -35,6 +35,7 @@ div.header{
   background:#b8e0eb;
   z-index:0;
   position:relative;
+  overflow-x:hidden;
 }
 div.header div.about{ 
   margin-top:40px;
