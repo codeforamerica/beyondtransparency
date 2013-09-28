@@ -35,7 +35,7 @@ div.header{
   background:#b8e0eb;
   z-index:0;
   position:relative;
-  overflow-x:hidden;
+  overflow:hidden;
 }
 div.header div.about{ 
   margin-top:40px;
@@ -157,11 +157,17 @@ div.title{
 div.byline{ 
   text-align:center;
 }
-
+div.city-graph{ 
+  position:absolute;
+  top:588px;
+  text-align:center;
+  width:100%;
+}
 
 div.contributors{ 
   background:#f3f4f3;
   color:#404040;
+
 }
 div.section-heading{ 
   text-align:center;
