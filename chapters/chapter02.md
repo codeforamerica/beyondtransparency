@@ -7,6 +7,8 @@ author_job: Former Director of Digital Engagement
 author_employer: Government Digital Services
 author_photo_url: /images/authors/emer.png
 featured: true
+twitter: emercoleman
+author_about: "Formerly open data and digital in government. These views are definitely my own. You can see what I do at http://emercoleman.com  mostly I am about change."
 ---
 
 I’ve worked for local government in London since 2005. In March 2009, I

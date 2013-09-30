@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
+{% include header.html %}
 
-
-<div class="chapter-nav">
+<!--<div class="chapter-nav">
   <ul >
     {% for page in site.pages %}
       {% if page.layout == "chapter" %}
@@ -11,14 +11,46 @@ layout: default
       {% endif %}
     {% endfor %}
   </ul>
-</div>
+</div> -->
 
-<h4 class="chapter-number">Chapter {{page.chapter}}</h4>
 
-<h1 class="chapter-title">{{page.title}}</h1>
+<div class="chapter content">
 
-<h4 class="chapter-author">By {{page.author}}</h4>
+  <div class="col-md-9">
+  
+    <h4 class="chapter-number">Chapter {{page.chapter}}</h4>
 
-<div class="chapter">
-{{ content }}
+    <h1 class="chapter-title">{{page.title}}</h1>
+
+    <h4 class="chapter-author">By {{page.author}}</h4>
+    
+    <div class="chapter-text">
+      {{ content }}
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="chapter-nav-links">
+      <a href="">&lt;- Chap 1</a> <a href=""> Chap 2 -&gt;</a>
+    </div>
+    <div class="author">
+      <img class="img-circle" src="{{ page.author_photo_url }}" />
+      <div class="name">{{ page.author }}</div>
+      <div class="job-title">{{ page.author_job }}</div>
+      <div class="employer">{{ page.author_employer }}</div>
+      <div class="about">{{ page.author_about }}</div>
+      
+      <div class="twitter"><a href="http://twitter.com/{{page.twitter}}">@{{ page.twitter }}</a></div>
+    </div>
+    <div class="in-chapter-nav">
+      <h4>SKIP TO</h4>
+      <ul>
+        <li>Section1</li>
+        <li>Section1</li>
+        <li>Section1</li>
+      </ul>
+    </div>
+         
+    </div>
+  </div>
+  <div class="clear"></div>
 </div>

@@ -1,6 +1,7 @@
 body{ 
   font-family: 'Open Sans', sans-serif;
   background:#fff;
+  color:#333;
 }
 div.clear{ 
   clear:both;
@@ -8,9 +9,7 @@ div.clear{
 .bt-book-nav{ 
   text-shadow: 0 -1px 0 rgba(0,0,0,.15);
   background-color: #b9e0ea;
-  border-color: #463265;
-  box-shadow: 0 1px 0 rgba(255,255,255,.1);
-  height:115px;
+  height:90px;
 }
 .bt-book-nav .navbar-brand{
   color:#fff;
@@ -25,9 +24,21 @@ div.menu-bar{
 div.menu-btn{
   text-transform:uppercase;
   font-weight:bold;
-} 
+}
+.navbar-nav .menu-btn{ 
+  margin-top:22px;
+}
+.navbar-brand{ 
+  padding:0px;
+}
 div.byline{ 
   margin-bottom:10px;
+}
+
+div.navbar-header{ 
+  width:980px;
+  margin:0px auto;
+  float:inherit;
 }
 
 div.header{ 
@@ -226,18 +237,22 @@ div.critics .attribution{
   background:#fff;
 }
 .chapter{ 
-  font-size:18px;
-  line-height:24px;
+  padding-top:180px;
+  color:#333;
+}
+.chapter-text{ 
+  font-size:20px;
+  line-height:28px;
 }
 
 .chapter-number{ 
-  float:right;
-  color:#999;
+  font-size:24px;
   font-weight:normal;
+  text-transform:uppercase;
 }
 .chapter .chapter-title{ 
-  margin:80px 0px 20px;
-  font-size:30px;
+  margin:10px 0px 20px;
+  font-size:46px;
   line-height:40px;
 }
 .chapter-author{ 
@@ -276,5 +291,44 @@ div.critics .attribution{
   background:#111;
   color:#f8f8f8;
   text-align:right;
-  padding:20px 0px;
+  padding:20px 0px 5px;
+}
+
+.author{ 
+  margin-top:30px;
+  border-bottom:solid 1px #999;
+  padding-bottom:20px;
+}
+.author img{ 
+  margin-bottom:10px;
+}
+.author .name{ 
+  font-size:18px;
+  font-weight:bold;
+}
+
+.author .twitter{
+  background-image: url("/images/twitter.png");
+  background-repeat: no-repeat;
+  background-position: top 5px left;
+  padding-left:18px;
+}
+.author .twitter a{ 
+  text-decoration:none;
+}
+.author .about{ 
+  margin:10px 0px;
+  font-size:12px;
+}
+.in-chapter-nav{ 
+  font-size:16px;
+
+}
+.in-chapter-nav ul{ 
+  padding:0px;
+  margin:0px;
+}
+.in-chapter-nav ul li{
+  padding:3px 0px;
+  list-style:none;
 }
