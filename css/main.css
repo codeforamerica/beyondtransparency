@@ -1,8 +1,14 @@
 body{ 
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'NewCaledoniaLT', sans-serif;
   background:#fff;
   color:#333;
+  font-size: 18px;
 }
+
+h1, h2, h3, h4, h5 {
+  font-family: 'TradeGothicLTCom-Bd2';
+}
+
 a,a:visited{ 
   color:#404040;
   text-decoration:underline;
@@ -31,6 +37,7 @@ div.menu-bar{
 }
 div.menu-btn{
   text-transform:uppercase;
+  font-family: 'TradeGothicLTCom-Bd2';
   font-weight:bold;
   cursor:pointer;
 }
@@ -42,6 +49,7 @@ div.menu-btn{
 }
 div.byline{ 
   margin-bottom:10px;
+  font-family: 'NewCaledoniaLT-Italic';
 }
 
 div.navbar-header{ 
@@ -139,6 +147,7 @@ div.offset2{
 div.btn-primary{ 
   background-color:#bd2961;
   border-color:#bd2961;
+  font-family: 'TradeGothicLT';
   font-size:16px;
   padding:13px 8px;
 }
@@ -198,7 +207,8 @@ div.section-heading{
   text-align:center;
   padding:30px 0px;
 }
-div.contributors h3{ 
+div.contributors h3,
+div.critics h3 { 
   text-transform:uppercase;
 }
 div.contributors .authors{
@@ -207,8 +217,7 @@ div.contributors .authors{
 }
  
 div.contributors li { 
-  font-size:12px;
-  color:#777;
+  font-size:16px;
   width:380px;
   float:left;
   list-style:none;
@@ -220,12 +229,13 @@ div.contributors li img{
   margin:10px 10px 50px 0px;
 }
 div.contributors div.name{ 
-  font-weight:bold;
+  font-family: 'TradeGothicLTCom-Bd2';
+  font-size: 20px;
   color:#333;
 }
 div.contributors div.chapter-title{ 
   font-style:italic;
-  font-size:14px;
+  color: #777;
 }
 
 
