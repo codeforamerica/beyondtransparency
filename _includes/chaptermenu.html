@@ -1,0 +1,9 @@
+<div class="chapter-nav">
+  <ul >
+    {% for page in site.pages %}
+      {% if page.layout == "chapter" %}
+        <a href="{{ page.url }}"><li> {{ page.title }} <div class="nav-chapter-author">{{page.author}}</div></li></a>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div> 

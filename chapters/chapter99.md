@@ -1,10 +1,8 @@
 --- 
 layout: chapter
-author: none
 title: "Appendix I"
-chapter: 99
-twitter: 
-permalink:
+chapter: 0
+permalink: appendix/
 ---
 
 ##### Further Reading
@@ -20,15 +18,3 @@ Wiki Government – Beth Noveck
 Foundation for an Open Source City – Jason Hibbets
 
 Smart Cities – Anthony Townsend
-
-\
-\
-
-1
-
-\
-\
-
-\
-\
-

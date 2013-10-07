@@ -1,53 +1,48 @@
 ---
 layout: default
 ---
-{% include header.html %}
+{% include chaptermenu.html %}
 
-<div class="chapter-nav">
-  <ul >
-    {% for page in site.pages %}
-      {% if page.layout == "chapter" %}
-        <li> <a href="{{ page.url }}">{{ page.title }} </a><div "chapter-author">{{page.author}}</div></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div> 
+<div class="page">
+{% include header.html %}
 
 <div class="chapter content">
 
   <div class="col-md-9">
-  
-    <h4 class="chapter-number">Chapter {{page.chapter}}</h4>
 
+    {% if page.chapter != 0 %}
+    <h4 class="chapter-number">Chapter {{page.chapter}}</h4>
+    {% endif %}
     <h1 class="chapter-title">{{page.title}}</h1>
 
     <div class="chapter-text">
       {{ content }}
     </div>
   </div>
-  <div class="col-md-3">
-    <div class="chapter-nav-links">
-      <a href="">&lt;- Chap 1</a> <a href=""> Chap 2 -&gt;</a>
-    </div>
-    <div class="author">
-      <img class="img-circle" src="{{ page.author_photo_url }}" />
-      <div class="name">{{ page.author }}</div>
-      <div class="job-title">{{ page.author_job }}</div>
-      <div class="employer">{{ page.author_employer }}</div>
-      <div class="about">{{ page.author_about }}</div>
-      
-      <div class="twitter"><a href="http://twitter.com/{{page.twitter}}">@{{ page.twitter }}</a></div>
-    </div>
-    <div class="in-chapter-nav">
-      <h4>SKIP TO</h4>
-      <ul>
-        <li>Section1</li>
-        <li>Section1</li>
-        <li>Section1</li>
-      </ul>
-    </div>
-         
+  <div class="col-md-3 in-chapter-sidebar">
+    <div class="in-chapter-sidebar-content">
+      <div class="chapter-nav-links">
+        <a href="">&lt;- Chap 1</a> <a href=""> Chap 2 -&gt;</a>
+      </div>
+      {% if !page.author %}
+      <div class="author">
+        <img class="img-circle" src="{{ page.author_photo_url }}" />
+        <div class="name">{{ page.author }}</div>
+        <div class="job-title">{{ page.author_job }}</div>
+        <div class="employer">{{ page.author_employer }}</div>
+        <div class="about">{{ page.author_about }}</div>
+        
+        <div class="twitter"><a href="http://twitter.com/{{page.twitter}}">@{{ page.twitter }}</a></div>
+      </div>
+
+      <div class="in-chapter-nav">
+        <h4>SKIP TO</h4>
+        <ul class="sections">
+        </ul>
+      </div>
+      {% endif %}         
     </div>
   </div>
-  <div class="clear"></div>
 </div>
+<div class="clear"></div>
+

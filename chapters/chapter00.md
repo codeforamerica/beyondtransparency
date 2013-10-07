@@ -2,6 +2,8 @@
 layout: chapter
 author: Brett Goldstein 
 title: Preface
+permalink: preface/
+chapter: 0
 ---
 
 The rise of open data in the public sector has sparked innovation,
