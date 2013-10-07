@@ -382,6 +382,7 @@ div.critics .attribution{
 }
 .in-chapter-nav ul li{
   font-family: 'TradeGothicLT';
+  font-size: 13px;
   padding:3px 0px;
   list-style:none;
 }
