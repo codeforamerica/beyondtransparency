@@ -267,7 +267,11 @@ div.critics .attribution{
 }
 .chapter-text h3, 
 .chapter-text h4{ 
-  margin-top:80px;
+  margin-top:50px;
+}
+
+.chapter-text p {
+  margin-bottom: 30px;
 }
 
 .chapter-number{ 
