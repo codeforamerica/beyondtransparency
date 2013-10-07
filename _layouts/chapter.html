@@ -24,13 +24,10 @@ layout: default
       <div class="chapter-nav-links">
         {% capture prev %}{{page.chapter | minus:1  }}{% endcapture %}
         {% capture next %}{{page.chapter | plus:1  }}{% endcapture %}
-
-        
-
         {% for p in site.pages %}
-
         {% capture counter %}{{p.chapter | plus:0  }}{% endcapture %}
-          {% if counter ==  prev  %}
+
+          {% if p.layout == "chapter" and counter != "0" and counter ==  prev  %}
   
             <a href="{{ p.url }}">&lt;- Chap {{ p.chapter}}</a>
           {% endif %}
