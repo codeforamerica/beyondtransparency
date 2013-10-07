@@ -263,7 +263,7 @@ div.critics .attribution{
 }
 .chapter-text{ 
   font-size:20px;
-  line-height:28px;
+  line-height:30px;
 }
 .chapter-text h3, 
 .chapter-text h4{ 
@@ -272,13 +272,13 @@ div.critics .attribution{
 
 .chapter-number{ 
   font-size:24px;
-  font-weight:normal;
+  font-family: 'TradeGothicLT';
   text-transform:uppercase;
 }
 .chapter .chapter-title{ 
   margin:10px 0px 20px;
   font-size:46px;
-  line-height:40px;
+  line-height:51px;
 }
 .chapter-author{ 
   margin-bottom:60px;
