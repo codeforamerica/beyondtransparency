@@ -13,8 +13,12 @@ a,a:visited{
   color:#404040;
   text-decoration:underline;
 }
-a,a:hover{
+a {
   color:#505050;
+}
+
+a:hover {
+  color: #bd2961;
 }
 
 div.clear{ 
