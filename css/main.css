@@ -313,6 +313,7 @@ div.critics .attribution{
   padding-top:15px;
   transition:all 0.5s ease-in-out;
   overflow:auto;
+  z-index:1000;
 }
 .chapter-nav.show{ 
   transition:all 0.5s ease-in-out;
@@ -389,4 +390,8 @@ div.critics .attribution{
 }
 .in-chapter-sidebar-content{ 
   position:fixed;
+  width:250px;
+  overflow:auto;
+  bottom:0px;
+  top:150px;
 }

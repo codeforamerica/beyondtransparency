@@ -2,11 +2,8 @@
 layout: chapter
 author: Mark Headd
 title: New Thinking in How Government Deliver Services
+chapter: 17
 ---
-
-
-Chapter 17 
-==========
 
 ### Introduction 
 
