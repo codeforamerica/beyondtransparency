@@ -79,7 +79,7 @@ looking at three distinct generations of CRM systems, we demonstrate how
 habits, once established, can be reflected upon so as to generate more
 and different civic actions.
 
-### Making Civic Habits {.western}
+### Making Civic Habits 
 
 A habit is a settled or regular tendency, especially one that’s hard to
 give up. We tend to think of habits as bad: smoking, gambling, etc. “The
@@ -154,7 +154,7 @@ understanding of civic life.
 
 [Figure 1: Developments in CRM systems]
 
-### Civic Habits and CRM {.section2-heading-western}
+### Civic Habits and CRM 
 
 While CRM systems were originally developed as part of the New Public
 Management approach that emphasized a customer-centered or
@@ -317,7 +317,7 @@ APIs that connect data from a variety of aggregators, be they privately
 or publicly owned, StreetCred highlights the fact that open data is not
 limited to government-run programs.
 
-### Conclusion {.western}
+### Conclusion 
 
 Civic life is a mass of habits. By enabling moments of civic
 participation to be collected in ways that are accessible,
@@ -337,7 +337,7 @@ experience, but their iterations can also set the stage for the
 development of a more robust culture of open data that extends beyond
 the civic realm.
 
-### About the Authors {.western}
+### About the Authors 
 
 Eric Gordon studies civic media, location-based media, and serious
 games. He is a fellow at the Berkman Center for Internet and Society at
@@ -359,7 +359,7 @@ of social media, to games designed to increase participation, to tools
 that can mediate relationships between citizens and governmental
 institutions.
 
-### References {.western}
+### References 
 
 Dewey, J. (2011). Democracy and Education. New York: Simon and Brown.
 

@@ -430,7 +430,7 @@ We’re in the middle of an information renaissance, and while privacy is
 a very real fear, giving the Fourth Estate the ability to match a
 government’s ability to process and analyze data may even the odds.
 
-### About the Author {.western}
+### About the Author 
 
 Elliott is a data reporter and Web producer for WBEZ, a Chicago-based
 public radio station. Elliott focuses on reporting from enterprise
@@ -444,7 +444,7 @@ College Chicago in 2006 with a B.A. in journalism, having interned at
 the *Chicago Tribune*, *Chicago RedEye*, and WBBM CBS2 News. Elliott is
 a Chicago native, hailing from the city’s Jefferson Park neighborhood.
 
-### References {.western}
+### References 
 
 Office of the Chicago City Clerk. (2012). Amendment of Title 2, Chapter
 8 of Municipal Code Concerning Redistricting of City of Chicago
@@ -458,6 +458,4 @@ from http://www.pulitzer.org/works/2013-Public-Service
 Retrieved
 from http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds\_list.php
 
-\
-\
 

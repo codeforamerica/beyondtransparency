@@ -57,7 +57,8 @@ A social sweater vest incubator could be great RT @pahlkadot.  Mad Men apps buil
         {% for page in site.pages %}
           {% if page.layout == "chapter" %}
             {% if page.featured == true %}
-             <li>
+        <a href="{{page.url}}" >
+            <li>
                <div>
                  <img class="img-circle" src="{{ page.author_photo_url }}" />
                  <div class="name">{{ page.author }}</div>
@@ -66,7 +67,7 @@ A social sweater vest incubator could be great RT @pahlkadot.  Mad Men apps buil
                  <div class="chapter-title">{{ page.title }}</div>
                </div>
              </li>
-
+</a>
            {% endif %}
         {% endif %}
       {% endfor %}

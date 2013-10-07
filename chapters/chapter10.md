@@ -13,7 +13,7 @@ them the real facts.
 
 —Abraham Lincoln
 
-### Inside the Maze {.western}
+### Inside the Maze 
 
 In March of 2011, the City of Boston had a problem: the *Boston Globe*
 had just published a special multimedia series titled “Getting In:
@@ -74,7 +74,7 @@ spotlight. The report sparked high-level conversations in City Hall and
 made it difficult for the School Department to ignore the problem. The
 criticism demanded a response.
 
-### Coding for America {.western}
+### Coding for America 
 
 In January 2011, Code for America began work in Boston as part of an
 eleven-month engagement with the City I was part of a five-person
@@ -136,7 +136,7 @@ goals of Code for America—improving citizen engagement by making
 government services more open, efficient and participatory—I can’t
 imagine a much higher form of praise.
 
-### Algorithmic Regulation {.western}
+### Algorithmic Regulation 
 
 It is important to note the backdrop for the Superintendent’s remark: I
 met her at a town hall meeting in February of 2013 where BPS officials
@@ -226,7 +226,7 @@ it uses to assign students). (Seelye, 2013)
 This description would have applied equally well to our work in Boston
 as Code for America Fellows.
 
-### Data and Discourse {.western}
+### Data and Discourse 
 
 The Boston school assignment story shows the power of open data to shift
 the public discourse around social issues. The Boston Globe made its
@@ -262,7 +262,7 @@ embracing technological solutions—consider what it means that the School
 Department can no longer pin assignment zone maps on the wall, since the
 algorithm generates a unique list of eligible schools for each address.
 
-##### Conclusion {.western}
+##### Conclusion 
 
 Our work in Boston shows how open data can catalyze change around even
 the most contentious social issues. At first, we tried to affect change
@@ -283,7 +283,7 @@ transparent measure of progress towards those goals. Indeed, as Abraham
 Lincoln noted, with “real facts” even the most challenging social issues
 can be met.
 
-### About the Author {.western}
+### About the Author 
 
 Joel Mahoney is an entrepreneur and former Code for America Fellow. He
 is the creator of [DiscoverBPS.org](http://discoverbps.org/),
@@ -294,7 +294,7 @@ navigate business permitting. His work on
 [DataDonor.org](http://datadonor.org/) explores the use of personal data
 as a new medium of charitable contribution.
 
-### References {.western}
+### References 
 
 *Boston Globe* (2011). Getting In: Inside Boston’s School Assignment
 Maze [Multimedia series]. The *Boston Globe*. Retrieved from

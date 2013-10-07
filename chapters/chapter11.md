@@ -92,7 +92,7 @@ entrepreneurship with BrightScope. Though we never intended to build a
 business around “open data” and “open government,” that was precisely
 what we were about to do.
 
-### When “Public Disclosure” Is Not Enough {.western}
+### When “Public Disclosure” Is Not Enough 
 
 Showing up at the Department of Labor for the first time was definitely
 a culture shock. We had been to DC several times before, but mostly to
@@ -171,7 +171,7 @@ approach, we collected enough data to produce our ratings and launch our
 initial DC plan ratings to the public—and thus, our company BrightScope
 became a reality.
 
-### From Adversaries to Partners {.western}
+### From Adversaries to Partners 
 
 If forced to select a single term to define our relationship with the
 DOL up through early 2009, the word “adversarial” would certainly be
@@ -233,7 +233,7 @@ for a variety of purposes. What started as a contentious relationship
 has turned into a true partnership, thanks to the DOL embracing an open
 approach to data.
 
-### Finding Comfort in Transparency {.western}
+### Finding Comfort in Transparency 
 
 The changed relationship at the DOL is thanks to a combination of a
 mindset shift on the part of the department and an adoption of
@@ -276,7 +276,7 @@ the DOL could themselves. So, it makes sense for the DOL to focus on
 platformizing itself and taking advantage of the entrepreneurial energy
 and innovations of the private market.
 
-### Defining Open Data {.western}
+### Defining Open Data 
 
 While BrightScope started with DOL data, as we have grown we have
 gathered data and information from a variety of public sources,
@@ -292,7 +292,7 @@ create. In addition, through this analysis, it is useful to have a
 common framework with which to evaluate the quality of the disclosure,
 both in terms of data openness and legal openness.
 
-### Technical Openness {.western}
+### Technical Openness 
 
 When it comes to technical openness, our first belief is that releasing
 data in whatever state it is in is better than releasing no data at all.
@@ -330,7 +330,7 @@ the reports are narrative attachments to a document (the Form 5500), so
 they still require processing. I would still give the DOL high marks for
 making the most of what they currently receive, though.
 
-### Legal Openness {.western}
+### Legal Openness 
 
 Even once data is technically accessible, it must be open from a legal
 standpoint for it to be truly “open.” The “Open Definition,” as defined
@@ -389,7 +389,7 @@ data under a closed license lose the opportunity to cut their costs and
 leverage the combined skills and abilities of web-savvy engineers and
 entrepreneurs all over the world.
 
-### Lowering the Barriers to the Next Generations of Civic Startups {.western}
+### Lowering the Barriers to the Next Generations of Civic Startups 
 
 At BrightScope, we spend a tremendous amount of time collecting,
 processing, and integrating the data we obtain from our government
@@ -481,7 +481,7 @@ open data entrepreneurs and also to the very government agencies and
 departments tasked with regulating the companies, products, and
 industries that presently lack standards.
 
-### Closing Thoughts {.western}
+### Closing Thoughts 
 
 While we did not think of ourselves as civic entrepreneurs when we
 started, our history is really a history of government as a platform and
@@ -496,7 +496,7 @@ opportunities for entrepreneurs. Now, it is up to the open data
 community to work to lower the barriers to entry for future civic
 entrepreneurs.
 
-### About the Authors {.western}
+### About the Authors 
 
 Ryan Alfred is Co-Founder, President and COO of BrightScope, a financial
 information company that brings transparency to opaque markets. Ryan is
@@ -514,7 +514,7 @@ News, Fox Business News, National Public Radio and in the *Wall Street
 Journal*, the *New York Times*, *USA Today*, *Forbes*, *BusinessWeek*,
 and many others.
 
-### References {.western}
+### References 
 
 Financial Industry Regulatory Authority, Inc. (2013). Legal Notices.
 Retrieved

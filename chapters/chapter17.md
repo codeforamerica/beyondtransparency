@@ -1,18 +1,14 @@
 --- 
 layout: chapter
-author: blank
-title: blank 
+author: Mark Headd
+title: New Thinking in How Government Deliver Services
 ---
 
 
-Chapter 17 {.western}
+Chapter 17 
 ==========
 
-##### New Thinking in How Governments Deliver Services {.western}
-
-#### By Mark Headd {.western}
-
-### Introduction {.western}
+### Introduction 
 
 Open data programs provide a number of important benefits for
 governments and the citizens they serve. At the most basic level, these
@@ -27,7 +23,7 @@ problems with incumbent processes that are used by governments to
 procure technology solutions and services and provide insight into how
 these older processes might be improved.
 
-### Unlocking the Power of Open Data {.western}
+### Unlocking the Power of Open Data 
 
 The concept of “government as a platform”—an idea best, and most
 famously, articulated by Tim O’Reilly (2010), the founder of O’Reilly
@@ -104,7 +100,7 @@ Transportation Authority, which serves the Philadelphia area—are now
 actively advertising apps built by independent developers to their
 riders.
 
-### Beyond Public Transit: The Limits of Open Data {.western}
+### Beyond Public Transit: The Limits of Open Data 
 
 This fundamental shift away from government as the sole solution
 provider to a data steward is now taking hold outside the world of
@@ -151,7 +147,7 @@ sector entities to procure goods and services is often cited as a major
 barrier to introducing innovation—particularly the use of new
 technologies—into government operations.
 
-### Looking Ahead: Three Hard Truths for Government Procurement Reform {.western}
+### Looking Ahead: Three Hard Truths for Government Procurement Reform 
 
 Advancing the innovation agenda within government often means
 confronting the harsh reality of the government procurement process.
@@ -175,7 +171,7 @@ focusing on open government data as a foundational component for
 systematic change in how governments deliver services and information to
 those they serve.
 
-### Balancing Values {.section2-heading-western}
+### Balancing Values 
 
 The arguments in favor of reforming the government procurement process
 bear a striking similarity to arguments used by advocates for
@@ -257,7 +253,7 @@ this type to be relaxed or removed, or are there ways to relax these
 provisions without compromising the laudable outcomes they seek to
 encourage? This remains to be seen.
 
-### Nimbler Doesn’t Always Mean Better {.section2-heading-western}
+### Nimbler Doesn’t Always Mean Better 
 
 The great myth in government IT is that the private sector is always way
 ahead of the public sector in how technology is used.
@@ -298,7 +294,7 @@ to think more strategically about how they invest in technology and
 become better at learning how it can be used to make the delivery of
 public services more efficient and effective.
 
-### A Dearth of Makers Inside Government {.section2-heading-western}
+### A Dearth of Makers Inside Government 
 
 My experience working as a software developer for several years, and
 continuing to work with other developers from a variety of disciplines
@@ -370,7 +366,7 @@ focus on developing the “maker skills” of existing employees. This, by
 extension, will enhance the ability of governments to evaluate the
 estimates for work provided by respondents to RFPs.
 
-### Conclusion {.western}
+### Conclusion 
 
 Government open data programs and the independent apps they help
 generate provide tremendously helpful ways of fostering new approaches
@@ -392,7 +388,7 @@ The job of overhauling existing government procurement processes to
 encourage innovation will not be an easy one, but one of the many
 benefits of open data is that it has led to this important discussion.
 
-### About the Author {.western}
+### About the Author 
 
 Mark Headd is a writer, speaker, teacher, and thought leader on web
 development, open government and civic hacking. Self taught in
@@ -413,7 +409,7 @@ cities of New York, San Francisco, Toronto, Baltimore, and Philadelphia.
 He is an organizer, judge, sponsor, and participant in civic hacking
 events across the country, including Philadelphia and Baltimore.
 
-### References {.western}
+### References 
 
 Center for Technology in Government. (2012). The Dynamics of Opening
 Government Data. Albany, NY: Helbig, N., Cresswell, A. M., Burke, G. B.,

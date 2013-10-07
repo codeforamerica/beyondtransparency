@@ -55,7 +55,7 @@ government—including the sensible release and adequate guidance in the
 use of open data—can offer a path toward developing a new and vibrant
 public square.
 
-### Towards a Twenty-First Century Town Hall {.western}
+### Towards a Twenty-First Century Town Hall 
 
 The local level provides an unparalleled space for government to harness
 the power of community groups, neighborhood associations, other
@@ -94,7 +94,7 @@ Because of this immediate relevance of municipal services to the average
 citizen’s life, the local level is a promising point of entry into
 establishing a modern day public sphere.
 
-### From Data to Engagement {.western}
+### From Data to Engagement 
 
 Any conversation about relationships between government and citizens at
 the local level necessitates a consideration of data. Our cities are
@@ -190,7 +190,7 @@ transportation trips more effectively. This seemingly small action
 changed the public’s expectation for transit planning and transit data
 sharing.
 
-### The Challenge of Inclusive Engagement {.western}
+### The Challenge of Inclusive Engagement 
 
 Open data that powers inclusive citizen engagement requires a level of
 co-governance that goes beyond simply publishing data for transparency’s
@@ -295,7 +295,7 @@ century democracy. But that will only occur if the open data community
 moves forward with sensitivity and wisdom to the realities of our
 cities’ ecosystems and needs.
 
-### About the Authors {.western}
+### About the Authors 
 
 Alissa Black directs the New America Foundation’s California Civic
 Innovation Project. Based in the Bay area, Ms. Black is exploring the
@@ -313,7 +313,7 @@ citizen reporting.
 Rachel Burstein is a research associate at the California Civic
 Innovation Project at the New America Foundation.
 
-### References {.western}
+### References 
 
 Burstein, Rachel (2013). The Case for Strengthening Personal Networks in
 California Local Government: Understanding local government innovation

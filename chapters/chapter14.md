@@ -84,7 +84,7 @@ For New York, a series of 2011 apartment fires helped galvanize our
 focus on the ability of data—in this case, the data that we already
 had—to save lives.
 
-### Apartment Fires in the Bronx and Brooklyn {.western}
+### Apartment Fires in the Bronx and Brooklyn 
 
 In the spring of 2011, a pair of house fires in apartment buildings in
 the Bronx and Brooklyn killed five people as a result of unsafe living
@@ -117,7 +117,7 @@ determine which pieces of information are the most valuable predictors
 of catastrophic outcomes? Our team, the Mayor’s Office of Data
 Analytics, set to work to answer those questions.
 
-### Analyzing the Illegal Conversion Problem {.section2-heading-western}
+### Analyzing the Illegal Conversion Problem 
 
 Providing safe, abundant, and affordable housing is a priority for the
 leader of every community, from the mayor of a town of 25,000 to the
@@ -209,7 +209,7 @@ By prioritizing the complaints that are most likely to be dangerous, we
 are remediating dangerous conditions faster, without any additional
 inspector manpower. That is a safety-based resource allocation plan.
 
-### Collecting the Information That Drives Our Analytics {.western}
+### Collecting the Information That Drives Our Analytics 
 
 The experience of the Department of Buildings’ illegal conversions risk
 filter demonstrated firsthand for us how difficult it could be to gain
@@ -314,7 +314,7 @@ then, we’ll work with what we have. A rational, project-based approach
 to data collection and connection is the best way to build success over
 time.
 
-### Agencies Are Our Clients {.western}
+### Agencies Are Our Clients 
 
 When we collect information from agencies, we’re asking for them to give
 us access to their legacy IT systems and share all of their information.
@@ -399,7 +399,7 @@ what is most important in this analytics project: we are reducing the
 amount of time that people are at increased risk of burning to death and
 that reduction in time is what we’re tracking.
 
-### Routinizing and Operationalizing the Insight {.western}
+### Routinizing and Operationalizing the Insight 
 
 The greatest challenge for the analytics team is moving from insight to
 action. Insight is powerful, but it’s worthless if the behavior in the
@@ -433,7 +433,7 @@ reported data, not in a different, detached method. It sounds simple,
 but it’s so easy to go wrong. Don’t change the front line process;
 change the outcome.
 
-### Keep Focused on What Will Work {.western}
+### Keep Focused on What Will Work 
 
 While the buzz around big data seems to have been generated out of thin
 air, the outcomes associated with it will only come from hard work, with
@@ -451,7 +451,7 @@ is that we are not changing the approach.
 An effective analytics project is one that gets in and gets out sight
 unseen. Let the results speak for the project.
 
-### Lessons Learned {.western}
+### Lessons Learned 
 
 When I first joined the Bloomberg Administration at the end of 2009, it
 was just me at a cubicle, making phone calls, studying organizational
@@ -514,7 +514,7 @@ remember at all times that the point of all this effort is to help your
 city and its people thrive. Keep all this in mind. Just dive in and do
 it. You may be amazed at what you find.
 
-### About the Author {.western}
+### About the Author 
 
 Michael Flowers is Chief Analytics Officer and Chief Open Platform
 Officer for the City of New York. Prior to joining the Bloomberg
@@ -530,7 +530,7 @@ Saddam Hussein and other high-ranking members of his regime. Mr. Flowers
 is a magna cum laude graduate of Temple University School of Law in
 Philadelphia.
 
-### References {.western}
+### References 
 
 Roosevelt, Theodore (1910). “Citizenship in a Republic.” [Speech]
 Retrieved from http://www.theodore-roosevelt.com/trsorbonnespeech.html

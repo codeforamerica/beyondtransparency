@@ -30,7 +30,7 @@ Our journey shows why open data matters to a city with big troubles and
 how something as geeky as public records access supports a positive
 transformation in our city—for everyone, not just for us geeks.
 
-### The Start of Open: The Conviction Phase {.western}
+### The Start of Open: The Conviction Phase 
 
 The event that changed my thinking and changed my organization toward
 “open by default” was as unexpected as it was transformative. I’ve had
@@ -142,7 +142,7 @@ institutions, with our ideas. Yet, as Aaron Swartz  (2012) said, we must
 fix the machine, not the people. We have to reach and connect with the
 people in order to fix our broken, closed governments.
 
-### Unreasonable Expectations {.western}
+### Unreasonable Expectations 
 
 Oakland’s city government had long been seen as a blocker of access to
 information. Information is routinely not accessible unless you are
@@ -230,7 +230,7 @@ immediately implement this law. Instead, we had a resolution approved to
 “investigate open data platforms,” resulting in an approved plan and a
 contract with Socrata to provide such a platform.
 
-### Are We Opening Government? {.western}
+### Are We Opening Government? 
 
 This left Oakland in a strange position. We have both a community-driven
 open data platform and a city-supported platform, but we are one of the
@@ -297,7 +297,7 @@ This is a patently false statement because the reality is that the data
 was removed. The same data was still, however, available on the state
 controller’s website.
 
-### The Panacea of Data-Driven Cities {.western}
+### The Panacea of Data-Driven Cities 
 
 It’s hard to imagine a new policy, new social service, or new investment
 decision being made in any company or government without the strategic
@@ -339,7 +339,7 @@ ugly consequences, but they must be seen as growing pains as we move
 from immature uses of data in government to a place where data-driven
 decision-making is the norm.
 
-### Leveraging the Long Tail of Government {.western}
+### Leveraging the Long Tail of Government 
 
 Many critics in Oakland have suggested that open data doesn’t explain
 anything, doesn’t make anything clear, and doesn’t provide answers. Some
@@ -440,7 +440,7 @@ layer of public records refusals. Instead, it would create a reality in
 which hundreds or thousands of their constituents can access and
 question data that explain their motives and actions.
 
-### What Has Data Done for Me Lately? {.western}
+### What Has Data Done for Me Lately? 
 
 As the furious rush to build “innovative” and “game changing“ civic apps
 and new tools starts to plateau, I believe we are seeing a slow but
@@ -521,7 +521,7 @@ over simple goodwill and flowery slogans, and we will push for
 evidence-based practice over “doing what we’ve always done because it
 works.”
 
-### Into the Danger Zone {.western}
+### Into the Danger Zone 
 
 One caveat that those of us in the data trade will have to work
 carefully around is competing standards of open data. Many organizations
@@ -555,7 +555,7 @@ process and assumed permissions. In this case, it may be necessary to
 adopt a research access agreement similar to that used by school
 districts to ensure PRA and sensitive data are not released incorrectly.
 
-### Community Development {.western}
+### Community Development 
 
 There is one important sector of American cities that has barely been
 affected by open data: community development. This field consists of
@@ -583,7 +583,7 @@ government become more focused on evidence-based and data-driven
 efforts, both sources of investment must accept their role in supporting
 or providing that kind of capacity.
 
-### Who Owns Your Data? {.western}
+### Who Owns Your Data? 
 
 Opening property data will bring a fight over public ownership that
 opening property data. Presently, in Alameda County, any nonprofit or
@@ -614,7 +614,7 @@ to answer a simple question like “How many foreclosures did you accept
 in the city of Oakland this year?” Because the agency itself creates no
 data, it cannot answer this question directly.
 
-### Are You Open for Business? {.western}
+### Are You Open for Business? 
 
 On the back of the benefits that community development can reap are the
 even more substantial rewards gained through increased economic
@@ -649,7 +649,7 @@ demonstration of recognizing the potential in the long tail of
 government and in how open government can collectively do so much more
 together.
 
-### Conclusion {.western}
+### Conclusion 
 
 Every city takes a different path to open its data and progress toward
 open government. Oakland is off to a slow but exciting start with its
@@ -691,7 +691,7 @@ should not be the norm anymore. We enable far more value to be created
 once we become open-by-default cities: open for business, open for
 engagement, and open for innovation.
 
-### Author’s Note {.western}
+### Author’s Note 
 
 *After writing, some positive progress has been made in Oakland. At the
 request of council member Schaaf, we are beginning crowdsourcing of new
@@ -706,7 +706,7 @@ fun. Next we hold a roundtable session to review and consider what this
 means for our city. And then we try to get this passed! Onward. —Steve
 Spiker*
 
-### About the Author {.western}
+### About the Author 
 
 Steve Spiker (Spike) is the Director of Research & Technology at the
 Urban Strategies Council, a social change nonprofit supporting
@@ -716,7 +716,7 @@ and tech work. He is also the Executive Director and co-founder of
 OpenOakland, a civic innovation organization supporting open data and
 open government in the East Bay.
 
-### References {.western}
+### References 
 
 Eaves, D. (2010). Open Government. Available
 from [https://github.com/oreillymedia/open\_government](https://github.com/oreillymedia/open_government)
@@ -735,7 +735,4 @@ from http://www.infoalamedacounty.org/index.php/research/crimesafety/violencepr
 Urban Strategies Council. (2012, May 22). Our Method: Oakland’s 100
 Blocks Plan. Retrieved
 from http://www.infoalamedacounty.org/index.php/research/crimesafety/violenceprevention/oakland100blocksmethod.html
-
-\
-\
 

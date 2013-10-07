@@ -30,7 +30,7 @@ great organizations. In Louisville, we’ve focused on how to implement
 those principles and practices in the government context, using open
 data to drive a culture of continuous improvement.
 
-### Government Is Not Special {.western}
+### Government Is Not Special 
 
 Whether it’s getting a driver’s license, ordering a new recycling or
 trash bin, or reporting a pothole in the road, all too often, citizens
@@ -116,7 +116,7 @@ How do you get beyond data for the sake of data and use it to inform
 decisions and drive culture change? We’re tackling these questions in
 Louisville and learning some lessons along the way.
 
-### Open Data is the Foundation {.western}
+### Open Data is the Foundation 
 
 In January 2003, the City of Louisville and the surrounding Jefferson
 County merged to form a consolidated city-county government. Today, the
@@ -132,7 +132,7 @@ unionized, with approximately seventy-six percent of all employees in a
 union. The city’s general fund budget is approximately \$530 million,
 and the total operating budget is just over \$650 million.
 
-### The Start of Our Journey: Financial Transparency {.western}
+### The Start of Our Journey: Financial Transparency 
 
 Louisville’s journey from transparency to truly open data started in
 2009, when the Metro Council passed a financial transparency ordinance.
@@ -162,7 +162,7 @@ checkbook was the license refunds for the year. But releasing that data
 without context or explaining the license refunds created a needless
 media headache.
 
-### Making Open Data Serve the Citizen {.western}
+### Making Open Data Serve the Citizen 
 
 We learned two lessons from that experience: the data needs
 user-friendly names, and it needs to be released in context to avoid
@@ -191,7 +191,7 @@ into city operations, give citizens access to use that data to build new
 tools, and create a more efficient city that delivers better services
 and more effectively allocates taxpayer dollars.
 
-### Moving Beyond Open Data to Continuous Improvement {.western}
+### Moving Beyond Open Data to Continuous Improvement 
 
 Louisville’s early open data efforts had already been underway for
 several years when Mayor Greg Fischer took office in January 2011. The
@@ -270,7 +270,7 @@ useful, so while we had a good amount of data in raw form, we needed to
 start using the data to identify ways to continually improve what we
 were delivering to citizens and how.
 
-### Implementation Is Messy {.western}
+### Implementation Is Messy 
 
 In that first year, OPI brought nine departments into the LouieStat
 program: Public Works & Assets, Fire & Rescue, Corrections, Parks,
@@ -307,7 +307,7 @@ don’t wait for the data to be perfect to start.
 Still, we quickly realized we needed a way to focus in on the data that
 mattered most to the mission success of each department.
 
-### Strategic Planning in Performance Management {.western}
+### Strategic Planning in Performance Management 
 
 Strategic planning needed to be a part of our approach if we were going
 to focus our analysis on what truly mattered. At that time, Metro did
@@ -335,7 +335,7 @@ about the role of government in achieving the city’s priorities. At the
 very least, connecting strategy to budget is forcing departments to
 question the value of some entrenched programs with unclear outcomes.
 
-### Performance Management: How Well Are We Doing? {.western}
+### Performance Management: How Well Are We Doing? 
 
 The strategic plans gave us a good understanding of what we were trying
 to do at a strategic level, and to some extent, at an operational level.
@@ -410,7 +410,7 @@ In addition to recognition of success, the annual Day of Celebration
 includes a training and education focus with breakout sessions providing
 an introduction to performance management tools.
 
-### Capability Building and Continuous Improvement: How Do We Go From Here to There? {.western}
+### Capability Building and Continuous Improvement: How Do We Go From Here to There? 
 
 Don’t just give me your hands, give me your hearts and minds.
 
@@ -535,13 +535,13 @@ addressed issues impacting our structural budget imbalance, like high
 unscheduled overtime, long hiring processes, and inappropriate cost
 recoupment for special events.
 
-### This Stuff Really Works: Tangible Results from the Field {.western}
+### This Stuff Really Works: Tangible Results from the Field 
 
 Since the launch of OPI in 2012, Louisville Metro Government and the
 various departments and employees involved in the continuous improvement
 work have reached a number of accomplishments.
 
-### Public Works & Assets: Missed Trash Pickup {.section2-heading-western}
+### Public Works & Assets: Missed Trash Pickup 
 
 Public Works & Assets was the first department in the LouieStat program.
 Citizen calls for service through the MetroCall 311 system was one of
@@ -574,7 +574,7 @@ when we had roads to pave, sidewalks to fix, and other issues to
 address. Understanding the data underlying the perceived problem helped
 us better allocate resources where they were truly needed most.
 
-### Corrections: Fingerprinting Errors {.section2-heading-western}
+### Corrections: Fingerprinting Errors 
 
 At any one time, Louisville Metro Corrections department may have
 anywhere from 1,700 to 2,200 inmates in its facility. There are numerous
@@ -603,7 +603,7 @@ officers each watch to administer fingerprints. Within one month, the
 number of fingerprints sent back from the state dropped from an average
 of 250 per month to 10.
 
-### Louisville Metro Government: High Cost of Unscheduled Overtime {.section2-heading-western}
+### Louisville Metro Government: High Cost of Unscheduled Overtime 
 
 In January 2012, Louisville’s Chief Financial Officer and Director of
 Human Resources produced a report that revealed that more than one in
@@ -630,7 +630,7 @@ estimated overtime budgets. With these changes, Metro has seen a
 reduction in unscheduled overtime by more than \$1.4 million, or
 fourteen percent, in the last fiscal year.
 
-### Louisville Metro Government: Lengthy Hiring Process Cycle Time {.section2-heading-western}
+### Louisville Metro Government: Lengthy Hiring Process Cycle Time 
 
 Complaints over the time it took to fill vacancies were high in January
 2012. The hiring process could take anywhere from two to six months—if
@@ -653,7 +653,7 @@ departments, placing time limits on how long any one step can take,
 etc.) the team was able to reduce the hiring process from a maximum of
 three hundred days to a maximum of seventy-five days.
 
-### Looking to the Horizon: Where Are We Headed Next? {.western}
+### Looking to the Horizon: Where Are We Headed Next? 
 
 Building on our progress in developing a culture of continuous
 improvement within city government, our next steps are to roll out those
@@ -665,7 +665,7 @@ problems that reach far beyond government’s capacity to address alone.
 To that end, we see the future of Louisville’s Performance Improvement
 journey as having three parts.
 
-### Taking open data to the next level {.section2-heading-western}
+### Taking open data to the next level 
 
 -   Benchmarking to meaningfully compare Louisville’s performance to
     other cities or organizations.
@@ -681,7 +681,7 @@ journey as having three parts.
     parties to help “audit” (update/refine) the data and information
     that government holds.
 
-### Leveraging data to optimize internal government processes {.section2-heading-western}
+### Leveraging data to optimize internal government processes 
 
 Using Predictive Analytics to marshal resources for proactive action by
 departments.
@@ -689,13 +689,13 @@ departments.
 -   Cascading improvement efforts throughout city government, including
     participation in LouieStat by every department
 
-### Convening community partners, using a common set of metrics to drive coordination {.section2-heading-western}
+### Convening community partners, using a common set of metrics to drive coordination 
 
 -   Creating issue-based Stat Programs to take the principles of
     LouieStat beyond department-centric challenges & metrics to include
     community partners
 
-### Louisville’s First Issue-based “Stat” Program {.western}
+### Louisville’s First Issue-based “Stat” Program 
 
 A great example of where we are heading and how we hope to deploy these
 advances is the pilot of Vacant & Abandoned Properties Statistics
@@ -720,26 +720,26 @@ a comprehensive community approach to the complex problem.
 
 VAPSTAT will build on the city’s open data resources in several ways.
 
-### Benchmarking against peers {.section2-heading-western}
+### Benchmarking against peers 
 
 VAPSTAT will benchmark Louisville’s data against BlightStatus in New
 Orleans and other cities with high levels of vacant properties, like
 Detroit and Philadelphia, to understand the scope of the problem and
 progress relative to other cities.
 
-### Creating geospatial tools {.section2-heading-western}
+### Creating geospatial tools 
 
 VAPSTAT will overlay vacant and abandoned lots/structures with fire,
 type of crime, and property violations through our code enforcement
 database, using site addresses to help understand how vacant and
 abandoned properties correlate with other issues.
 
-### Putting raw data in exportable formats {.section2-heading-western}
+### Putting raw data in exportable formats 
 
 Our open data portal currently contains datasets for property
 maintenance, vacant and abandoned property listings, and crime data.
 
-### Using predictive analytics {.section2-heading-western}
+### Using predictive analytics 
 
 VAPSTAT will combine water and electrical connectivity, postal service
 data, and property maintenance data to anticipate and better plan for
@@ -755,7 +755,7 @@ issue will have a clear way to engage with other community
 players—catalyzing partnerships, reducing duplication of efforts, and
 leveraging existing resources.
 
-### Conclusion {.western}
+### Conclusion 
 
 Along our journey in Louisville, four major takeaways have helped us get
 started and build momentum. First, recognize that data will never be
@@ -779,7 +779,7 @@ skill-building opportunities, can create a culture of continuous
 improvement. That is the true goal of government reform and the driving
 mission of our work in Louisville.
 
-### About the Authors {.western}
+### About the Authors 
 
 A native of Connecticut, Theresa Reno-Weber moved to Louisville in 2010
 with her husband, who was born and raised there. She most recently
@@ -796,7 +796,7 @@ merged Louisville-Jefferson County Metro Government in 2003. She was
 recognized as one of *Government Technology’s* Top 25 Doers, Dreamers,
 and Drivers in 2011.
 
-### References {.western}
+### References 
 
 Collins, J. (2001). *Good to Great.*
 

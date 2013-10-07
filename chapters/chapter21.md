@@ -117,7 +117,7 @@ malfeasance needs systemic regulation. It’s time for government to enter
 the age of big data. Algorithmic regulation is an idea whose time has
 come.
 
-### The Role of Open Data and Government as a Platform {.western}
+### The Role of Open Data and Government as a Platform 
 
 There are those who say that government should just stay out of
 regulating many areas, and let “the market” sort things out. But there
@@ -171,7 +171,7 @@ When government regulators focus on requiring disclosure, that lets
 private companies build services for consumers, and frees up more
 enforcement time to go after truly serious malefactors.
 
-### Regulation Meets Reputation {.western}
+### Regulation Meets Reputation 
 
 It is true that “that government governs best that governs least.” But
 the secret to “governing least” is to identify key outcomes that we care
@@ -234,7 +234,7 @@ next door to the one in which he was having lunch with staff including a
 number of EMR techs, he commissioned an app that would allow any citizen
 with EMR training to receive the same dispatch calls as officials.
 
-### The Role of Sensors in Algorithmic Regulation {.western}
+### The Role of Sensors in Algorithmic Regulation 
 
 Increasingly, our interactions with businesses, government, and the
 built environment are becoming digital, and thus amenable to creative
@@ -285,7 +285,7 @@ route. Smartphone GPS sensors and smart routing algorithms could lead to
 a hybrid of taxi and bus service, bringing affordable, flexible public
 transportation to a much larger audience.
 
-### The First Step is Measurement {.western}
+### The First Step is Measurement 
 
 Data driven regulatory systems need not be as complex as those used by
 Google or credit card companies, or as those imagined above. Sometimes,
@@ -361,7 +361,7 @@ interventions.
 There’s a long way to go. We’re just at the beginning of thinking about
 how measurement, outcomes, and regulation come together.
 
-### Risks of Algorithmic Regulation {.western}
+### Risks of Algorithmic Regulation 
 
 The use of algorithmic regulation increases the power of regulators, and
 in some cases, could lead to abuses, or to conditions that seem anathema
@@ -413,7 +413,7 @@ benefits we receive from its use.
 
 This is no different in a government context.
 
-### In Conclusion {.western}
+### In Conclusion 
 
 We are just at the beginning of a big data algorithmic revolution that
 will touch all elements of our society. Government needs to participate
@@ -439,7 +439,7 @@ data also helps us to understand whether we are achieving our desired
 objectives, and potentially allows for competition in better ways to
 achieve those objectives.
 
-### About the Author {.western}
+### About the Author 
 
 Tim O’Reilly is the founder and CEO of [O’Reilly Media
 Inc.](http://oreilly.com/), thought by many to be the best computer book
@@ -461,7 +461,7 @@ O’Reilly Media. Maker Media’s [Maker Faire](http://makerfaire.com/) has
 been compared to the West Coast Computer Faire, which launched the
 personal computer revolution.
 
-### References {.western}
+### References 
 
 Lichtblau, E., & Schmidt, M.S. (2013, August 3). Other Agencies Clamor
 for Data N.S.A. Compiles. The New York Times. Retrieved from

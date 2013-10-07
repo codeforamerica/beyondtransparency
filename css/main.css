@@ -261,10 +261,9 @@ div.critics .attribution{
 }
 
 .chapter-nav{ 
-
   position:fixed;
   top:80px;
-  left:0px;
+  right:-280px;
   bottom:0px;
   width:280px;
   background:#444;
@@ -272,6 +271,12 @@ div.critics .attribution{
   text-align:left;
   border-right:solid 1px #000;
   padding-top:15px;
+  display:none;
+}
+.chapter-nav.show{ 
+  transition:all 1s ease-in-out;
+  right:0px;
+  
 }
 .chapter-nav ul{ 
   margin:0px;

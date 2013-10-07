@@ -236,7 +236,7 @@ After two years of building a successful program in the City of Chicago,
 there are a series of critical points that can be leveraged as other
 cities consider implementing or expanding open data.
 
-### Architecture {.section2-heading-western}
+### Architecture 
 
 Building a large, useful, machine-readable, and meaningful data portal
 is a non-trivial technical task. First, of course, comes the question of
@@ -272,7 +272,7 @@ the issue is trivial. However, what if you want to load something like
 GPS coordinates of your assets? In Chicago, that would be approximately
 ten million rows a day. That would stress most environments.
 
-### Sustainability {.section2-heading-western}
+### Sustainability 
 
 It may seem odd to call out this very specific point, but I suspect it
 is one of the most critical: the sustainability of the overall design.
@@ -301,7 +301,7 @@ honest. Lastly, it creates sustainability. The program ceases to become
 about a single individual and, instead, becomes a programmatic area
 within the technological organization.
 
-### Fear {.section2-heading-western}
+### Fear 
 
 There is a strong institutional fear of open data. In a culture of
 “gotcha” journalism, the idea of something being disclosed that could
