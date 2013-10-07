@@ -40,6 +40,7 @@ div.menu-btn{
   font-family: 'TradeGothicLTCom-Bd2';
   font-weight:bold;
   cursor:pointer;
+  margin-top: 12px;
 }
 .navbar-nav .menu-btn{ 
   margin-top:22px;
