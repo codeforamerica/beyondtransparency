@@ -22,7 +22,22 @@ layout: default
   <div class="col-md-3 in-chapter-sidebar">
     <div class="in-chapter-sidebar-content">
       <div class="chapter-nav-links">
-        <a href="">&lt;- Chap 1</a> <a href=""> Chap 2 -&gt;</a>
+        {% capture prev %}{{page.chapter | minus:1  }}{% endcapture %}
+        {% capture next %}{{page.chapter | plus:1  }}{% endcapture %}
+
+        
+
+        {% for p in site.pages %}
+
+        {% capture counter %}{{p.chapter | plus:0  }}{% endcapture %}
+          {% if counter ==  prev  %}
+  
+            <a href="{{ p.url }}">&lt;- Chap {{ p.chapter}}</a>
+          {% endif %}
+          {% if counter == next %}  
+            <a href="{{ p.url }}">Chap {{ p.chapter}} -&gt;</a>
+          {% endif %}
+        {% endfor %}
       </div>
       {% if !page.author %}
       <div class="author">
