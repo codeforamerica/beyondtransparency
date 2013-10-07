@@ -246,8 +246,8 @@ div.critics{
   padding-bottom:50px;
 }
 div.critics .attribution{ 
-  font-weight:bold;
   text-align:right;
+  font-family: 'NewCaledoniaLT-Italic';
 }
 
 
@@ -351,8 +351,8 @@ div.critics .attribution{
   margin-bottom:10px;
 }
 .author .name{ 
+  font-family: 'TradeGothicLTCom-Bd2';
   font-size:18px;
-  font-weight:bold;
 }
 
 .author .twitter{
@@ -370,15 +370,18 @@ div.critics .attribution{
 }
 .in-chapter-nav{ 
   font-size:16px;
-
 }
 .in-chapter-nav ul{ 
   padding:0px;
   margin:0px;
 }
 .in-chapter-nav ul li{
+  font-family: 'TradeGothicLT';
   padding:3px 0px;
   list-style:none;
+}
+.in-chapter-sidebar-content .chapter-nav-links a {
+  font-family: 'TradeGothicLT';
 }
 
 .in-chapter-sidebar{ 
