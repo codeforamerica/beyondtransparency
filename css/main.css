@@ -208,11 +208,9 @@ div.contributors{
 div.section-heading{ 
   text-align:center;
   padding:30px 0px;
+  text-transform: uppercase;
 }
-div.contributors h3,
-div.critics h3 { 
-  text-transform:uppercase;
-}
+
 div.contributors .authors{
   width:820px;
   margin:auto;
