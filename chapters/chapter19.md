@@ -6,12 +6,11 @@ author:
 title: "Benchmarking Performance Data"
 chapter: 19
 twitter: Revelstone
-permalink:
 ---
 
 *Come senators, congressmen, please heed the call*
 
-*Don’t stand in the doorway, don’t block up the hall…*
+*Don’t stand in the doorway, don’t block up the hall...*
 
 *It’ll soon shake your windows and rattle your walls*
 
@@ -701,10 +700,4 @@ in New York City, Project Scorecard.
 [http://logd.tw.rpi.edu/iogds\_data\_analytics](http://logd.tw.rpi.edu/iogds_data_analytics)
 
 2010, GASB issued “Suggested Guidelines for Voluntary Reporting”
-
-\
-\
-
-\
-\
 
