@@ -9,16 +9,13 @@ h1, h2, h3, h4, h5 {
   font-family: 'TradeGothicLTCom-Bd2';
 }
 
-a,a:visited{ 
-  color:#404040;
-  text-decoration:underline;
-}
-a {
-  color:#505050;
+a, a:visited{ 
+  color:#333;
 }
 
 a:hover {
   color: #bd2961;
+  text-decoration: none;
 }
 
 div.clear{ 
@@ -360,6 +357,19 @@ div.critics .attribution{
   font-size:18px;
 }
 
+.author .job-title,
+.author .employer,
+.author .about {
+  font-family: 'NewCaledoniaLT-Italic';
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.author .job-title,
+.author .employer {
+  color: #777;
+}
+
 .author .twitter{
   background-image: url("/images/twitter.png");
   background-repeat: no-repeat;
@@ -368,14 +378,19 @@ div.critics .attribution{
 }
 .author .twitter a{ 
   text-decoration:none;
+  font-size: 16px;
 }
 .author .about{ 
   margin:10px 0px;
-  font-size:12px;
 }
 .in-chapter-nav{ 
   font-size:16px;
 }
+
+.in-chapter-nav h4 {
+  margin-top: 25px;
+}
+
 .in-chapter-nav ul{ 
   padding:0px;
   margin:0px;
@@ -388,6 +403,8 @@ div.critics .attribution{
 }
 .in-chapter-sidebar-content .chapter-nav-links a {
   font-family: 'TradeGothicLT';
+  text-transform: uppercase;
+  font-size: 13px;
 }
 
 .in-chapter-sidebar{ 
