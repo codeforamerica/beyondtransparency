@@ -124,7 +124,7 @@ essential to solving these complicated issues. He purposefully pulled
 together people from different departments, and their data, to find
 solutions.
 
-### Stories of Success with StateStat 
+## Stories of Success with StateStat 
 
 ### Childhood Hunger 
 

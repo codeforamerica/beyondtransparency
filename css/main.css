@@ -249,6 +249,11 @@ div.critics .attribution{
   text-align:right;
 }
 
+div.about-book{ 
+  background:#5b9da6;
+  color:#404040;
+  padding-bottom:50px;
+}
 
 
 
@@ -264,6 +269,7 @@ div.critics .attribution{
   font-size:20px;
   line-height:28px;
 }
+.chapter-text h2, 
 .chapter-text h3, 
 .chapter-text h4{ 
   margin-top:80px;
@@ -375,6 +381,7 @@ div.critics .attribution{
 .in-chapter-nav ul li{
   padding:3px 0px;
   list-style:none;
+  cursor:pointer;
 }
 
 .in-chapter-sidebar{ 
