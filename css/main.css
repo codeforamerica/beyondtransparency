@@ -9,12 +9,13 @@ h1, h2, h3, h4, h5 {
   font-family: 'TradeGothicLTCom-Bd2';
 }
 
-a,a:visited{ 
-  color:#404040;
-  text-decoration:underline;
+a, a:visited{ 
+  color:#333;
 }
-a,a:hover{
-  color:#505050;
+
+a:hover {
+  color: #bd2961;
+  text-decoration: none;
 }
 
 div.clear{ 
@@ -40,6 +41,7 @@ div.menu-btn{
   font-family: 'TradeGothicLTCom-Bd2';
   font-weight:bold;
   cursor:pointer;
+  margin-top: 12px;
 }
 .navbar-nav .menu-btn{ 
   margin-top:22px;
@@ -245,8 +247,8 @@ div.critics{
   padding-bottom:50px;
 }
 div.critics .attribution{ 
-  font-weight:bold;
   text-align:right;
+  font-family: 'NewCaledoniaLT-Italic';
 }
 
 div.about-book{ 
@@ -267,23 +269,27 @@ div.about-book{
 }
 .chapter-text{ 
   font-size:20px;
-  line-height:28px;
+  line-height:30px;
 }
 .chapter-text h2, 
 .chapter-text h3, 
 .chapter-text h4{ 
-  margin-top:80px;
+  margin-top:50px;
+}
+
+.chapter-text p {
+  margin-bottom: 30px;
 }
 
 .chapter-number{ 
   font-size:24px;
-  font-weight:normal;
+  font-family: 'TradeGothicLT';
   text-transform:uppercase;
 }
 .chapter .chapter-title{ 
   margin:10px 0px 20px;
   font-size:46px;
-  line-height:40px;
+  line-height:51px;
 }
 .chapter-author{ 
   margin-bottom:60px;
@@ -353,8 +359,21 @@ div.about-book{
   margin-bottom:10px;
 }
 .author .name{ 
+  font-family: 'TradeGothicLTCom-Bd2';
   font-size:18px;
-  font-weight:bold;
+}
+
+.author .job-title,
+.author .employer,
+.author .about {
+  font-family: 'NewCaledoniaLT-Italic';
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.author .job-title,
+.author .employer {
+  color: #777;
 }
 
 .author .twitter{
@@ -365,23 +384,34 @@ div.about-book{
 }
 .author .twitter a{ 
   text-decoration:none;
+  font-size: 16px;
 }
 .author .about{ 
   margin:10px 0px;
-  font-size:12px;
 }
 .in-chapter-nav{ 
   font-size:16px;
-
 }
+
+.in-chapter-nav h4 {
+  margin-top: 25px;
+}
+
 .in-chapter-nav ul{ 
   padding:0px;
   margin:0px;
 }
 .in-chapter-nav ul li{
+  font-family: 'TradeGothicLT';
+  font-size: 13px;
   padding:3px 0px;
   list-style:none;
   cursor:pointer;
+}
+.in-chapter-sidebar-content .chapter-nav-links a {
+  font-family: 'TradeGothicLT';
+  text-transform: uppercase;
+  font-size: 13px;
 }
 
 .in-chapter-sidebar{ 
