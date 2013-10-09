@@ -13,7 +13,8 @@ a, a:visited{
   color:#333;
 }
 
-a:hover {
+a:hover,
+div.menu-btn:hover {
   color: #bd2961;
   text-decoration: none;
 }
