@@ -209,6 +209,12 @@ div.city-graph img {
   width: 980px;
 }
 
+div.contributors, 
+div.critics,
+div.about-book {
+  padding: 50px 0px;
+}
+
 div.contributors{ 
   background:#f3f4f3;
   color:#404040;
