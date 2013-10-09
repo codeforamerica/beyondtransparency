@@ -1,9 +1,18 @@
 ---
 layout: chapter
-author: Brett Goldstein
 title: Preface
 part: 0
 chapter: 0
+
+author: 
+  -
+     name: Brett Goldstein
+     job: Former Chief Data Officer 
+     employer: City of Chicago
+     photo_url: /images/authors/brett.png
+     twitter: bjgol     
+
+permalink: /preface/
 ---
 
 The rise of open data in the public sector has sparked innovation, driven efficiency, and fueled economic development. And in the vein of high-profile federal initiatives like Data.gov and the White House’s Open Government Initiative, more and more governments at the local level are making their foray into the field with Chief Data Officers, open data policies, and open data catalogs.
