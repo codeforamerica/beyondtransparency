@@ -190,6 +190,11 @@ div.chapter{
 div.title{ 
   text-align:center;
 }
+
+div.title img {
+  width: 500px;
+}
+
 div.byline{ 
   text-align:center;
 }
