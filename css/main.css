@@ -231,16 +231,18 @@ div.section-heading img {
 }
 
 div.contributors .authors{
-  width:820px;
+  width:980px;
   margin:auto;
 }
  
 div.contributors li { 
-  font-size:16px;
-  width:380px;
+  font-size:18px;
+  width:50%;
   float:left;
   list-style:none;
   padding:0px;
+  font-family: 'NewCaledoniaLT-Italic';
+  color: #777;
 }
 div.contributors li img{ 
   max-height:70px;
@@ -249,12 +251,8 @@ div.contributors li img{
 }
 div.contributors div.name{ 
   font-family: 'TradeGothicLTCom-Bd2';
-  font-size: 20px;
+  font-size: 22px;
   color:#333;
-}
-div.contributors div.chapter-title{ 
-  font-style:italic;
-  color: #777;
 }
 
 
