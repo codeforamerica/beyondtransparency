@@ -143,9 +143,6 @@ div.offset2{
   left:85%;
 }
 
-
-
-
 div.btn-primary{ 
   background-color:#bd2961;
   border-color:#bd2961;
@@ -157,6 +154,7 @@ div.btn-read{
   background-image:url("/images/btn-arrow.png");
   background-repeat: no-repeat;
   background-position: center right 20px;
+  background-size: 28px;
   padding-right:56px;
 }
 
