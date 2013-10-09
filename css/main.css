@@ -13,7 +13,8 @@ a, a:visited{
   color:#333;
 }
 
-a:hover {
+a:hover,
+div.menu-btn:hover {
   color: #bd2961;
   text-decoration: none;
 }
@@ -68,7 +69,7 @@ nav.navbar.withsidebar{
 }
 
 div.header{ 
-  height:800px;
+  height:1000px;
   background:#b8e0eb;
   z-index:0;
   position:relative;
@@ -143,25 +144,25 @@ div.offset2{
   left:85%;
 }
 
-
-
-
 div.btn-primary{ 
   background-color:#bd2961;
   border-color:#bd2961;
   font-family: 'TradeGothicLT';
-  font-size:16px;
-  padding:13px 8px;
+  font-size:20px;
+  line-height: 20px;
+  padding: 13px 15px;
 }
 div.btn-read{ 
   background-image:url("/images/btn-arrow.png");
   background-repeat: no-repeat;
-  background-position: center right 5px;
-  padding-right:42px;
+  background-position: center right 15px;
+  background-size: 28px;
+  padding-right:50px;
 }
 
 div.btn-primary:hover{
   background-color:#e33175;
+  border-color: transparent;
 } 
 div.btn-read:active{
   background-image:url("/images/btn-arrow.png");
@@ -169,12 +170,21 @@ div.btn-read:active{
 
 ul.buy-links{ 
   list-style:none;
-  margin-top:10px;
-  padding-left:30px;
+  margin-top:15px;
+  padding-left:0px;
+  font-family: 'TradeGothicLT';
 }
 ul.buy-links li{ 
   padding:3px 0px;
-  margin:0px;
+  margin:7px 0px;
+}
+ul.buy-links img {
+  width: 30px;
+  margin-right: 5px;
+}
+ul.buy-links .icon-pdf img {
+  width: 28px;
+  margin-right: 7px;
 }
 
 div.content{ 
@@ -190,14 +200,29 @@ div.chapter{
 div.title{ 
   text-align:center;
 }
+
+div.title img {
+  width: 500px;
+}
+
 div.byline{ 
   text-align:center;
 }
 div.city-graph{ 
   position:absolute;
-  top:588px;
+  top:791px;
   text-align:center;
   width:100%;
+}
+
+div.city-graph img {
+  width: 980px;
+}
+
+div.contributors, 
+div.critics,
+div.about-book {
+  padding: 50px 0px 70px;
 }
 
 div.contributors{ 
@@ -208,22 +233,26 @@ div.contributors{
 div.section-heading{ 
   text-align:center;
   padding:30px 0px;
+  text-transform: uppercase;
 }
-div.contributors h3,
-div.critics h3 { 
-  text-transform:uppercase;
+
+div.section-heading img {
+  width: 50px;
 }
+
 div.contributors .authors{
-  width:820px;
+  width:980px;
   margin:auto;
 }
  
 div.contributors li { 
-  font-size:16px;
-  width:380px;
+  font-size:18px;
+  width:50%;
   float:left;
   list-style:none;
   padding:0px;
+  font-family: 'NewCaledoniaLT-Italic';
+  color: #777;
 }
 div.contributors li img{ 
   max-height:70px;
@@ -232,19 +261,14 @@ div.contributors li img{
 }
 div.contributors div.name{ 
   font-family: 'TradeGothicLTCom-Bd2';
-  font-size: 20px;
+  font-size: 22px;
   color:#333;
-}
-div.contributors div.chapter-title{ 
-  font-style:italic;
-  color: #777;
 }
 
 
 div.critics{ 
   background:#9bcfa6;
   color:#404040;
-  padding-bottom:50px;
 }
 div.critics .attribution{ 
   text-align:right;
@@ -254,7 +278,6 @@ div.critics .attribution{
 div.about-book{ 
   background:#5b9da6;
   color:#404040;
-  padding-bottom:50px;
 }
 
 
