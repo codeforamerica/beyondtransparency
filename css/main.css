@@ -151,17 +151,18 @@ div.btn-primary{
   border-color:#bd2961;
   font-family: 'TradeGothicLT';
   font-size:16px;
-  padding:13px 8px;
+  padding: 13px 21px;
 }
 div.btn-read{ 
   background-image:url("/images/btn-arrow.png");
   background-repeat: no-repeat;
-  background-position: center right 5px;
-  padding-right:42px;
+  background-position: center right 20px;
+  padding-right:56px;
 }
 
 div.btn-primary:hover{
   background-color:#e33175;
+  border-color: transparent;
 } 
 div.btn-read:active{
   background-image:url("/images/btn-arrow.png");
