@@ -1,9 +1,11 @@
 --- 
 layout: chapter
-author: Steve Spiker
 title: "Oakland and the Search for the Open City"
 chapter: 9
-twitter: spjika
+author:
+  -  
+    name: Steve Spiker
+    twitter: spjika
 ---
 
 At the center of the Bay Area lies an urban city struggling with the woes of many old, great cities in the USA, particularly those in the rust belt: disinvestment, white flight, struggling schools, high crime, massive foreclosures, political and government corruption, and scandals. Despite these harsh realities, Oakland was named among the five best places in the world to visit in 2012 by the New York Times, something we were simultaneously excited about and stunned by. Oaklanders are proud of our heritage, our diversity, our legacy of great musicians, great food, and amazing art, and our truly beautiful city by the bay.

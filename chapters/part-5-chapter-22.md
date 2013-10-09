@@ -1,13 +1,15 @@
 --- 
 layout: chapter
-author: Tim O’Reilly
 title: "Open Data and Algorithmic Regulation"
 chapter: 22
-twitter: timoreilly
-permalink:
-author_job: Founder and CEO
-author_employer: O'Reilly Media Inc.
-author_photo_url: /images/authors/tim.png
+author: 
+  - 
+    name: Tim O’Reilly
+    job: Founder and CEO
+    employer: O'Reilly Media Inc.
+    photo_url: /images/authors/tim.png
+    twitter: timoreilly
+
 featured: true
 ---
 

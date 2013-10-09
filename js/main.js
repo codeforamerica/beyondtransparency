@@ -18,7 +18,7 @@ $(".menu-btn").click(function(){
 $(function(){
 
   if($("div.in-chapter-nav").length > 0){
-    $(".chapter-text").find("h3,h4").each(function(i,el){
+    $(".chapter-text").find("h3").each(function(i,el){
       $el = $(el);
       var slug = $el.text().toLowerCase().replace(/\s/g, "-").replace("'", "");
       $el.append("<a href='#"+slug+"' name='"+slug+"' ></a>")

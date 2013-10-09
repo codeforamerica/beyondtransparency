@@ -1,11 +1,14 @@
 --- 
 layout: chapter
-author: 
- -Michael Chui
- -Diana Farrell
- -Steve Van Kuiken
 title: "Generating Economic Value through Open Data"
 chapter: 13
+author: 
+  -
+    name: Michael Chui
+  -
+    name: Diana Farrell
+  -
+    name: Steve Van Kuiken
 twitter: McKinsey_MGI
 ---
 

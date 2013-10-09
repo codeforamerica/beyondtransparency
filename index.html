@@ -64,10 +64,10 @@ The rise of open data in the public sector has sparked innovation, driven effici
         <a href="{{page.url}}" >
             <li>
                <div>
-                 <img class="img-circle" src="{{ page.author_photo_url }}" />
-                 <div class="name">{{ page.author }}</div>
-                 <div class="job-title">{{ page.author_job }}</div>
-                 <div class="employer">{{ page.author_employer }}</div>
+                 <img class="img-circle" src="{{ page.author[0].photo_url }}" />
+                 <div class="name">{{ page.author[0].name }}</div>
+                 <div class="job-title">{{ page.author[0].job }}</div>
+                 <div class="employer">{{ page.author[0].employer }}</div>
                  <div class="chapter-title">{{ page.title }}</div>
                </div>
              </li>

@@ -1,12 +1,15 @@
 --- 
 layout: chapter
-author: Brett Goldstein
+author: 
+   -
+     name: Brett Goldstein
+     job: Former Chief Data Officer 
+     employer: City of Chicago
+     photo_url: /images/authors/brett.png
+     twitter: bjgol     
+
 title: "Open Data in Chicago: Game On"
 chapter: 2
-twitter: bjgol
-author_job: Former Chief Data Officer 
-author_employer: City of Chicago
-author_photo_url: /images/authors/brett.png
 featured: true
 ---
 Before I joined Chicago’s government administration, I knew very little about open data. I certainly had been immersed in the world of data and analytics for some time, but I didn’t substantively understand the concept of “open” as it applied to this context. In fact, because I’d worked at the Chicago Police Department in the Counterterrorism and Intelligence Section, open data seemed completely counterintuitive. So when Mayor-elect Rahm Emanuel’s transition team reached out to me to discuss ramping up an open data program at the City of Chicago, I had to do some quick and hasty internet research to be properly prepared.

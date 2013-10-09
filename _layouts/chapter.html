@@ -37,16 +37,17 @@ layout: default
         {% endfor %}
       </div>
       {% if !page.author %}
+      {% for a in page.author %}
       <div class="author">
-        <img class="img-circle" src="{{ page.author_photo_url }}" />
-        <div class="name">{{ page.author }}</div>
-        <div class="job-title">{{ page.author_job }}</div>
-        <div class="employer">{{ page.author_employer }}</div>
-        <div class="about">{{ page.author_about }}</div>
+        <img class="img-circle" src="{{ a.photo_url }}" />
+        <div class="name">{{ a.name }}</div>
+        <div class="job-title">{{ a.job }}</div>
+        <div class="employer">{{ a.employer }}</div>
+        <div class="about">{{ a.about }}</div>
         
-        <div class="twitter"><a href="http://twitter.com/{{page.twitter}}">@{{ page.twitter }}</a></div>
+        <div class="twitter"><a href="http://twitter.com/{{g.twitter}}">@{{ a.twitter }}</a></div>
       </div>
-
+      {% endfor %}
       <div class="in-chapter-nav">
         <h4>SKIP TO</h4>
         <ul class="sections">

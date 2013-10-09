@@ -1,9 +1,11 @@
 --- 
 layout: chapter
-author: Jonathan Feldman
 title: "Asheville’s Open Data Journey: Pragmatics, Policy, and Participation"
 chapter: 5
-twitter: _jfeldman
+author: 
+  - 
+    name: Jonathan Feldman
+    twitter: _jfeldman
 --- 
 
 Much of the open data conversation centers on policy, politics, or solving community problems. These are great—and needed—beginning and end points, but there is an important middle point that raises two questions: How do we produce open data? And how can we get open data to be a part of the government process?

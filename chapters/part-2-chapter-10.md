@@ -1,13 +1,15 @@
 --- 
 layout: chapter
-author: Bibiana McHugh
 title: "Pioneering Open Data Standards: The GTFS Story"
 chapter: 10
-twitter: trimet
-permalink:
-author_job: IT Manager
-author_employer: Trimet
-author_photo_url: /images/authors/bibiana.png
+author: 
+  - 
+    name: Bibiana McHugh
+    job: IT Manager
+    employer: Trimet
+    photo_url: /images/authors/bibiana.png
+    twitter: trimet
+
 featured: true
 ---
 

@@ -1,10 +1,11 @@
 --- 
 layout: chapter
-author: Joel Mahoney
 title: "Open Data and Open Discourse at Boston Public Schools"
 chapter: 1
-twitter: joelmahoney
-permalink:
+author: 
+  -
+    name: Joel Mahoney
+    twitter: joelmahoney
 ---
 
 ### Inside the Maze

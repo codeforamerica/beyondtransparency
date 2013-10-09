@@ -2,7 +2,11 @@
   <ul >
     {% for page in site.pages %}
       {% if page.layout == "chapter" %}
-        <a href="{{ page.url }}"><li> {{ page.title }} <div class="nav-chapter-author">{{page.author}}</div></li></a>
+      <a href="{{ page.url }}"><li> {{ page.title }} <div class="nav-chapter-author">
+            {% for a in page.author %}
+              {{a.name}}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </div></li></a>
       {% endif %}
     {% endfor %}
   </ul>

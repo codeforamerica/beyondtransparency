@@ -1,14 +1,19 @@
 --- 
 layout: chapter
-author: Emer Coleman
 title: Lessons from the London Datastore 
 chapter: 4
-author_job: Former Director of Digital Engagement
-author_employer: Government Digital Services
-author_photo_url: /images/authors/emer.png
+part: 1
+author: 
+  -
+    name: Emer Coleman
+    job: Former Director of Digital Engagement
+    employer: Government Digital Services
+    photo_url: /images/authors/emer.png
+    twitter: emercoleman    
+    about: "Formerly open data and digital in government. These views are definitely my own. You can see what I do at http://emercoleman.com  mostly I am about change."
+
+
 featured: true
-twitter: emercoleman
-author_about: "Formerly open data and digital in government. These views are definitely my own. You can see what I do at http://emercoleman.com  mostly I am about change."
 ---
 
 I’ve worked for local government in London since 2005. In March 2009, I moved to City Hall to undertake a yearlong research project funded by the Greater London Authority (GLA), Capital Ambition, and the Department of Communities and Local Government. The purpose of the project was to examine how policy was working across the London Boroughs, particularly regarding their use of new media and technology. It also meant analyzing their use of qualitative research methodologies. This project built on research previously undertaken by Leo Boland, who had recently taken on the role of Chief Executive of The Greater London Authority.

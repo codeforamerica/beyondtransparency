@@ -1,12 +1,13 @@
 --- 
 layout: chapter
-author: 
- -Alissa Black
- -Rachel Burstein
 title: "Local Scale and Local Data"
 chapter: 14
-twitter: alissa007
-permalink:
+author: 
+  -
+    name: Alissa Black
+    twitter: alissa007
+  -
+    name: Rachel Burstein
 ---
 
 

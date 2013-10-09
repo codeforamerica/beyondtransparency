@@ -1,11 +1,14 @@
 --- 
 layout: chapter
-author: Daniel X. O’Neil
 title: Building a Smarter Chicago 
 chapter: 3
-author_job: Executive Director
-author_employer: Smart Chicago Collaborative
-author_photo_url: /images/authors/daniel.png
+author: 
+  - 
+    name: Daniel X. O’Neil
+    job: Executive Director
+    employer: Smart Chicago Collaborative
+    photo_url: /images/authors/daniel.png
+
 featured: true
 ---
 

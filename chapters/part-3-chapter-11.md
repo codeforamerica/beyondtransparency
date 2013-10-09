@@ -1,11 +1,14 @@
 --- 
 layout: chapter
-author: 
- -Eric Gordon
- -Jessica Baldwin-Philippi
 title: "Making a Habit Out of Engagement: How the Culture of Open Data Is Reframing Civic Life"
 chapter: 11
-twitter: ericbot
+author: 
+  -
+    name: Eric Gordon
+    twitter: ericbot
+  -
+    name: Jessica Baldwin-Philippi
+
 ---
 
 We live in data rich times. Digital tools, from Facebook to Fitbit, have made more and more thoughts and actions collectable. Thoughts and actions that were once understood as ephemeral and public can now be fixed and privatized. Indeed, many of the artifacts of public life have become sequestered into proprietary and isolated databases, from individual mobility patterns to reflections on current affairs. While this data does not have any obvious function, recent revelations about the National Security Agency monitoring Americans’ metadata points to just how revealing this data can be. Still, the story has created surprisingly little concern because of a general lack of understanding about how metadata can be used. The majority of Americans are comfortable with the federal government accessing their metadata for the purpose of national security (Pew Research/Washington Post, 2013); likewise, they expect that corporations will preserve their privacy by enabling them to control who has access to their personally identifiable data. Both personally identifiable data and metadata are generally seen as passively generated, harmlessly owned and protected by corporations, and “rented” when needed.

@@ -1,9 +1,11 @@
 --- 
 layout: chapter
-author: Elliott Ramos
 title: "A Journalist’s Take on Open Data"
 chapter: 8
-twitter: ChicagoEl
+author: 
+  - 
+    name: Elliott Ramos
+    twitter: ChicagoEl
 ---
 
 Journalists are bad at math. No, really. We’re really bad at math. The joke goes that we all went into media because we’re unable to figure out the proper tip on a restaurant check.

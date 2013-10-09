@@ -1,9 +1,12 @@
 ---
 layout: chapter
-author: Jeffrey D. Rubenstein
 title: "Hacking FOIA: Using FOIA Requests to Drive Government Innovation"
 part: 2
 chapter: 7
+
+author: 
+  - 
+    name: Jeffrey D. Rubenstein
 ---
 
 ### Turning FOIA On Its Head

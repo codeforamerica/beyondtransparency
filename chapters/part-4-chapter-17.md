@@ -1,13 +1,14 @@
 --- 
 layout: chapter
 author: 
- -Theresa Reno-Weber
- -Beth Niblock
+  - 
+    name: Theresa Reno-Weber
+    twitter: RenoWeber
+  - 
+    twitter: LvilleCIO
+    name: Beth Niblock
 title: "Beyond Transparency: Louisville’s Strategic Use of Data to Drive Continuous Improvement"
 chapter: 17
-twitter:
- -RenoWeber
- -LvilleCIO
 ---
 
 We have high expectations for all that we want our government to do and all of the services we ask it to provide, regardless of politics or fiscal constraints. We expect government to collect our trash, inspect our restaurants, maintain our roads, protect our property, and provide services to our most vulnerable citizens. These are just a few of the myriad tasks. Most governments perform these functions with a level of resource and reporting constraints that would challenge any well-run organization. Many of us have experienced, in one way or another, the reality that the majority of cities do not operate like well-run organizations.

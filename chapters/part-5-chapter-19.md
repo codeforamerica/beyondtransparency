@@ -1,9 +1,11 @@
 ---
 layout: chapter
-author: Greg Bloom
 title: "Towards a Community Data Commons"
 part: 5
 chapter: 19
+author: 
+  - 
+    name: Greg Bloom
 ---
 ### The Front Line
 

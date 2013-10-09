@@ -1,14 +1,15 @@
 --- 
 layout: chapter
-author: 
- -Ryan Alfred
- -Mike Alfred
 title: "From Entrepreneurs to Civic Entrepreneurs"
 chapter: 6
-twitter:
- -ryanalfred
- -mikealfred
-permalink:
+author: 
+  -
+    name: Ryan Alfred
+    twitter: ryanalfred
+  -
+    name: Mike Alfred
+    twitter: mikealfred
+
 ---
 
 ### Introduction

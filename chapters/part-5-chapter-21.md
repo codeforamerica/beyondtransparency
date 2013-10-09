@@ -1,8 +1,11 @@
 --- 
 layout: chapter
-author: Mark Headd
 title: New Thinking in How Government Deliver Services
 chapter: 21
+author:
+  -
+    name: Mark Headd
+    twitter: mheadd
 ---
 
 ### Introduction

@@ -1,13 +1,14 @@
 --- 
 layout: chapter
-author: Michael Flowers
 title: "Beyond Open Data: The Data-Driven City"
 chapter: 15
-twitter:
-permalink:
-author_job: Director of Analytics
-author_employer: New York City
-author_photo_url: /images/authors/mike.png
+author: 
+  - 
+    name: Michael Flowers
+    twitter: 
+    job: Director of Analytics
+    employer: New York City
+    photo_url: /images/authors/mike.png
 featured: true
 ---
 
