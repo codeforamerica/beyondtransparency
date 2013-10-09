@@ -68,7 +68,7 @@ nav.navbar.withsidebar{
 }
 
 div.header{ 
-  height:800px;
+  height:1000px;
   background:#b8e0eb;
   z-index:0;
   position:relative;
@@ -195,9 +195,13 @@ div.byline{
 }
 div.city-graph{ 
   position:absolute;
-  top:588px;
+  top:791px;
   text-align:center;
   width:100%;
+}
+
+div.city-graph img {
+  width: 980px;
 }
 
 div.contributors{ 
