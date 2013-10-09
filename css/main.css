@@ -211,6 +211,10 @@ div.section-heading{
   text-transform: uppercase;
 }
 
+div.section-heading img {
+  width: 50px;
+}
+
 div.contributors .authors{
   width:820px;
   margin:auto;
