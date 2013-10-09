@@ -212,7 +212,7 @@ div.city-graph img {
 div.contributors, 
 div.critics,
 div.about-book {
-  padding: 50px 0px;
+  padding: 50px 0px 70px;
 }
 
 div.contributors{ 
@@ -261,7 +261,6 @@ div.contributors div.chapter-title{
 div.critics{ 
   background:#9bcfa6;
   color:#404040;
-  padding-bottom:50px;
 }
 div.critics .attribution{ 
   text-align:right;
@@ -271,7 +270,6 @@ div.critics .attribution{
 div.about-book{ 
   background:#5b9da6;
   color:#404040;
-  padding-bottom:50px;
 }
 
 
