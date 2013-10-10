@@ -314,6 +314,11 @@ div.about-book{
   font-size:46px;
   line-height:51px;
 }
+.chapter blockquote {
+  font-family: 'NewCaledoniaLT-Italic';
+  border-left: 0px;
+}
+
 .chapter-author{ 
   margin-bottom:60px;
   color:#333;
