@@ -21,7 +21,7 @@ As the former leader of one of the earliest and most successful data-driven prog
 
 ### How I Joined Data-Driven Government 
 
-### For most people, government is an ancillary part of everyday life; that is certainly how I saw it before I decided to attend law school. I had a general goal to help people with my law degree, but getting into government had never been of interest.
+For most people, government is an ancillary part of everyday life; that is certainly how I saw it before I decided to attend law school. I had a general goal to help people with my law degree, but getting into government had never been of interest.
 
 A day that changed so many people’s lives, September 11, 2001, ended up moving me toward a career as a public servant.
 
