@@ -2,8 +2,9 @@
 layout: chapter
 author: someone
 part: 4
+ispart: true
+title: Driving Decisions with Data
 ---
-# Driving Decisions with Data
 
 ## Editor’s Note
 

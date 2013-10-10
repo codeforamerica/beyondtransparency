@@ -4,8 +4,8 @@ author: someone
 part: 2
 permalink: "/part/2"
 ispart: true
+title: Building on Open Data
 ---
-# Building on Open Data
 
 ## Editor’s Note
 

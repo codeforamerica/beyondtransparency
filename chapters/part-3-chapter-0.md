@@ -2,8 +2,10 @@
 layout: chapter
 author: Editor
 part: 3
+ispart: true
+title: Understanding Open Data
 ---
-# Understanding Open Data
+
 
 ## Editor’s Note
 

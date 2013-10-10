@@ -10,13 +10,15 @@ layout: default
 
   <div class="col-md-9">
 
-    {% if page.chapter != 0 and page.chapter != 99 and page.ispart != true%}
-    <h4 class="chapter-number">Chapter {{page.chapter}}</h4>
-    {% endif %}
 
     {% if page.ispart == true %}
     <h4 class="chapter-number">Part {{page.part}}</h4>
     {% endif %}
+    
+    {% if page.chapter != 0 and page.chapter != 99 and page.ispart != true%}
+    <h4 class="chapter-number">Chapter {{page.chapter}}</h4>
+    {% endif %}
+
     
     <h1 class="chapter-title">{{page.title}}</h1>
 

@@ -4,8 +4,8 @@ author:
 part: 1
 permalink: "/part-1/"
 ispart: true
+title: Opening Government Data
 ---
-# Opening Government Data
 
 ## Editor’s Note
 

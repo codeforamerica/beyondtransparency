@@ -2,8 +2,9 @@
 layout: chapter
 author: someone
 part: 5
+ispart: true
+title: Looking Ahead
 ---
-# Looking Ahead
 
 ## Editor’s Note
 
