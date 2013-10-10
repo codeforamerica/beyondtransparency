@@ -2,7 +2,7 @@
 layout: chapter
 title: "Afterword: What's Next?"
 part: 6
-chapter: 0
+chapter: 99
 
 author: 
   -

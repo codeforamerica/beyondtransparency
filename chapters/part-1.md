@@ -3,6 +3,7 @@ layout: chapter
 author: 
 part: 1
 permalink: "/part-1/"
+ispart: true
 ---
 # Opening Government Data
 

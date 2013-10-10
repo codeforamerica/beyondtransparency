@@ -3,6 +3,7 @@ layout: chapter
 author: someone
 part: 2
 permalink: "/part/2"
+ispart: true
 ---
 # Building on Open Data
 
