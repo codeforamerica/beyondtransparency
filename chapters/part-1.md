@@ -2,6 +2,7 @@
 layout: chapter
 author: 
 part: 1
+permalink: "/part-1/"
 ---
 # Opening Government Data
 

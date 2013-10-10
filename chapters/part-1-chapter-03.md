@@ -8,7 +8,7 @@ author:
     job: Executive Director
     employer: Smart Chicago Collaborative
     photo_url: /images/authors/daniel.png
-
+permalink: "/part-1/building-a-smarter-chicago/"
 featured: true
 ---
 

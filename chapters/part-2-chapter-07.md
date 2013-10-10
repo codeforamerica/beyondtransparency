@@ -7,6 +7,7 @@ chapter: 7
 author: 
   - 
     name: Jeffrey D. Rubenstein
+permalink: "/part-2/hacking-foia-using-foia-requests-to-drive-government-innovation/"
 ---
 
 ### Turning FOIA On Its Head

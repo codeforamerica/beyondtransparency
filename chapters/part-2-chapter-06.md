@@ -9,7 +9,7 @@ author:
   -
     name: Mike Alfred
     twitter: mikealfred
-
+permalink: "/part-2/from-entrepreneurs-to-civic-entrepreneurs/"
 ---
 
 ### Introduction

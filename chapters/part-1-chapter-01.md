@@ -6,6 +6,7 @@ author:
   -
     name: Joel Mahoney
     twitter: joelmahoney
+permalink: /part-1/open-data-and-open-discource-at-boston-public-schools/
 ---
 
 ### Inside the Maze

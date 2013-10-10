@@ -12,7 +12,7 @@ author:
     twitter: emercoleman    
     about: "Formerly open data and digital in government. These views are definitely my own. You can see what I do at http://emercoleman.com  mostly I am about change."
 
-
+permalink: "/part-1/lessons-from-the-london-datastore/"
 featured: true
 ---
 

@@ -2,6 +2,7 @@
 layout: chapter
 author: someone
 part: 2
+permalink: "/part/2"
 ---
 # Building on Open Data
 

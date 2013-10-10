@@ -6,6 +6,7 @@ author:
   - 
     name: Jonathan Feldman
     twitter: _jfeldman
+permalink: "/part-1/ashvilles-open-data-journey-pragmatics-policy-and-participation/"
 --- 
 
 Much of the open data conversation centers on policy, politics, or solving community problems. These are great—and needed—beginning and end points, but there is an important middle point that raises two questions: How do we produce open data? And how can we get open data to be a part of the government process?
