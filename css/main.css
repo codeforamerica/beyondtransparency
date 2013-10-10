@@ -380,6 +380,7 @@ div.about-book{
 }
 .author img{ 
   margin-bottom:10px;
+  width: 100px;
 }
 .author .name{ 
   font-family: 'TradeGothicLTCom-Bd2';
