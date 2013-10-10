@@ -2,6 +2,7 @@
 layout: chapter
 title: "Asheville’s Open Data Journey: Pragmatics, Policy, and Participation"
 chapter: 5
+part: 1
 author: 
   - 
     name: Jonathan Feldman

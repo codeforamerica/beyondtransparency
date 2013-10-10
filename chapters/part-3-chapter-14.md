@@ -2,12 +2,14 @@
 layout: chapter
 title: "Local Scale and Local Data"
 chapter: 14
+part: 3
 author: 
   -
     name: Alissa Black
     twitter: alissa007
   -
     name: Rachel Burstein
+permalink: /part-3/local-scale-and-local-data/
 ---
 
 

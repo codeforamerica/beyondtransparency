@@ -2,6 +2,7 @@
 layout: chapter
 title: "Pioneering Open Data Standards: The GTFS Story"
 chapter: 10
+part: 2
 author: 
   - 
     name: Bibiana McHugh

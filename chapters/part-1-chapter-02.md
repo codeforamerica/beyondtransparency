@@ -2,6 +2,7 @@
 layout: chapter
 title: "Open Data in Chicago: Game On"
 chapter: 2
+part: 1
 author: 
    -
      name: Brett Goldstein

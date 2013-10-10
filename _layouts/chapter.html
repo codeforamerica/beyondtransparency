@@ -29,18 +29,50 @@ layout: default
   <div class="col-md-3 in-chapter-sidebar">
     <div class="in-chapter-sidebar-content">
       <div class="chapter-nav-links">
-        {% capture prev %}{{page.chapter | minus:1  }}{% endcapture %}
-        {% capture next %}{{page.chapter | plus:1  }}{% endcapture %}
+        {% capture current %}{{page.part | append:page.chapter }}{% endcapture %}
+        {% assign prev = null %}
+        {% assign output_next = false %}
         {% for p in site.pages %}
-        {% capture counter %}{{p.chapter | plus:0  }}{% endcapture %}
+        
+          {% capture counter %}{{p.part | append:p.chapter  }}{% endcapture %}
 
-          {% if p.layout == "chapter" and counter != "0" and counter ==  prev  %}
-  
-            <a href="{{ p.url }}">&lt;- Chap {{ p.chapter}}</a>
+          {% if output_next == true and p.layout == "chapter" %}  
+            <a href="{{ p.url }}">
+             {% if p.ispart == true %}
+                PART {{p.part}}
+             {% else %}
+ 
+               {% if p.chapter == 99 %}
+                 APPENDIX
+               {% else %}
+                 CHAP {{p.chapter}}
+               {% endif %}
+             
+             {% endif %}
+             - &gt;</a>
+            {% assign output_next = false %}
           {% endif %}
-          {% if counter == next %}  
-            <a href="{{ p.url }}">Chap {{ p.chapter}} -&gt;</a>
+
+        
+          {% if p.layout == "chapter" and counter ==  current  %}
+        
+            {% if prev != null %}
+              <a href="{{prev.url}}"> &lt; -
+              {% if prev.ispart == true %}
+                PART {{prev.part}}
+              {% else %}
+                {% if prev.chapter == 0 %}
+                  PREFACE
+                {% else %}
+                 CHAP {{prev.chapter}}
+                {% endif %}
+
+              {% endif %}
+              </a>
+            {% endif %}
+            {% assign output_next = true %}
           {% endif %}
+          {% assign prev = p %}
         {% endfor %}
       </div>
       {% if !page.author %}

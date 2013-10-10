@@ -2,6 +2,7 @@
 layout: chapter
 title: "A Journalist’s Take on Open Data"
 chapter: 8
+part: 2
 author: 
   - 
     name: Elliott Ramos

@@ -1,6 +1,7 @@
 --- 
 layout: chapter
 title: "Open Data and Open Discourse at Boston Public Schools"
+part: 1
 chapter: 1
 author: 
   -

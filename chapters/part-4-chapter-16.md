@@ -2,10 +2,12 @@
 layout: chapter
 title: "Why Data Must Drive Decisions in Government"
 chapter: 16
+part: 4
 author: 
   -
     name: Beth Blauer
     twitter: biblauer    
+permalink: /part-4/why-data-must-drive-decisions-in-government/
 ---
 ### The Dawn of the Data-Driven Government
 

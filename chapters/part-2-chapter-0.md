@@ -2,7 +2,8 @@
 layout: chapter
 author: someone
 part: 2
-permalink: "/part/2"
+chapter: 0
+permalink: /part-2/
 ispart: true
 title: Building on Open Data
 ---

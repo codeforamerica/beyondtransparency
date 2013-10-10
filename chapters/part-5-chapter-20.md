@@ -2,10 +2,12 @@
 layout: chapter
 title: "The Bigger Picture: Ten Lessons for Taking Open Government Further"
 chapter: 20
+part: 5
 author: 
   - 
     name: John Bracken
     twitter: jsb
+permalink: /part-5/the-bigger-picture-ten-lessons-for-taking-open-government-further/
 ---
 
 My job at the Knight Foundation is to identify people with promising ideas and help them execute them. Our primary tool for that is the Knight News Challenge, through which we’ve supported nearly a hundred projects, with more than $30 million over six years. We’ve supported several open government-related projects and groups like LocalWiki, the Open Knowledge Foundation, Ushahidi, EveryBlock, and Open Street Maps.

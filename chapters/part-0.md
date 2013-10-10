@@ -3,7 +3,6 @@ layout: chapter
 title: Preface
 part: 0
 chapter: 0
-
 author: 
   -
      name: Brett Goldstein

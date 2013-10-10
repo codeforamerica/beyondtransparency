@@ -2,13 +2,14 @@
 layout: chapter
 title: "Benchmarking Performance Data"
 chapter: 18
+part: 4
 author: 
   -
     name: Ken Wolf
     twitter: Revelstone
   -
     name: John Fry
-
+permalink: /part-4/benchmarking-performace-data/
 ---
 >Come senators, congressmen, please heed the call
 
