@@ -10,6 +10,15 @@ author:
     name: John Fry
 
 ---
+>Come senators, congressmen, please heed the call
+
+>Don’t stand in the doorway, don’t block up the hall...
+
+>It’ll soon shake your windows and rattle your walls
+
+>For the times they are a-changin’.
+
+>—Bob Dylan, 1964
 
 Fifty years later, and the times they are still a-changin’. Back in the 1960s, the battle being fought was about freedom, individuality, and expression. Today’s battle is about openness, transparency, and engagement. Citizens are demanding more from their public servants than ever before—and at all levels of government. Not only do we expect our governments to provide ever-increasing levels of service to us at ever-decreasing costs, but we also want to be part of that process. The cry to rid government of waste, fraud, and abuse has been encouraged by sound-bite politics. We need to understand how our government agencies are performing, where they could be doing better, and how they can improve. We want to help influence that conversation and know that action-oriented decisions are being executed. We expect to see measurable results and want to feel the effects of those improvements in our everyday lives. We’re like the shareholders of a public corporation that want to hold our executive leadership accountable for achieving our corporate goals.
 

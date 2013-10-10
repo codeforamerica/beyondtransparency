@@ -9,6 +9,10 @@ author:
 permalink: /part-1/open-data-and-open-discource-at-boston-public-schools/
 ---
 
+> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
+
+> —Abraham Lincoln
+		
 ### Inside the Maze
 
 In March of 2011, the City of Boston had a problem: the *Boston Globe* had just published a special multimedia series titled “Getting In: Inside Boston’s School Assignment Maze” that offered a critical view of Boston’s school assignment policies (*Boston Globe*, 2011). The report profiled thirteen families entering the Boston public school system, and traced their hopes and frustrations as they navigated the complicated school selection process. The following quotes from interviews with the families are indicative:
