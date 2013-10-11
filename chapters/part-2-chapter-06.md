@@ -2,6 +2,7 @@
 layout: chapter
 title: "From Entrepreneurs to Civic Entrepreneurs"
 chapter: 6
+part: 2
 author: 
   -
     name: Ryan Alfred

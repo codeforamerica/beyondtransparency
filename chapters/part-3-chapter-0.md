@@ -2,8 +2,10 @@
 layout: chapter
 author: Editor
 part: 3
+chapter: 0
 ispart: true
 title: Understanding Open Data
+permalink: /part-3/
 ---
 
 

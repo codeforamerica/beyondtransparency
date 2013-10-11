@@ -2,14 +2,17 @@
 layout: chapter
 title: "Generating Economic Value through Open Data"
 chapter: 13
+part: 3
 author: 
   -
     name: Michael Chui
+    twitter: McKinsey_MGI
   -
     name: Diana Farrell
   -
     name: Steve Van Kuiken
-twitter: McKinsey_MGI
+
+permalink: /part-3/generating-economic-value-through-open-data/
 ---
 
 The private and public sectors have begun to embrace “big data” and analytics to improve productivity and enable innovation. We have documented the tremendous economic potential that can be unlocked by using the increasing volumes and diversity of real-time data (e.g., social media, road traffic flows) to make better decisions in a wide variety of sectors, from healthcare to manufacturing to retail to public administration (Manyika et al., 2011).

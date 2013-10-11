@@ -2,6 +2,7 @@
 layout: chapter
 title: Building a Smarter Chicago 
 chapter: 3
+part: 1
 author: 
   - 
     name: Daniel X. O’Neil

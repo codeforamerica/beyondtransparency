@@ -6,6 +6,7 @@ chapter: 19
 author: 
   - 
     name: Greg Bloom
+permalink: /part-5/towards-a-community-data-commons/
 ---
 ### The Front Line
 

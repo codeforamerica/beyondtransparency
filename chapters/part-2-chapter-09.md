@@ -2,6 +2,7 @@
 layout: chapter
 title: "Oakland and the Search for the Open City"
 chapter: 9
+part: 2
 author:
   -  
     name: Steve Spiker

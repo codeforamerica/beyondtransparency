@@ -2,8 +2,10 @@
 layout: chapter
 author: someone
 part: 4
+chapter: 0
 ispart: true
 title: Driving Decisions with Data
+permalink: /part-4/
 ---
 
 ## Editor’s Note

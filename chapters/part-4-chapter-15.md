@@ -2,6 +2,7 @@
 layout: chapter
 title: "Beyond Open Data: The Data-Driven City"
 chapter: 15
+part: 4
 author: 
   - 
     name: Michael Flowers
@@ -10,6 +11,7 @@ author:
     employer: New York City
     photo_url: /images/authors/mike.png
 featured: true
+permalink: /part-4/beyond-open-data-the-data-driven-city/
 ---
 
 *Being a data-driven city is about more efficiently and effectively delivering the core services of the city. Being data-driven is not primarily a challenge of technology; it is a challenge of direction and organizational leadership.*

@@ -2,8 +2,10 @@
 layout: chapter
 author: someone
 part: 5
+chapter: 0
 ispart: true
 title: Looking Ahead
+permalink: /part-5/
 ---
 
 ## Editor’s Note
