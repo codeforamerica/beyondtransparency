@@ -6,6 +6,12 @@ chapter: 7
 author: 
   - 
     name: Jeffrey D. Rubenstein
+    job: Founder & CEO
+    employer: SmartProcure
+    photo_url: /images/authors/jeff.png
+    twitter: SmartProcureUS    
+    about: "Founder of SmartProcure, working to leverage data to build efficiencies between the public and private sector."
+
 permalink: "/part-2/hacking-foia-using-foia-requests-to-drive-government-innovation/"
 ---
 
