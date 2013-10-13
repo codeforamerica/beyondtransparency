@@ -1,8 +1,8 @@
 ---
 layout: chapter
 title: "Towards a Community Data Commons"
-part: 5
 chapter: 19
+part: 5
 author: 
   - 
     name: Greg Bloom

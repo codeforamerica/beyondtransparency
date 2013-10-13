@@ -7,7 +7,7 @@ chapter: 99
 author: 
   -
      name: Abhi Nemani
-     job: "Co-Executive Director (Interim)"
+     job: Co-Executive Director (Interim)
      employer: Code for America
      photo_url: /images/authors/abhi.png
      twitter: abhinemani
