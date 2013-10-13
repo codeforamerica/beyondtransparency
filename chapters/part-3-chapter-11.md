@@ -6,9 +6,18 @@ part: 3
 author: 
   -
     name: Eric Gordon
-    twitter: ericbot
+    job: Director, Engagement Game Lab
+    employer: Emerson College
+    photo_url: /images/authors/ericg.png
+    twitter: ericbot    
+    about: "Fellow at the Berkman Center; Associate Professor at Emerson College; Director of Engagement Game Lab."
   -
     name: Jessica Baldwin-Philippi
+    job: Researcher, Engagement Game Lab
+    employer: Emerson College
+    photo_url: /images/authors/jessica.png 
+    about: "Visiting faculty in civic media at Emerson College and a researcher in the Engagement Game Lab."
+
 permalink: /part-3/making-a-habit-out-of-engagement-how-the-culture-of-open-data-is-reframing-civic-life/
 ---
 

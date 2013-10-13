@@ -6,9 +6,19 @@ part: 3
 author: 
   -
     name: Alissa Black
-    twitter: alissa007
+    job: Director, California Civic Innovation Project
+    employer: New America Foundation
+    photo_url: /images/authors/alissa.png
+    twitter: alissa007    
+    about: "Exploring the use of innovative technologies, policies, and practices that engage disadvantaged communities in public decision making throughout California."
   -
     name: Rachel Burstein
+	job: Research Associate, California Civic Innovation Project
+    employer: New America Foundation
+    photo_url: /images/authors/rachel.png
+    twitter: NewAmericaCA    
+    about: "Researching how innovation spreads within and between cities. PhD in History at the CUNY Graduate Center."
+
 permalink: /part-3/local-scale-and-local-data/
 ---
 

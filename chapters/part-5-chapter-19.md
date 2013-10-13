@@ -6,6 +6,12 @@ chapter: 19
 author: 
   - 
     name: Greg Bloom
+	twitter: greggish
+    job: Data Advocate & Futurist
+    employer: Freelance
+    photo_url: /images/authors/greg.png
+    about: "Practicing cooperative developer. Researching commons-based approaches to community wealth-building."
+
 permalink: /part-5/towards-a-community-data-commons/
 ---
 ### The Front Line

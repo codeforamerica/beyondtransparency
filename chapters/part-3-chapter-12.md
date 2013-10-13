@@ -6,7 +6,12 @@ part: 3
 author: 
   - 
     name: Cyd Harrell
-    twitter: cydharrell
+    job: UX Evangelist
+    employer: Code for America
+    photo_url: /images/authors/cyd.png
+    twitter: cydharrell    
+    about: "UX Evangelist at Code for America, where she gets to spend all day helping create better experiences for citizens."
+
 permalink: /part-3/the-beginning-of-a-beautiful-friendship-data-and-design-in-innovative-citizen-experiences/
 ---
 

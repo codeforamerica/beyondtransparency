@@ -7,9 +7,11 @@ author:
   - 
     name: Michael Flowers
     twitter: 
-    job: Director of Analytics
+    job: Chief Analytics Officer
     employer: New York City
     photo_url: /images/authors/mike.png
+    about: "Pioneering new approaches in the field of civic data. Head of Mayor Bloomberg's Geek Squad."
+
 featured: true
 permalink: /part-4/beyond-open-data-the-data-driven-city/
 ---

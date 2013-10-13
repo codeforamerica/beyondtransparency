@@ -7,8 +7,18 @@ author:
   -
     name: Ken Wolf
     twitter: Revelstone
+    job: CEO
+    employer: Revelstone
+    photo_url: /images/authors/kenw.png
+    about: "Working to bring a low cost and easy-to-use performance management platform to local governments"
   -
     name: John Fry
+	twitter: Revelstone
+    job: Program Director, Government Solutions
+    employer: Revelstone
+    photo_url: /images/authors/johnf.png
+    about: "Program Director at Revelstone with more than 25 years of experience with municipal governments."
+
 permalink: /part-4/benchmarking-performace-data/
 ---
 >Come senators, congressmen, please heed the call
