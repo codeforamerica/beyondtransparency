@@ -45,11 +45,11 @@ layout: default
                {% if p.chapter == 99 %}
                  APPENDIX
                {% else %}
-                 CHAP {{p.chapter}}
+                 CHAPTER {{p.chapter}}
                {% endif %}
              
              {% endif %}
-             - &gt;</a>
+             &rarr; </a>
             {% assign output_next = false %}
           {% endif %}
 
@@ -57,14 +57,14 @@ layout: default
           {% if p.layout == "chapter" and counter ==  current  %}
         
             {% if prev != null %}
-              <a href="{{prev.url}}"> &lt; -
+              <a href="{{prev.url}}"> &larr;
               {% if prev.ispart == true %}
                 PART {{prev.part}}
               {% else %}
                 {% if prev.chapter == 0 %}
                   PREFACE
                 {% else %}
-                 CHAP {{prev.chapter}}
+                 CHAPTER {{prev.chapter}}
                 {% endif %}
 
               {% endif %}

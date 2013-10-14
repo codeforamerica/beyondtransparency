@@ -462,10 +462,19 @@ div.about-book{
   color: #db2961;
 }
 
+.in-chapter-sidebar-content .chapter-nav-links {
+  padding-bottom: 20px;
+  border-bottom: solid 2px #404040;
+}
 .in-chapter-sidebar-content .chapter-nav-links a {
   font-family: 'TradeGothicLT';
   text-transform: uppercase;
   font-size: 13px;
+  float: left;
+}
+
+.in-chapter-sidebar-content .chapter-nav-links a:last-child {
+  float: right;
 }
 
 .in-chapter-sidebar{ 
@@ -476,5 +485,5 @@ div.about-book{
   width:250px;
   overflow:auto;
   bottom:0px;
-  top:150px;
+  top:111px;
 }
