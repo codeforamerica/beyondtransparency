@@ -458,6 +458,10 @@ div.about-book{
   list-style:none;
   cursor:pointer;
 }
+.in-chapter-nav ul li:hover{
+  color: #db2961;
+}
+
 .in-chapter-sidebar-content .chapter-nav-links a {
   font-family: 'TradeGothicLT';
   text-transform: uppercase;
