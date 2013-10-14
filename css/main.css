@@ -346,11 +346,11 @@ div.about-book{
   right:-280px;
   bottom:0px;
   width:280px;
-  background:#444;
+  background:#404040;
   color:#eee;
   text-align:left;
   border-right:solid 1px #000;
-  padding-top:15px;
+  padding-top:4px;
   transition:all 0.5s ease-in-out;
   overflow:auto;
   z-index:1000;
@@ -372,11 +372,14 @@ div.about-book{
   text-decoration:none;
   font-family: 'TradeGothicLT';
 }
+.chapter-nav ul li:hover {
+  color: #fff;
+}
 .chapter-nav li .nav-chapter-author{
-  color:#aaa;
-  font-size:14px;
+  font-size: 13px;
   font-family: 'NewCaledoniaLT-Italic';
 }
+
 .chapter-nav li .nav-part{
   font-family: 'TradeGothicLTCom-Bd2';
 }
