@@ -23,7 +23,6 @@ div.clear{
   clear:both;
 }
 .bt-book-nav{ 
-  text-shadow: 0 -1px 0 rgba(0,0,0,.15);
   background-color: #b9e0ea;
   height:90px;
 }
