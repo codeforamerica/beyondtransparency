@@ -13,7 +13,7 @@ author:
     about: "Exploring the use of innovative technologies, policies, and practices that engage disadvantaged communities in public decision making throughout California."
   -
     name: Rachel Burstein
-	job: Research Associate, California Civic Innovation Project
+    job: Research Associate, California Civic Innovation Project
     employer: New America Foundation
     photo_url: /images/authors/rachel.png
     twitter: NewAmericaCA    

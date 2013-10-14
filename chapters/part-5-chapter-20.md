@@ -7,7 +7,7 @@ author:
   - 
     name: John Bracken
     twitter: jsb
-	job: Director of Media Innovation
+    job: Director of Media Innovation
     employer: Knight Foundation
     photo_url: /images/authors/bracken.png
     about: "John S. Bracken is director of media innovation for the Knight Foundation. He oversees the Knight News Challenge, Knight’s prototype fund, its journalism and technology investments."

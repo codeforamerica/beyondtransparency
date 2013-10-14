@@ -7,7 +7,7 @@ author:
   -
     name: Mark Headd
     twitter: mheadd
-	job: Chief Data Officer
+    job: Chief Data Officer
     employer: City & County of Philadelphia
     photo_url: /images/authors/markh.png
     about: "Writer, speaker, teacher, and thought leader on web development, open government and civic hacking."

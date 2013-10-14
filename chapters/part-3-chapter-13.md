@@ -13,14 +13,14 @@ author:
     about: "Leading research on the impact of information technologies and innovation on business, the economy, and society. Former CIO of Bloomington, Indiana."
   -
     name: Diana Farrell
-	job: Director
+    job: Director
     employer: McKinsey & Company
     photo_url: /images/authors/diana.png
     twitter: Farrell_Diana    
     about: "Co-founder of McKinsey Center for Government, helping government leaders achieve greater & lasting performance."
   -
     name: Steve Van Kuiken
-	job: Director
+    job: Director
     employer: McKinsey & Company
     photo_url: /images/authors/stevek.png
     twitter: McKinsey    

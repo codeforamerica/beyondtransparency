@@ -16,7 +16,7 @@ author:
     job: Researcher, Engagement Game Lab
     employer: Emerson College
     photo_url: /images/authors/jessica.png 
-	twitter: engagelab
+    twitter: engagelab
     about: "Visiting faculty in civic media at Emerson College and a researcher in the Engagement Game Lab."
 
 permalink: /part-3/making-a-habit-out-of-engagement-how-the-culture-of-open-data-is-reframing-civic-life/

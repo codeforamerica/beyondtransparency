@@ -6,7 +6,7 @@ part: 5
 author: 
   - 
     name: Greg Bloom
-	twitter: greggish
+    twitter: greggish
     job: Data Advocate & Futurist
     employer: Freelance
     photo_url: /images/authors/greg.png

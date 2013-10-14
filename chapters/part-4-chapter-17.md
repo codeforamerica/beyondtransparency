@@ -13,8 +13,8 @@ author:
     about: "Helping government unlock its data to understand how well it is doing and how it can improve."
   - 
     name: Beth Niblock
-	twitter: LvilleCIO
-	job: Chief Innovation Officer
+    twitter: LvilleCIO
+    job: Chief Innovation Officer
     employer: Louisville Metro Government
     photo_url: /images/authors/bethn.png
     about: "Providing leadership for all information technology and telecommunications technology and related services for Louisville/Jefferson County Metro Government."

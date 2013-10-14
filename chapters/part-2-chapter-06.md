@@ -13,7 +13,7 @@ author:
     about: "Co-founder and President at BrightScope. Open government advocate."
   -
     name: Mike Alfred
- 	job: Co-Founder
+    job: Co-Founder
     employer: BrightScope
     photo_url: /images/authors/mikea.png
     twitter: mikealfred    

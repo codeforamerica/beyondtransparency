@@ -75,7 +75,7 @@ layout: default
           {% assign prev = p %}
         {% endfor %}
       </div>
-      {% if !page.author %}
+      {% if !page.author and page.ispart != true %}
       {% for a in page.author %}
       <div class="author">
         <img class="img-circle" src="{{ a.photo_url }}" />

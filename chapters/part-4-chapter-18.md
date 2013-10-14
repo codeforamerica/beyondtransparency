@@ -13,7 +13,7 @@ author:
     about: "Working to bring a low cost and easy-to-use performance management platform to local governments"
   -
     name: John Fry
-	twitter: Revelstone
+    twitter: Revelstone
     job: Program Director, Government Solutions
     employer: Revelstone
     photo_url: /images/authors/johnf.png
