@@ -1,0 +1,43 @@
+div.content{ 
+  width: 100%
+}
+div.header{ 
+  height:inherit;
+}
+
+.city-graph{ 
+  display:none;
+}
+div.contributors,
+div.critics,
+div.about-book,
+div.footer{
+  padding-left:10px;
+  padding-right:10px;
+}
+div.contributors .authors{ 
+  width:100%;
+}
+div.title img{ 
+  width:90%;
+}
+div.book-links{ 
+  padding:50px 20px;
+}
+div.mobile-in-chapter-links{ 
+  display:block;
+  margin:-40px 5px 50px;
+
+}
+div.in-chapter-sidebar-content{ 
+  width:100%;
+}
+div.in-chapter-nav{ 
+  display:none;
+}
+div.navbar.withsidebar{ 
+  right:0px;
+}
+div.page.withsidebar{ 
+  right:0px;
+}
