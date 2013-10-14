@@ -50,6 +50,10 @@ div.menu-btn{
 .navbar-brand{ 
   padding:0px;
 }
+.navbar-brand img{
+  width: 140px;
+  margin-left: 12px;
+}
 div.byline{ 
   margin-bottom:10px;
   font-family: 'NewCaledoniaLT-Italic';
