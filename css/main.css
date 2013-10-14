@@ -505,3 +505,7 @@ div.about-book{
   display:none;
 }
 
+.chapter-nav li.current-page{ 
+  font-weight:bold;
+  color:#fff;
+}

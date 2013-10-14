@@ -18,6 +18,14 @@ div.footer{
 div.contributors .authors{ 
   width:100%;
 }
+div.contributors li{ 
+  width:100%;
+  margin:30px 10px 0px -35px;
+  min-width:300px;
+}
+div.contributors li img{
+  margin-bottom:60px;
+} 
 div.title img{ 
   width:90%;
 }
@@ -40,4 +48,7 @@ div.navbar.withsidebar{
 }
 div.page.withsidebar{ 
   right:0px;
+}
+div.btn-read{ 
+  width:100%;
 }
