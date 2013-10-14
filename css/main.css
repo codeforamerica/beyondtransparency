@@ -46,6 +46,16 @@ div.menu-btn{
 .navbar-nav .menu-btn{ 
   margin-top:22px;
 }
+div.menu-bar .menu-btn span.menu-icon {
+  background: url('/images/menu_icon_sprite.png') no-repeat;
+  display: block;
+  width: 20px;
+  height: 15px;
+}
+div.menu-bar .menu-btn span.menu-icon:hover {
+  background-position: 0px -30px;
+}
+
 .navbar-brand{ 
   padding:0px;
 }
