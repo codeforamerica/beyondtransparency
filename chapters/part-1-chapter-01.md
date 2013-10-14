@@ -9,8 +9,9 @@ author:
     job: Co-Founder
     employer: OpenCounter
     photo_url: /images/authors/joel.jpg
-    twitter: joelmahoney    
+    twitter: joelmahoney
     about: "Joel Mahoney is a civic software architect and entrepreneur. He was a 2011 Fellow at Code for America and is the co-founder of OpenCounter."
+
 permalink: /part-1/open-data-and-open-discource-at-boston-public-schools/
 ---
 

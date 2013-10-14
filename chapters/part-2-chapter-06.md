@@ -9,7 +9,7 @@ author:
     job: Co-Founder
     employer: BrightScope
     photo_url: /images/authors/ryan.png
-    twitter: ryanalfred    
+    twitter: ryanalfred
     about: "Co-founder and President at BrightScope. Open government advocate."
   -
     name: Mike Alfred

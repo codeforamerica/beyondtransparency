@@ -11,6 +11,7 @@ author:
     employer: Socrata
     photo_url: /images/authors/beth.png
     about: "Former Director of Maryland StateStat, now building out the GovStat performance management platform for Socrata."
+
 permalink: /part-4/why-data-must-drive-decisions-in-government/
 ---
 ### The Dawn of the Data-Driven Government

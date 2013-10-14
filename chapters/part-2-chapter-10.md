@@ -13,6 +13,7 @@ author:
     about: "IT Manager of Geographic Information Systems for Portland's Trimet public transit agency. Open data evangelist."
 
 featured: true
+
 permalink: "/part-2/pioneering-open-data-standards-the-gtfs-story/"
 ---
 

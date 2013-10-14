@@ -10,8 +10,9 @@ author:
     employer: O'Reilly Media Inc.
     photo_url: /images/authors/tim.png
     twitter: timoreilly
-    about: "Founder and CEO of O’Reilly Media."	
+    about: "Founder and CEO of O’Reilly Media."
 featured: true
+
 permalink: /part-5/open-data-and-algorithmic-regulation/
 ---
 

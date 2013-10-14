@@ -9,7 +9,7 @@ author:
     twitter: mheadd
     job: Chief Data Officer
     employer: City & County of Philadelphia
-    photo_url: /images/authors/markh.png
+    photo_url: /images/authors/mark.png
     about: "Writer, speaker, teacher, and thought leader on web development, open government and civic hacking."
 
 permalink: /part-5/new-thinking-in-how-governments-deliver-services/

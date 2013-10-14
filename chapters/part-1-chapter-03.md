@@ -4,13 +4,14 @@ title: Building a Smarter Chicago
 chapter: 3
 part: 1
 author: 
-  -
-    name: Daniel X. O’Neil
-    job: Executive Director
-    employer: Smart Chicago Collaborative
-    photo_url: /images/authors/daniel.png
-    twitter: danxoneil
-    about: "Making lives better in Chicago through technology."
+-
+  name: Dan X O'Neil
+  job: Executive Director
+  employer: Smart Chicago Collaborative
+  photo_url: /images/authors/daniel.png
+  twitter: danxoneil    
+  about: "Making lives better in Chicago through technology. Former co-founder of EveryBlock."
+
 permalink: "/part-1/building-a-smarter-chicago/"
 featured: true
 ---
