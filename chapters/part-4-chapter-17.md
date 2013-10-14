@@ -9,7 +9,7 @@ author:
     twitter: RenoWeber
     job: Chief of Performance Improvement
     employer: Louisville Metro Government
-    photo_url: /images/authors/theresa.png
+    photo_url: /images/authors/theresa.jpg
     about: "Helping government unlock its data to understand how well it is doing and how it can improve."
   - 
     name: Beth Niblock
