@@ -370,10 +370,15 @@ div.about-book{
   margin:0px;
   font-size:14px;
   text-decoration:none;
+  font-family: 'TradeGothicLT';
 }
 .chapter-nav li .nav-chapter-author{
   color:#aaa;
-  font-size:12px;
+  font-size:14px;
+  font-family: 'NewCaledoniaLT-Italic';
+}
+.chapter-nav li .nav-part{
+  font-family: 'TradeGothicLTCom-Bd2';
 }
 
 .footer{ 
