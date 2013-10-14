@@ -75,7 +75,7 @@ layout: default
           {% assign prev = p %}
         {% endfor %}
       </div>
-      {% if !page.author %}
+      {% if !page.author and page.ispart != true %}
       {% for a in page.author %}
       <div class="author">
         <img class="img-circle" src="{{ a.photo_url }}" />
@@ -84,7 +84,7 @@ layout: default
         <div class="employer">{{ a.employer }}</div>
         <div class="about">{{ a.about }}</div>
         
-        <div class="twitter"><a target="_blank" href="http://twitter.com/{{g.twitter}}">@{{ a.twitter }}</a></div>
+        <div class="twitter"><a target="_blank" href="http://twitter.com/{{a.twitter}}">@{{ a.twitter }}</a></div>
       </div>
       {% endfor %}
       <div class="in-chapter-nav">

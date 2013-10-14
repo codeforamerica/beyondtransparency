@@ -7,9 +7,18 @@ author:
   - 
     name: Theresa Reno-Weber
     twitter: RenoWeber
+    job: Chief of Performance Improvement
+    employer: Louisville Metro Government
+    photo_url: /images/authors/theresa.jpg
+    about: "Helping government unlock its data to understand how well it is doing and how it can improve."
   - 
-    twitter: LvilleCIO
     name: Beth Niblock
+    twitter: LvilleCIO
+    job: Chief Innovation Officer
+    employer: Louisville Metro Government
+    photo_url: /images/authors/bethn.png
+    about: "Providing leadership for all information technology and telecommunications technology and related services for Louisville/Jefferson County Metro Government."
+    
 permalink: /part-4/beyond-transparency-louisvilles-strategic-use-of-data-to-drive-continuous-improvement/
 ---
 *Government embodies our highest aspirations and our lowest expectations.*

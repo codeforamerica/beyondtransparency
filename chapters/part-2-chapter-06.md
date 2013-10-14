@@ -6,10 +6,19 @@ part: 2
 author: 
   -
     name: Ryan Alfred
+    job: Co-Founder
+    employer: BrightScope
+    photo_url: /images/authors/ryan.png
     twitter: ryanalfred
+    about: "Co-founder and President at BrightScope. Open government advocate."
   -
     name: Mike Alfred
-    twitter: mikealfred
+    job: Co-Founder
+    employer: BrightScope
+    photo_url: /images/authors/mikea.png
+    twitter: mikealfred    
+    about: "Co-founder and CEO of BrightScope. *Forbes* contributor."
+   
 permalink: "/part-2/from-entrepreneurs-to-civic-entrepreneurs/"
 ---
 

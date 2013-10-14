@@ -10,6 +10,8 @@ author:
      employer: City of Chicago
      photo_url: /images/authors/brett.png
      twitter: bjgol
+     about: "Former Chief Data and Information Officer for the City of Chicago. Currently a fellow in Urban Science at the University of Chicago Harris School of Public Policy."
+
 permalink: "/part-1/open-data-in-chicago-game-on/"
 featured: true
 ---

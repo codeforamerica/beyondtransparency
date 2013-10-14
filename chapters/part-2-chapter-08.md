@@ -6,7 +6,12 @@ part: 2
 author: 
   - 
     name: Elliott Ramos
-    twitter: ChicagoEl
+    job: Data Journalist
+    employer: Formerly at WBEZ
+    photo_url: /images/authors/elliott.png
+    twitter: ChicagoEl    
+    about: "Reporter first and foremost, using technology to enable me to do digital story-telling. Native Chicagoan."
+
 permalink: "/part-2/a-journalists-take-on-open-data/"
 ---
 

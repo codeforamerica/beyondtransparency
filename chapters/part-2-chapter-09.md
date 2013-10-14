@@ -6,7 +6,12 @@ part: 2
 author:
   -  
     name: Steve Spiker
-    twitter: spjika
+    job: Director of Research & Technology
+    employer: Urban Strategies Council
+    photo_url: /images/authors/spike.jpg
+    twitter: spjika    
+    about: "Oakland activist and urban planner. Connecting technology and government. Co-founder of OpenOakland."
+
 permalink: "/part-2/oakland-and-the-search-for-the-open-city/"
 ---
 

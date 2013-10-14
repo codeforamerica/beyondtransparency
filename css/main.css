@@ -273,6 +273,7 @@ div.critics{
 div.critics .attribution{ 
   text-align:right;
   font-family: 'NewCaledoniaLT-Italic';
+  padding-bottom:25px;
 }
 
 div.about-book{ 

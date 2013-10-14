@@ -9,7 +9,8 @@ author:
      job: Former Chief Data Officer 
      employer: City of Chicago
      photo_url: /images/authors/brett.png
-     twitter: bjgol     
+     twitter: bjgol   
+     about: "Former Chief Data and Information Officer for the City of Chicago. Currently a fellow in Urban Science at the University of Chicago Harris School of Public Policy."  
 
 permalink: /preface/
 ---

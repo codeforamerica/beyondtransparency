@@ -6,11 +6,25 @@ part: 3
 author: 
   -
     name: Michael Chui
-    twitter: McKinsey_MGI
+    job: Principal
+    employer: McKinsey Global Institute
+    photo_url: /images/authors/chui.png
+    twitter: mchui    
+    about: "Leading research on the impact of information technologies and innovation on business, the economy, and society. Former CIO of Bloomington, Indiana."
   -
     name: Diana Farrell
+    job: Director
+    employer: McKinsey & Company
+    photo_url: /images/authors/diana.png
+    twitter: Farrell_Diana    
+    about: "Co-founder of McKinsey Center for Government, helping government leaders achieve greater & lasting performance."
   -
     name: Steve Van Kuiken
+    job: Director
+    employer: McKinsey & Company
+    photo_url: /images/authors/stevek.png
+    twitter: McKinsey    
+    about: "Bringing technology solutions to help healthcare companies transform operational performance and increase market responsiveness"
 
 permalink: /part-3/generating-economic-value-through-open-data/
 ---
@@ -106,7 +120,9 @@ Overall, open data can generate value for multiple stakeholders, including gover
 
 Dr. Michael Chui is a principal of the McKinsey Global Institute (MGI), McKinsey’s business and economics research arm, where he leads research on the impact of information technologies and innovation on business, the economy, and society. Prior to joining McKinsey, Michael served as the first chief information officer of the city of Bloomington, Indiana, where he also founded a cooperative Internet Service Provider. He is based in San Francisco, CA.
 
-Diana Farrell is a director in McKinsey & Company’s Public Sector Practice, and the global leader and a co-founder of the McKinsey Center for Government (MCG). Diana rejoined McKinsey in 2011, after two years as Deputy Director of the National Economic Council and Deputy Assistant on Economic Policy to President Obama. She is based in Washington, DC.Steve Van Kuiken is a director in McKinsey & Company’s Business Technology Office, and leads McKinsey’s Healthcare Information Technology work, serving a wide variety of healthcare organizations in developing and executing technology strategies, including payors and providers, pharmaceutical and medical products companies, and IT providers to the industry. He is based in McKinsey’s New Jersey office.
+Diana Farrell is a director in McKinsey & Company’s Public Sector Practice, and the global leader and a co-founder of the McKinsey Center for Government (MCG). Diana rejoined McKinsey in 2011, after two years as Deputy Director of the National Economic Council and Deputy Assistant on Economic Policy to President Obama. She is based in Washington, DC.
+
+Steve Van Kuiken is a director in McKinsey & Company’s Business Technology Office, and leads McKinsey’s Healthcare Information Technology work, serving a wide variety of healthcare organizations in developing and executing technology strategies, including payors and providers, pharmaceutical and medical products companies, and IT providers to the industry. He is based in McKinsey’s New Jersey office.
 
 The authors wish to thank their colleague Peter Groves, a principal at McKinsey & Company based in New Jersey, for his substantial contributions to this article.
 

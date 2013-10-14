@@ -6,7 +6,12 @@ part: 1
 author: 
   - 
     name: Jonathan Feldman
-    twitter: _jfeldman
+    job: Chief Information Officer
+    employer: City of Asheville
+    photo_url: /images/authors/feldman.png
+    twitter: _jfeldman    
+    about: "Encouraging innovation in Asheville, NC, through better business technology and process. *InformationWeek* columnist."
+
 permalink: "/part-1/ashvilles-open-data-journey-pragmatics-policy-and-participation/"
 --- 
 

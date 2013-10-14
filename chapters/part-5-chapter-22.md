@@ -10,7 +10,9 @@ author:
     employer: O'Reilly Media Inc.
     photo_url: /images/authors/tim.png
     twitter: timoreilly
+    about: "Founder and CEO of O’Reilly Media."
 featured: true
+
 permalink: /part-5/open-data-and-algorithmic-regulation/
 ---
 
@@ -171,43 +173,3 @@ Tim O’Reilly is the founder and CEO of O’Reilly Media Inc., thought by many
 [Lichtblau, E., & Schmidt, M.S. (2013, August 3). Other Agencies Clamor for Data N.S.A. Compiles. The New York Times. Retrieved from http://www.nytimes.com/2013/08/04/us/other-agencies-clamor-for-data-nsa-compiles.html](http://www.nytimes.com/2013/08/04/us/other-agencies-clamor-for-data-nsa-compiles.html)
 [Open Government Working Group. (2007, December 8). 8 Principles of Open Government Data. Retrieved from http://www.opengovdata.org/home/8principles](http://www.opengovdata.org/home/8principles)
 [The White House. (2012). As Prepared for Delivery: Regulation: Looking Backward, Looking Forward - Cass R. Sunstein. Retrieved from http://www.whitehouse.gov/sites/default/files/omb/inforeg/speeches/regulation-looking-backward-looking-forward-05102012.pdf ](http://www.whitehouse.gov/sites/default/files/omb/inforeg/speeches/regulation-looking-backward-looking-forward-05102012.pdf )
-# APPENDIX I:
-
-## Further Reading
-
-Braybrooke, K. and Nissila, J. (Eds). (2013). The Open Book. London, UK: The Finnish Institute in London. Available at http://theopenbook.org.uk/
-
-Hibbets, Jason (2013). The Foundation for an Open Source City. Available at http://theopensourcecity.com/
-
-Lathrop, D. and Ruma, L. (Eds.) (2010). Open Government: Collaboration, Transparency, and Participation in Practice. Sebastopol, CA: O’Reilly Media. Available at https://github.com/oreillymedia/open_government
-
-Noveck, Beth (2010). Wiki Government: How Technology Can Make Government Better, Democracy Stronger, and Citizens More              Powerful. Washington, DC: Brookings Institution Press.
-
-Open Government Working Group. (2007, December 8). 8 Principles of Open Government Data. Available at https://public.resource.org/8_principles.html
-
-Socrata (2013). Open Data Field Guide. Available at http://www.socrata.com/open-data-field-guide-chapter/about/
-
-Tauberer, Josh (2012). Open Government Data. Available at http://opengovdata.io/
-
-The Sunlight Foundation. (2010). Ten Principles for Opening Up Government Information. Available at http://assets.sunlightfoundation.com.s3.amazonaws.com/policy/papers/Ten%20Principles%20for%20Opening%20Up%20Government%20Data.pdf
-
-Townsend, Anthony (2013). Smart Cities: Big Data, Civic Hackers, and the Quest for a New Utopia. New York, NY: W. W. Norton & Company.
-
-## Afterword: What’s Next?
-
-## By Abhi Nemani
-
-
-
-The early history of the open data movement, as chronicled in these pages, tells us that data will certainly play a critical role in optimizing service delivery, creating new business opportunities, and setting new policy. Cities ranging from Asheville and Portland to Chicago and London have set up open data shops; millions of dollars of economic activity have been stimulated both at the local and national levels; and core civic services such as childhood welfare in Maryland and Public Works in Louisville are being constantly renovated through data. Beyond these tactical enhancements, cultural and social shifts are emerging as citizens build more trust in their government and become more engaged in its work.
-
-Still, the legacy of the open data movement remains to be seen. The long-term success of our current efforts should be measured not only by their efficacy now, but by their ability to catalyze future action into new challenges and harder issues. While progress has begun in difficult areas such as personal data, platform integration, and inter-agency coordination, we have only just scratched the surface. As open data becomes mainstream, political and philosophical issues are coming to the fore. How can we design for inclusion? How can we reconcile privacy and openness? We must take on these questions next.
-
-To address these challenges and realize future opportunities, a key lesson from these narratives must be taken to heart. Data is at best a tool—sometimes a blunt one—and tools are only as good as their operators. The open data movement must look not only beyond transparency as an end goal, but beyond any single constituency as operators. “How to open data” is not only a question for governments, and neither is “what to build with it” one for civic startups. New York City has pioneered some of the most impressive applications of data analytics, while BrightScope has opened up millions of rows of data. The Smart Chicago Collaborative, Philadelphia’s Chief Data Officer, and SmartProcure have all used data to advance policy reform. Civic hackers and journalists have played a critical role in making data more meaningful and available.
-
-There are countless other examples—many detailed in this anthology—of unexpected open civic data operators from all facets of our society. In this way, open data has served to blur the lines between our public and private lives, to reconnect the consumer, citizen, and civil servant. When looking ahead, this may be part of open data’s greatest legacy: the emergence of a new kind of connective tissue that enables us to create governments of the people, by the people, that work in the 21st century.
-
-### About the Author
-
-Abhi Nemani is the Co-Executive Director (Interim) at Code for America (CfA). For nearly four years, Abhi has led CfA’s strategic development and growth, including the development of multiple new programs including the launch of a first-of-its-kind civic startup accelerator and the CfA Peer Network, designed to connect cities to help them work together. Abhi has been featured as a speaker at SxSW, the World Bank, and various universities and conferences around the world. He graduated magna cum laude from Claremont McKenna College with a honors degree in Philosophy, Politics, and Economics.
-

@@ -10,7 +10,7 @@ author:
     employer: Government Digital Services
     photo_url: /images/authors/emer.png
     twitter: emercoleman    
-    about: "Formerly open data and digital in government. These views are definitely my own. You can see what I do at http://emercoleman.com  mostly I am about change."
+    about: "Formerly open data and digital in government. These views are definitely my own. You can see what I do at http://emercoleman.com. Mostly I am about change."
 
 permalink: "/part-1/lessons-from-the-london-datastore/"
 featured: true

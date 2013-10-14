@@ -6,10 +6,20 @@ part: 3
 author: 
   -
     name: Eric Gordon
-    twitter: ericbot
+    job: Director, Engagement Game Lab
+    employer: Emerson College
+    photo_url: /images/authors/ericg.png
+    twitter: ericbot    
+    about: "Fellow at the Berkman Center; Associate Professor at Emerson College; Director of Engagement Game Lab."
   -
     name: Jessica Baldwin-Philippi
-permalink: /part-3/making-a-habit-out-of-engagement-how-the-culture-of-open-data-is-reframing-civic-life/
+    job: Researcher, Engagement Game Lab
+    employer: Emerson College
+    photo_url: /images/authors/jessica.png 
+    twitter: engagelab
+    about: "Visiting faculty in civic media at Emerson College and a researcher in the Engagement Game Lab."
+
+permalink: "/part-3/making-a-habit-out-of-engagement-how-the-culture-of-open-data-is-reframing-civic-life/"
 ---
 
 We live in data rich times. Digital tools, from Facebook to Fitbit, have made more and more thoughts and actions collectable. Thoughts and actions that were once understood as ephemeral and public can now be fixed and privatized. Indeed, many of the artifacts of public life have become sequestered into proprietary and isolated databases, from individual mobility patterns to reflections on current affairs. While this data does not have any obvious function, recent revelations about the National Security Agency monitoring Americans’ metadata points to just how revealing this data can be. Still, the story has created surprisingly little concern because of a general lack of understanding about how metadata can be used. The majority of Americans are comfortable with the federal government accessing their metadata for the purpose of national security (Pew Research/Washington Post, 2013); likewise, they expect that corporations will preserve their privacy by enabling them to control who has access to their personally identifiable data. Both personally identifiable data and metadata are generally seen as passively generated, harmlessly owned and protected by corporations, and “rented” when needed.
