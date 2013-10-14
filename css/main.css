@@ -261,6 +261,7 @@ div.contributors .authors{
 div.contributors li { 
   font-size:18px;
   width:50%;
+  min-width:400px;
   float:left;
   list-style:none;
   padding:0px;
@@ -311,6 +312,7 @@ div.about-book{
 .chapter-text{ 
   font-size:20px;
   line-height:30px;
+  overflow:hidden;
 }
 .chapter-text h2, 
 .chapter-text h3, 
@@ -366,12 +368,20 @@ div.about-book{
   padding-top:4px;
   transition:all 0.5s ease-in-out;
   overflow:auto;
-  z-index:1000;
+  z-index:2000;
 }
 .chapter-nav.show{ 
   transition:all 0.5s ease-in-out;
   right:0px;  
 }
+.chapter-nav .close{ 
+  font-size:36px;
+  color:#fff;
+  text-align:left;
+  float:left;
+  margin-left:20px;
+}
+
 .chapter-nav ul{ 
   margin:0px;
   padding:10px 0px 0px 10px;
@@ -475,18 +485,21 @@ div.about-book{
   color: #db2961;
 }
 
-.in-chapter-sidebar-content .chapter-nav-links {
+.in-chapter-sidebar-content .chapter-nav-links,
+.mobile-in-chapter-links .chapter-nav-links {
   padding-bottom: 20px;
   border-bottom: solid 2px #404040;
 }
-.in-chapter-sidebar-content .chapter-nav-links a {
+.in-chapter-sidebar-content .chapter-nav-links a,
+.mobile-in-chapter-links .chapter-nav-links a {
   font-family: 'TradeGothicLT';
   text-transform: uppercase;
   font-size: 13px;
   float: left;
 }
 
-.in-chapter-sidebar-content .chapter-nav-links a:last-child {
+.in-chapter-sidebar-content .chapter-nav-links a:last-child,
+.mobile-in-chapter-links .chapter-nav-links a:last-child {
   float: right;
 }
 
@@ -494,9 +507,15 @@ div.about-book{
   position:relative;
 }
 .in-chapter-sidebar-content{ 
-  position:fixed;
   width:250px;
   overflow:auto;
-  bottom:0px;
-  top:111px;
+
+}
+.mobile-in-chapter-links{ 
+  display:none;
+}
+
+.chapter-nav li.current-page{ 
+  font-weight:bold;
+  color:#fff;
 }

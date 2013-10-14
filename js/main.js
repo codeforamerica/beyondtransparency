@@ -12,6 +12,10 @@ $(".menu-btn").click(function(){
     $(".navbar").addClass("withsidebar")
   }
 
+});
+
+$(".chapter-nav .close").click(function(){
+  $(".menu-btn").click();
 })
 
 

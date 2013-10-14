@@ -8,9 +8,12 @@ layout: default
 
 <div class="chapter content">
 
+
+  <div class="mobile-in-chapter-links">
+    {% include in-chapter-links.html %}
+  </div>
+  
   <div class="col-md-9">
-
-
     {% if page.ispart == true %}
     <h4 class="chapter-number">Part {{page.part}}</h4>
     {% endif %}
@@ -28,53 +31,7 @@ layout: default
   </div>
   <div class="col-md-3 in-chapter-sidebar">
     <div class="in-chapter-sidebar-content">
-      <div class="chapter-nav-links">
-        {% capture current %}{{page.part | append:page.chapter }}{% endcapture %}
-        {% assign prev = null %}
-        {% assign output_next = false %}
-        {% for p in site.pages %}
-        
-          {% capture counter %}{{p.part | append:p.chapter  }}{% endcapture %}
-
-          {% if output_next == true and p.layout == "chapter" %}  
-            <a href="{{ p.url }}">
-             {% if p.ispart == true %}
-                PART {{p.part}}
-             {% else %}
- 
-               {% if p.chapter == 99 %}
-                 APPENDIX
-               {% else %}
-                 CHAPTER {{p.chapter}}
-               {% endif %}
-             
-             {% endif %}
-             &rarr; </a>
-            {% assign output_next = false %}
-          {% endif %}
-
-        
-          {% if p.layout == "chapter" and counter ==  current  %}
-        
-            {% if prev != null %}
-              <a href="{{prev.url}}"> &larr;
-              {% if prev.ispart == true %}
-                PART {{prev.part}}
-              {% else %}
-                {% if prev.chapter == 0 %}
-                  PREFACE
-                {% else %}
-                 CHAPTER {{prev.chapter}}
-                {% endif %}
-
-              {% endif %}
-              </a>
-            {% endif %}
-            {% assign output_next = true %}
-          {% endif %}
-          {% assign prev = p %}
-        {% endfor %}
-      </div>
+      {% include in-chapter-links.html %}
       {% if !page.author and page.ispart != true %}
       {% for a in page.author %}
       <div class="author">
