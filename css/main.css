@@ -385,10 +385,18 @@ div.about-book{
 }
 
 .footer{ 
-  background:#111;
-  color:#f8f8f8;
-  text-align:right;
+  background:#404040;
+  color:#ccc;
+  font-family: 'TradeGothicLT';
+  font-size: 14px;
+  text-align:left;
   padding:20px 0px 5px;
+}
+.footer a{
+  color: #ccc;
+}
+.footer a:hover{
+  color: #fff;
 }
 
 .author{ 
