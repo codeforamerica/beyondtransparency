@@ -272,6 +272,10 @@ div.contributors div.name{
 div.critics{ 
   background:#9bcfa6;
   color:#404040;
+  padding-bottom: 50px;
+}
+div.critics .quote {
+  padding: 10px;
 }
 div.critics .attribution{ 
   text-align:right;
