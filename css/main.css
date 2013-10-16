@@ -57,7 +57,7 @@ div.menu-bar .menu-btn.menu-icon {
   padding-right: 28px;
 }
 div.menu-bar .menu-btn.menu-icon:hover {
-  background-position-y: 18px;
+  background-position-y: -20px;
 }
 
 .navbar-brand{ 
