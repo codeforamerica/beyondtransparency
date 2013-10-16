@@ -50,6 +50,9 @@ div.in-chapter-sidebar-content{
 }
 div.in-chapter-sidebar-content .chapter-nav-links {
   margin-bottom: 30px;
+  border-top: solid 2px #404040;
+  border-bottom: 0px;
+  padding-top: 7px;
 }
 div.in-chapter-nav{ 
   display:none;
