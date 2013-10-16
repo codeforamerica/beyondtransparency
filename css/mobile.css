@@ -77,6 +77,7 @@ div.btn-read{
   height:40px;
   border:solid 1px #eee;
   margin-right:10px;
+  -webkit-appearance: none;
 }
 .email input.btn{ 
   width:100%;
