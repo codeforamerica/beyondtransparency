@@ -180,7 +180,7 @@ div.btn-read{
   padding-right:50px;
 }
 
-div.btn-primary:hover{
+.btn-primary:hover{
   background-color:#e33175;
   border-color: transparent;
 } 
@@ -528,12 +528,21 @@ div.about-book{
   font-weight:bold;
   color:#fff;
 }
+.email{ 
+  text-align:center;
+
+}
 .email input[type=email]{ 
   width:300px;
-  font-size:24px;
+  text-align:left;
+  padding:5px;
+  height:40px;
+  border:solid 1px #eee;
+  margin-right:10px;
 }
 .email input.btn{ 
-  padding:10px 15px;
+  padding:9px 15px;
+  margin-top:1px;
 }
 .email h3{ 
   margin:20px 0px;
