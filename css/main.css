@@ -164,7 +164,7 @@ div.offset2{
   left:85%;
 }
 
-div.btn-primary{ 
+.btn-primary{ 
   background-color:#bd2961;
   border-color:#bd2961;
   font-family: 'TradeGothicLT';
@@ -527,4 +527,14 @@ div.about-book{
 .chapter-nav li.current-page{ 
   font-weight:bold;
   color:#fff;
+}
+.email input[type=email]{ 
+  width:300px;
+  font-size:24px;
+}
+.email input.btn{ 
+  padding:10px 15px;
+}
+.email h3{ 
+  margin:20px 0px;
 }
