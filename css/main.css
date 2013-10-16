@@ -73,7 +73,7 @@ div.byline{
 }
 
 div.navbar-header{ 
-  width:980px;
+  max-width:980px;
   margin:0px auto;
   float:inherit;
 }
@@ -86,11 +86,12 @@ nav.navbar.withsidebar{
 }
 
 div.header{ 
-  height:1000px;
+
   background:#b8e0eb;
   z-index:0;
   position:relative;
   overflow:hidden;
+  padding-bottom:100px;
 }
 div.header div.about{ 
   margin-top:40px;
@@ -205,7 +206,7 @@ ul.buy-links .icon-pdf img {
 }
 
 div.content{ 
-  width:980px;
+  max-width:980px;
   margin:auto;
 }
 
@@ -227,13 +228,14 @@ div.byline{
 }
 div.city-graph{ 
   position:absolute;
-  top:791px;
+  bottom:-28px;
   text-align:center;
   width:100%;
 }
 
 div.city-graph img {
-  width: 980px;
+  max-width: 980px;
+  width:100%;
 }
 
 div.contributors, 
@@ -258,7 +260,7 @@ div.section-heading img {
 }
 
 div.contributors .authors{
-  width:980px;
+  max-width:980px;
   margin:auto;
 }
  
@@ -511,7 +513,8 @@ div.about-book{
   position:relative;
 }
 .in-chapter-sidebar-content{ 
-  width:250px;
+  width:100%;
+  min-width:150px;
   overflow:auto;
 
 }

@@ -13,7 +13,7 @@ layout: default
     {% include in-chapter-links.html %}
   </div>
   
-  <div class="col-md-9">
+  <div class="col-sm-9 col-md-9">
     {% if page.ispart == true %}
     <h4 class="chapter-number">Part {{page.part}}</h4>
     {% endif %}
@@ -29,7 +29,7 @@ layout: default
       {{ content }}
     </div>
   </div>
-  <div class="col-md-3 in-chapter-sidebar">
+  <div class="col-md-3 col-sm-3 in-chapter-sidebar">
     <div class="in-chapter-sidebar-content">
       {% include in-chapter-links.html %}
       {% if !page.author and page.ispart != true %}
