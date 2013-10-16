@@ -44,10 +44,12 @@ div.book-links{
 div.mobile-in-chapter-links{ 
   display:block;
   margin:-40px 5px 50px;
-
 }
 div.in-chapter-sidebar-content{ 
   width:100%;
+}
+div.in-chapter-sidebar-content .chapter-nav-links {
+  margin-bottom: 30px;
 }
 div.in-chapter-nav{ 
   display:none;
@@ -80,3 +82,7 @@ div.btn-read{
 .email h3{ 
   margin:20px 0px;
 }
+.author {
+  margin-top: 0px;
+}
+
