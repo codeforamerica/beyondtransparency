@@ -10,8 +10,7 @@ div.menu-btn span{
 div.navbar-nav div.menu-btn.menu-icon,
 div.menu-bar div.menu-btn.menu-icon { 
   width:50px;
-  background-position-x:0px;
-  
+  background-position-x:0px; 
 }
 
 .city-graph{ 
@@ -24,6 +23,13 @@ div.footer{
   padding-left:10px;
   padding-right:10px;
 }
+
+div.btn-read {
+  background-image: none;
+  padding-right: 15px;
+  text-align: center;
+}
+
 div.contributors .authors{ 
   width:100%;
 }
