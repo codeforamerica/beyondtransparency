@@ -4,6 +4,15 @@ div.content{
 div.header{ 
   height:inherit;
 }
+div.menu-btn span{ 
+  display:none;
+}
+div.navbar-nav div.menu-btn.menu-icon,
+div.menu-bar div.menu-btn.menu-icon { 
+  width:50px;
+  background-position-x:0px;
+  
+}
 
 .city-graph{ 
   display:none;
@@ -43,6 +52,7 @@ div.in-chapter-sidebar-content{
 div.in-chapter-nav{ 
   display:none;
 }
+nav.navbar.withsidebar,
 div.navbar.withsidebar{ 
   right:0px;
 }
