@@ -62,3 +62,21 @@ div.page.withsidebar{
 div.btn-read{ 
   width:100%;
 }
+.email{ 
+  text-align:center;
+}
+.email input[type=email]{ 
+  width:100%;
+  text-align:left;
+  padding:5px;
+  height:40px;
+  border:solid 1px #eee;
+  margin-right:10px;
+}
+.email input.btn{ 
+  width:100%;
+  margin-top:10px;
+}
+.email h3{ 
+  margin:20px 0px;
+}
