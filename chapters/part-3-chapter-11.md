@@ -82,6 +82,6 @@ Jessica Baldwin-Philippi is a visiting assistant professor of civic media at Eme
 
 ### References
 
-Dewey, J. (2011). Democracy and Education. New York: Simon and Brown.
-James, W. (1925). Talks to Teachers on Psychology; And to Students On Some of Life’s Ideals. New York: Henry Holt and Company.
-Pew Research Center/Washington Post (2013). “Public Says Investigate Terrorism, Even If It Intrudes on Privacy: Majority Views NSA Phone Tracking as Acceptable Anti-Terror Tactic.” Retrieved from http://www.people-press.org/files/legacy-pdf/06-10-13%20PRC%20WP%20Surveillance%20Release.pdf 
+* Dewey, J. (2011). Democracy and Education. New York: Simon and Brown.
+* James, W. (1925). Talks to Teachers on Psychology; And to Students On Some of Life’s Ideals. New York: Henry Holt and Company.
+* Pew Research Center/Washington Post (2013). “Public Says Investigate Terrorism, Even If It Intrudes on Privacy: Majority Views NSA Phone Tracking as Acceptable Anti-Terror Tactic.” Retrieved from http://www.people-press.org/files/legacy-pdf/06-10-13%20PRC%20WP%20Surveillance%20Release.pdf 

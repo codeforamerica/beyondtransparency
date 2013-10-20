@@ -162,6 +162,6 @@ Jeffrey D. Rubenstein is the founder and CEO of SmartProcure. Jeff is an accompl
 
 ### References
 
-Greenberg, Eric H., and Karl Weber (2008). Generation We: How Millennial Youth Are Taking Over America and Changing Our World Forever. Emeryville, CA: Pachatusan.
-Rankin, David M. (2013). US Politics and Generation Y: Engaging the Millennials. Boulder, Colo: Lynne Rienner Publishers. https://www.rienner.com/uploads/50b90f1f69e38.pdf
-United States Department of Justice. “FOIA.gov - Freedom of Information Act.” Accessed September 16, 2013. http://foia.gov
+* Greenberg, Eric H., and Karl Weber (2008). Generation We: How Millennial Youth Are Taking Over America and Changing Our World Forever. Emeryville, CA: Pachatusan.
+* Rankin, David M. (2013). US Politics and Generation Y: Engaging the Millennials. Boulder, Colo: Lynne Rienner Publishers. https://www.rienner.com/uploads/50b90f1f69e38.pdf
+* United States Department of Justice. “FOIA.gov - Freedom of Information Act.” Accessed September 16, 2013. http://foia.gov

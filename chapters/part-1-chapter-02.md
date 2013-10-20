@@ -126,6 +126,6 @@ Brett Goldstein is the former Chief Data and Information Officer for the City of
 
 References
 
-O’Reilly, Tim. (2010). Government as a Platform. In Open Government. Retrieved from http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html
-Emanuel, Rahm, City of Chicago. (2013). Open Data Executive Order (No. 2012-2). Retrieved from http://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html
-[Tareen, S. (2011, September 14). Chicago to publish crime stats online. The Washington Times. Retrieved from http://www.washingtontimes.com/news/2011/sep/14/apnewsbreak-chicago-to-publish-crime-stats-online/?page=all](http://www.washingtontimes.com/news/2011/sep/14/apnewsbreak-chicago-to-publish-crime-stats-online/?page=all)
+* O’Reilly, Tim. (2010). Government as a Platform. In Open Government. Retrieved from http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html
+* Emanuel, Rahm, City of Chicago. (2013). Open Data Executive Order (No. 2012-2). Retrieved from http://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html
+* [Tareen, S. (2011, September 14). Chicago to publish crime stats online. The Washington Times. Retrieved from http://www.washingtontimes.com/news/2011/sep/14/apnewsbreak-chicago-to-publish-crime-stats-online/?page=all](http://www.washingtontimes.com/news/2011/sep/14/apnewsbreak-chicago-to-publish-crime-stats-online/?page=all)

@@ -173,8 +173,8 @@ Steve Spiker (Spike) is the Director of Research & Technology at the Urban Stra
 
 ### References
 
-Eaves, D. (2010). Open Government. Available from https://github.com/oreillymedia/open_government
-[New York Times (2012). The 45 Places to Go in 2012. The New York Times, January 6, 2012. Retrieved from http://travel.nytimes.com/2012/01/08/travel/45-places-to-go-in-2012.html?pagewanted=all&_r=0](http://travel.nytimes.com/2012/01/08/travel/45-places-to-go-in-2012.html?pagewanted=all&_r=0)
-Swartz, A. (2012, September 25). Fix the machine, not the person. Retrieved from http://www.aaronsw.com/weblog/nummi
-Urban Strategies Council. (2012, June 5). Our Take on Oakland’s 100 Blocks Plan. Retrieved from http://www.infoalamedacounty.org/index.php/research/crimesafety/violenceprevention/oakland100blocks.html
-Urban Strategies Council. (2012, May 22). Our Method: Oakland’s 100 Blocks Plan. Retrieved from http://www.infoalamedacounty.org/index.php/research/crimesafety/violenceprevention/oakland100blocksmethod.html
+* Eaves, D. (2010). Open Government. Available from https://github.com/oreillymedia/open_government
+* [New York Times (2012). The 45 Places to Go in 2012. The New York Times, January 6, 2012. Retrieved from http://travel.nytimes.com/2012/01/08/travel/45-places-to-go-in-2012.html?pagewanted=all&_r=0](http://travel.nytimes.com/2012/01/08/travel/45-places-to-go-in-2012.html?pagewanted=all&_r=0)
+* Swartz, A. (2012, September 25). Fix the machine, not the person. Retrieved from http://www.aaronsw.com/weblog/nummi
+* Urban Strategies Council. (2012, June 5). Our Take on Oakland’s 100 Blocks Plan. Retrieved from http://www.infoalamedacounty.org/index.php/research/crimesafety/violenceprevention/oakland100blocks.html
+* Urban Strategies Council. (2012, May 22). Our Method: Oakland’s 100 Blocks Plan. Retrieved from http://www.infoalamedacounty.org/index.php/research/crimesafety/violenceprevention/oakland100blocksmethod.html

@@ -158,6 +158,6 @@ Jonathan Feldman is Chief Information Officer for the City of Asheville, North C
 
 ### References
 
-[Forbes, D. (2012, November 15). Age of Access: Asheville’s budding open-data push. Mountain Xpress. Retrieved from http://www.mountainx.com/article/46806/Age-of-Access-Ashevilles-budding-open-data-push](http://www.mountainx.com/article/46806/Age-of-Access-Ashevilles-budding-open-data-push)
-[Henderson, B. & Steele, C. (2013, March 3). N.C. sheriffs wage fight over gun records. The Charlotte Observer. Retrieved from http://www.charlotteobserver.com/2013/03/03/3889773/nc-sheriffs-wage-fight-over-gun.html#.UiZBV2RATy0](http://www.charlotteobserver.com/2013/03/03/3889773/nc-sheriffs-wage-fight-over-gun.html#.UiZBV2RATy0)
-[North Carolina General Statutes, Ch. 132 (2013). Retrieved from http://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_132.pdf](http://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_132.pdf)
+* [Forbes, D. (2012, November 15). Age of Access: Asheville’s budding open-data push. Mountain Xpress. Retrieved from http://www.mountainx.com/article/46806/Age-of-Access-Ashevilles-budding-open-data-push](http://www.mountainx.com/article/46806/Age-of-Access-Ashevilles-budding-open-data-push)
+* [Henderson, B. & Steele, C. (2013, March 3). N.C. sheriffs wage fight over gun records. The Charlotte Observer. Retrieved from http://www.charlotteobserver.com/2013/03/03/3889773/nc-sheriffs-wage-fight-over-gun.html#.UiZBV2RATy0](http://www.charlotteobserver.com/2013/03/03/3889773/nc-sheriffs-wage-fight-over-gun.html#.UiZBV2RATy0)
+* [North Carolina General Statutes, Ch. 132 (2013). Retrieved from http://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_132.pdf](http://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_132.pdf)

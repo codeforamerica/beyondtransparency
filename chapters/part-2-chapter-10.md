@@ -114,14 +114,14 @@ Bibiana McHugh has worked in TriMet’s Information Technology Department since 
 
 ### References
 
-Bay Area Rapid Transit. (2013). For Developers. Retrieved from http://www.bart.gov/schedules/developers/index.aspx
-Faludi, J. (2005, June 5). A Call for Open-Source Public Transit Mapping. Retrieved from http://www.worldchanging.com/archives/002937.html
-Garg, A. (2005, December 7). Public transit via Google. Retrieved from http://googleblog.blogspot.com/2005/12/public-transit-via-google.html
-Google Developers. (2012, January 12). What is GTFS? Retrieved from https://developers.google.com/transit/gtfs/
-Google Developers. (2012, July 26). What is GTFS-realtime? Retrieved from https://developers.google.com/transit/gtfs-realtime/
-Google Maps. (2013). Transit: Cities Covered. Retrieved from http://www.google.com/landing/transit/cities/index.html
-Hughes, J. (2007, May 18). General Transit Feed Spec Changes (Msg. 1). Message posted to (https://groups.google.com/forum/#!msg/gtfs-changes/C5dgsKGkpDA/kyxN1DCS-dQJ
-KiZoom. (2006). The Google Transit Feed Specification — Capabilities & Limitations: A Short Analysis.
-The White House. (n.d.). About Open Government. Retrieved from http://www.whitehouse.gov/open/about
-TriMet. (2013). App Center: Transit Tools for the Web and Mobile Devices. Retrieved from http://trimet.org/apps/
-TriMet. (2013). Developer Resources. Retrieved from http://developer.trimet.org/
+* Bay Area Rapid Transit. (2013). For Developers. Retrieved from http://www.bart.gov/schedules/developers/index.aspx
+* Faludi, J. (2005, June 5). A Call for Open-Source Public Transit Mapping. Retrieved from http://www.worldchanging.com/archives/002937.html
+* Garg, A. (2005, December 7). Public transit via Google. Retrieved from http://googleblog.blogspot.com/2005/12/public-transit-via-google.html
+* Google Developers. (2012, January 12). What is GTFS? Retrieved from https://developers.google.com/transit/gtfs/
+* Google Developers. (2012, July 26). What is GTFS-realtime? Retrieved from https://developers.google.com/transit/gtfs-realtime/
+* Google Maps. (2013). Transit: Cities Covered. Retrieved from http://www.google.com/landing/transit/cities/index.html
+* Hughes, J. (2007, May 18). General Transit Feed Spec Changes (Msg. 1). Message posted to (https://groups.google.com/forum/#!msg/gtfs-changes/C5dgsKGkpDA/kyxN1DCS-dQJ
+* KiZoom. (2006). The Google Transit Feed Specification — Capabilities & Limitations: A Short Analysis.
+* The White House. (n.d.). About Open Government. Retrieved from http://www.whitehouse.gov/open/about
+* TriMet. (2013). App Center: Transit Tools for the Web and Mobile Devices. Retrieved from http://trimet.org/apps/
+* TriMet. (2013). Developer Resources. Retrieved from http://developer.trimet.org/

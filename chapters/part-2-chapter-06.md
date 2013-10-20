@@ -156,10 +156,10 @@ Mike Alfred is Co-Founder and CEO of BrightScope. Previously, Mike was the Co-Fo
 
 ### References
 
-Financial Industry Regulatory Authority, Inc. (2013). Legal Notices. Retrieved from http://www.finra.org/Legal/index.htm
-Newsom, Gavin (2013). Citizenville: How to Take the Town Square Digital and Reinvent Government. New York, NY: The Penguin Press.
-Obama, B. The White House, Office of the Press Secretary. (2009). Freedom of Information Act. Retrieved from http://www.whitehouse.gov/the_press_office/FreedomofInformationAct
-Open Knowledge Foundation. (n.d.). Open Definition. Retrieved from http://opendefinition.org
-Robinson, D. G., Yu, H., Zeller, W. P., & Felten, E. W. (2009). Government Data and the Invisible Hand. Yale Journal of Law & Technology, 11, p. 160. Retrieved from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1138083
-Sunstein, C. R. (2011, September 8). Informing Consumers Through Smart Disclosure. Retrieved from http://www.whitehouse.gov/sites/default/files/omb/inforeg/for-agencies/informing-consumers-through-smart-disclosure.pdf
-The Depository Trust & Clearing Corporation. (2012, November 26). Legal Identity Identifier. Retrieved from http://www.dtcc.com/products/dataservices/lei.php
+* Financial Industry Regulatory Authority, Inc. (2013). Legal Notices. Retrieved from http://www.finra.org/Legal/index.htm
+* Newsom, Gavin (2013). Citizenville: How to Take the Town Square Digital and Reinvent Government. New York, NY: The Penguin Press.
+* Obama, B. The White House, Office of the Press Secretary. (2009). Freedom of Information Act. Retrieved from http://www.whitehouse.gov/the_press_office/FreedomofInformationAct
+* Open Knowledge Foundation. (n.d.). Open Definition. Retrieved from http://opendefinition.org
+* Robinson, D. G., Yu, H., Zeller, W. P., & Felten, E. W. (2009). Government Data and the Invisible Hand. Yale Journal of Law & Technology, 11, p. 160. Retrieved from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1138083
+* Sunstein, C. R. (2011, September 8). Informing Consumers Through Smart Disclosure. Retrieved from http://www.whitehouse.gov/sites/default/files/omb/inforeg/for-agencies/informing-consumers-through-smart-disclosure.pdf
+* The Depository Trust & Clearing Corporation. (2012, November 26). Legal Identity Identifier. Retrieved from http://www.dtcc.com/products/dataservices/lei.php
