@@ -139,6 +139,6 @@ Mark has built open government software applications for the District of Columbi
 
 ### References
 
-Center for Technology in Government. (2012). The Dynamics of Opening Government Data. Albany, NY: Helbig, N., Cresswell, A. M., Burke, G. B., & Luna-Reyes, L. Retrieved from: http://www.ctg.albany.edu/publications/reports/opendata/opendata.pdf
-O’Reilly, Tim (2010). Government as a Platform. In Open Government (Chapter 1). Retrieved from http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html
-Streitfeld, D. (2012, Nov. 17). As Boom Lures App Creators, Tough Part Is Making a Living. The New York Times. Retrieved from http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html?pagewanted=4
+* Center for Technology in Government. (2012). The Dynamics of Opening Government Data. Albany, NY: Helbig, N., Cresswell, A. M., Burke, G. B., & Luna-Reyes, L. Retrieved from: http://www.ctg.albany.edu/publications/reports/opendata/opendata.pdf
+* O’Reilly, Tim (2010). Government as a Platform. In Open Government (Chapter 1). Retrieved from http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html
+* Streitfeld, D. (2012, Nov. 17). As Boom Lures App Creators, Tough Part Is Making a Living. The New York Times. Retrieved from http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html?pagewanted=4

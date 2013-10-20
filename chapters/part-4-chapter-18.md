@@ -231,5 +231,5 @@ John Fry is the Program Director for Government Solutions at Revelstone and util
 
 ### References
 
-Governmental Accounting Standards Board. (2010). Suggested Guidelines for Voluntary Reporting of SEA Performance Information. Washington, DC.
-[Tetherless World Constellation International (2013). Open Government Dataset Search. Retrieved from http://logd.tw.rpi.edu/iogds_data_analytics](http://logd.tw.rpi.edu/iogds_data_analytics)
+* Governmental Accounting Standards Board. (2010). Suggested Guidelines for Voluntary Reporting of SEA Performance Information. Washington, DC.
+* [Tetherless World Constellation International (2013). Open Government Dataset Search. Retrieved from http://logd.tw.rpi.edu/iogds_data_analytics](http://logd.tw.rpi.edu/iogds_data_analytics)

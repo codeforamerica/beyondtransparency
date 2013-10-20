@@ -135,4 +135,4 @@ Michael Flowers is Chief Analytics Officer and Chief Open Platform Officer for t
 
 ### References
 
-[Roosevelt, Theodore (1910). “Citizenship in a Republic.” [Speech] Retrieved from http://www.theodore-roosevelt.com/trsorbonnespeech.html](http://www.theodore-roosevelt.com/trsorbonnespeech.html)
+* [Roosevelt, Theodore (1910). “Citizenship in a Republic.” [Speech] Retrieved from http://www.theodore-roosevelt.com/trsorbonnespeech.html](http://www.theodore-roosevelt.com/trsorbonnespeech.html)

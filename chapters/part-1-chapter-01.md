@@ -101,7 +101,7 @@ Joel Mahoney is an entrepreneur and former Code for America Fellow. He is the c
 
 ### References
 
-[Boston Globe Staff (2011). Getting In: Inside Boston’s School Assignment Maze [Multimedia series]. The Boston Globe. Retrieved from http://www.boston.com/news/education/specials/school_chance/index/](http://www.boston.com/news/education/specials/school_chance/index/)
-[City of Boston. (2012). The Honorable Mayor Thomas M. Menino: State of the City Address, January 17, 2012. Retrieved from http://www.cityofboston.gov/Images_Documents/State_of_the_City_2012_tcm3-30137.pdf](http://www.cityofboston.gov/Images_Documents/State_of_the_City_2012_tcm3-30137.pdf)
-[Hoover Institution, Stanford University (1998). Busing’s Boston Massacre. Policy Review, 98. Retrieved from http://www.hoover.org/publications/policy-review/article/7768](http://www.hoover.org/publications/policy-review/article/7768)
-[Seelye, Katherine Q. (2013, March 12). No Division Required in This School Problem. The New York Times. Retrieved from http://www.nytimes.com/2013/03/13/education/no-division-required-in-this-school-problem.html?_r=0](http://www.nytimes.com/2013/03/13/education/no-division-required-in-this-school-problem.html?_r=0)
+* [Boston Globe Staff (2011). Getting In: Inside Boston’s School Assignment Maze [Multimedia series]. The Boston Globe. Retrieved from http://www.boston.com/news/education/specials/school_chance/index/](http://www.boston.com/news/education/specials/school_chance/index/)
+* [City of Boston. (2012). The Honorable Mayor Thomas M. Menino: State of the City Address, January 17, 2012. Retrieved from http://www.cityofboston.gov/Images_Documents/State_of_the_City_2012_tcm3-30137.pdf](http://www.cityofboston.gov/Images_Documents/State_of_the_City_2012_tcm3-30137.pdf)
+* [Hoover Institution, Stanford University (1998). Busing’s Boston Massacre. Policy Review, 98. Retrieved from http://www.hoover.org/publications/policy-review/article/7768](http://www.hoover.org/publications/policy-review/article/7768)
+* [Seelye, Katherine Q. (2013, March 12). No Division Required in This School Problem. The New York Times. Retrieved from http://www.nytimes.com/2013/03/13/education/no-division-required-in-this-school-problem.html?_r=0](http://www.nytimes.com/2013/03/13/education/no-division-required-in-this-school-problem.html?_r=0)

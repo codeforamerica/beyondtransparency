@@ -270,7 +270,7 @@ Beth Niblock was appointed to be the first CIO for Kentucky’s newly merged Lou
 
 ### References
 
-Collins, J. (2001). Good to Great. New York, NY: HarperBusiness.
-Miller, K. (2006). We Don’t Make Widgets. Washington, DC: Governing Books.
-Ries, E. (2011). The Lean Startup. New York, NY: Crown Business.
-Thousand, J. S. & Villa, R. A. (1995). Managing Complex Change Toward Inclusive Schooling. In R. A. Villa & J. S. Thousand (Eds.) Creating an Inclusive School. Alexandria, VA: Association for Supervision and Curriculum Development.
+* Collins, J. (2001). Good to Great. New York, NY: HarperBusiness.
+* Miller, K. (2006). We Don’t Make Widgets. Washington, DC: Governing Books.
+* Ries, E. (2011). The Lean Startup. New York, NY: Crown Business.
+* Thousand, J. S. & Villa, R. A. (1995). Managing Complex Change Toward Inclusive Schooling. In R. A. Villa & J. S. Thousand (Eds.) Creating an Inclusive School. Alexandria, VA: Association for Supervision and Curriculum Development.

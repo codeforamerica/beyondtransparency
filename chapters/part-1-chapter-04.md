@@ -118,17 +118,17 @@ Emer Coleman was the architect of The London Datastore. She also works as a jour
 
 ### References
 
-Arthur, C. (2010, September 3). Another Data Win: TfL Opens Up Bus and Tube Timetables for Developers. The Guardian. Retrieved from http://www.guardian.co.uk/technology/blog/2010/sep/03/tfl-timetables-boris-johnson
-Bennett, C. (1985). From the Dark to the Light: The Open Government Debate in Britain. Journal of Public Policy, 5 02), 187-213. doi: 10.1017/S0143814X00003020. Retrieved from http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=2692668
-Boland, L. & Coleman, E. (2008). New Development: What Lies Beyond Service Delivery? Leadership Behaviours for Place Shaping in Local Government. Public Money & Management, 28 (5), 313-318. Retrieved from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1266379
-Burkert, H. (2004). The Mechanics of Public Sector Information. In G. Aichholzer and H. Burkert (Eds.) Public Sector Information in the Digital Age: Between Markets, Public Management and Citizens’ Rights. Cheltenham: Edward Elgar Publishing Limited.
-Coleman, E. (2010, February 15). Hectic Times. Retrieved from http://data.london.gov.uk/blog/hectic-times
-Eaves, D. (2009, September 30). The Three Laws of Open Government Data. Retrieved from http://eaves.ca/2009/09/30/three-law-of-open-government-data/
-[Greater London Authority. (2009). Help Us Free London’s Data. Retrieved from http://freelondonsdata.eventbrite.com/](http://freelondonsdata.eventbrite.com/)
-Institute for the Future & Rockefeller Foundation. (2010). A Planet of Civic Laboratories: The Future of Cities, Information, and Inclusion. Palo Alto, CA: Townsend, A., Maguire, R., Liebhold, M., & Crawford, M. Retrieved from http://www.rockefellerfoundation.org/uploads/files/814a5087-542c-4353-9619-60ff913b4589-sr.pdf
-Leadbeater, C. & Cottam, H. (2007) The User-Generated State: Public Services 2.0. Retrieved from http://www.charlesleadbeater.net/archive/public-services-20.aspx
-[Open Government Working Group. (2007, December 8). 8 Principles of Open Government Data. Retrieved from http://www.opengovdata.org/home/8principles](http://www.opengovdata.org/home/8principles)
-Open Society Foundations. (2010). Open Data Study. London: Hogge, B. Retrieved from http://www.opensocietyfoundations.org/reports/open-data-study
-The Conservative Party. (2010). The Conservative Manifesto 2010. Uckfield, East Sussex: The Conservative Party. Retrieved from http://www.conservatives.com/~/media/Files/Activist%20Centre/Press%20and%20Policy/Manifestos/Manifesto2010
-[Thorpe, C. (2009, October 25). A Good Way to Start Building a Data Store for London. Retrieved from http://blog.jaggeree.com/post/222676486/a-good-way-to-start-building-a-data-store-for-london](http://blog.jaggeree.com/post/222676486/a-good-way-to-start-building-a-data-store-for-london)
-Worthy, B. (2008). The Future of Freedom of Information in the UK. The Political Quarterly, 79(1), 100-108. doi: 10.1111/j.1467-923X.2008.00907.x. Retrieved from http://onlinelibrary.wiley.com/doi/10.1111/j.1467-923X.2008.00907.x/abstract
+* Arthur, C. (2010, September 3). Another Data Win: TfL Opens Up Bus and Tube Timetables for Developers. The Guardian. Retrieved from http://www.guardian.co.uk/technology/blog/2010/sep/03/tfl-timetables-boris-johnson
+* Bennett, C. (1985). From the Dark to the Light: The Open Government Debate in Britain. Journal of Public Policy, 5 02), 187-213. doi: 10.1017/S0143814X00003020. Retrieved from http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=2692668
+* Boland, L. & Coleman, E. (2008). New Development: What Lies Beyond Service Delivery? Leadership Behaviours for Place Shaping in Local Government. Public Money & Management, 28 (5), 313-318. Retrieved from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1266379
+* Burkert, H. (2004). The Mechanics of Public Sector Information. In G. Aichholzer and H. Burkert (Eds.) Public Sector Information in the Digital Age: Between Markets, Public Management and Citizens’ Rights. Cheltenham: Edward Elgar Publishing Limited.
+* Coleman, E. (2010, February 15). Hectic Times. Retrieved from http://data.london.gov.uk/blog/hectic-times
+* Eaves, D. (2009, September 30). The Three Laws of Open Government Data. Retrieved from http://eaves.ca/2009/09/30/three-law-of-open-government-data/
+* [Greater London Authority. (2009). Help Us Free London’s Data. Retrieved from http://freelondonsdata.eventbrite.com/](http://freelondonsdata.eventbrite.com/)
+* Institute for the Future & Rockefeller Foundation. (2010). A Planet of Civic Laboratories: The Future of Cities, Information, and Inclusion. Palo Alto, CA: Townsend, A., Maguire, R., Liebhold, M., & Crawford, M. Retrieved from http://www.rockefellerfoundation.org/uploads/files/814a5087-542c-4353-9619-60ff913b4589-sr.pdf
+* Leadbeater, C. & Cottam, H. (2007) The User-Generated State: Public Services 2.0. Retrieved from http://www.charlesleadbeater.net/archive/public-services-20.aspx
+* [Open Government Working Group. (2007, December 8). 8 Principles of Open Government Data. Retrieved from http://www.opengovdata.org/home/8principles](http://www.opengovdata.org/home/8principles)
+* Open Society Foundations. (2010). Open Data Study. London: Hogge, B. Retrieved from http://www.opensocietyfoundations.org/reports/open-data-study
+* The Conservative Party. (2010). The Conservative Manifesto 2010. Uckfield, East Sussex: The Conservative Party. Retrieved from http://www.conservatives.com/~/media/Files/Activist%20Centre/Press%20and%20Policy/Manifestos/Manifesto2010
+* [Thorpe, C. (2009, October 25). A Good Way to Start Building a Data Store for London. Retrieved from http://blog.jaggeree.com/post/222676486/a-good-way-to-start-building-a-data-store-for-london](http://blog.jaggeree.com/post/222676486/a-good-way-to-start-building-a-data-store-for-london)
+* Worthy, B. (2008). The Future of Freedom of Information in the UK. The Political Quarterly, 79(1), 100-108. doi: 10.1111/j.1467-923X.2008.00907.x. Retrieved from http://onlinelibrary.wiley.com/doi/10.1111/j.1467-923X.2008.00907.x/abstract

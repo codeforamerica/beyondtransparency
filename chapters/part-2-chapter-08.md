@@ -141,11 +141,11 @@ Elliott is a data reporter and Web producer for WBEZ, a Chicago-based public rad
 
 ### References
 
-[Dudek, Mitch (2013, August 6). Prosecutor says she quit after demotion for dropping charges in ‘wilding’ case. Chicago Sun-Times.com. Retrieved from http://www.suntimes.com/21770721-761/prosecutor-says-she-quit-after-demotion-for-dropping-charges-in-wilding-case.html](http://www.suntimes.com/21770721-761/prosecutor-says-she-quit-after-demotion-for-dropping-charges-in-wilding-case.html)
-[Hall, Gaynor (2013, June 24). Media and Violence in Chicago. WGN TV website. Retrieved from http://wgntv.com/2013/06/24/media-and-violence-in-chicago/](http://wgntv.com/2013/06/24/media-and-violence-in-chicago/)
-Office of the Chicago City Clerk. (2012). Amendment of Title 2, Chapter 8 of Municipal Code on Redistricting of City of Chicago Wards.
-The Pulitzer Prizes. (2013). The 2013 Pulitzer Prize Winners. Retrieved from http://www.pulitzer.org/works/2013-Public-Service
-[Ramos, E. (2012, December 28). Chicago police confirm 500 murders in 2012. WBEZ 91.5 website. Retrieved from http://www.wbez.org/news/chicago-police-confirm-500-murders-2012-104615](http://www.wbez.org/news/chicago-police-confirm-500-murders-2012-104615)
-[Ramos, E. (2013, February 28). CTA, Sun-Times get in data fight [WBEZ web log]. Retrieved from http://wbezdata.tumblr.com/post/44257873024/cta-sun-times-get-in-data-fight](http://wbezdata.tumblr.com/post/44257873024/cta-sun-times-get-in-data-fight)
-[Sudo, Chuck (2013, May 17). Police: Woman Made Up Michigan Avenue Robbing Story. The Chicagoist. Retrieved from http://chicagoist.com/2013/05/17/police_woman_made_up_mag_mile_robbe.php](http://chicagoist.com/2013/05/17/police_woman_made_up_mag_mile_robbe.php)
-Sun Sentinel. (2012). Speeding Cops in South Florida (data file). Retrieved from http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php
+* [Dudek, Mitch (2013, August 6). Prosecutor says she quit after demotion for dropping charges in ‘wilding’ case. Chicago Sun-Times.com. Retrieved from http://www.suntimes.com/21770721-761/prosecutor-says-she-quit-after-demotion-for-dropping-charges-in-wilding-case.html](http://www.suntimes.com/21770721-761/prosecutor-says-she-quit-after-demotion-for-dropping-charges-in-wilding-case.html)
+* [Hall, Gaynor (2013, June 24). Media and Violence in Chicago. WGN TV website. Retrieved from http://wgntv.com/2013/06/24/media-and-violence-in-chicago/](http://wgntv.com/2013/06/24/media-and-violence-in-chicago/)
+* Office of the Chicago City Clerk. (2012). Amendment of Title 2, Chapter 8 of Municipal Code on Redistricting of City of Chicago Wards.
+* The Pulitzer Prizes. (2013). The 2013 Pulitzer Prize Winners. Retrieved from http://www.pulitzer.org/works/2013-Public-Service
+* [Ramos, E. (2012, December 28). Chicago police confirm 500 murders in 2012. WBEZ 91.5 website. Retrieved from http://www.wbez.org/news/chicago-police-confirm-500-murders-2012-104615](http://www.wbez.org/news/chicago-police-confirm-500-murders-2012-104615)
+* [Ramos, E. (2013, February 28). CTA, Sun-Times get in data fight [WBEZ web log]. Retrieved from http://wbezdata.tumblr.com/post/44257873024/cta-sun-times-get-in-data-fight](http://wbezdata.tumblr.com/post/44257873024/cta-sun-times-get-in-data-fight)
+* [Sudo, Chuck (2013, May 17). Police: Woman Made Up Michigan Avenue Robbing Story. The Chicagoist. Retrieved from http://chicagoist.com/2013/05/17/police_woman_made_up_mag_mile_robbe.php](http://chicagoist.com/2013/05/17/police_woman_made_up_mag_mile_robbe.php)
+* Sun Sentinel. (2012). Speeding Cops in South Florida (data file). Retrieved from http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php

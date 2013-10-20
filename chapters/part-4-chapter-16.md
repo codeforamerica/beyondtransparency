@@ -174,7 +174,7 @@ Beth Blauer is director of GovStat for Seattle-based Socrata, an open data platf
 
 ### References
 
-Education Week. (2012). Quality Counts 2012: The Global Challenge. Education Week, 31 (16). Retrieved from http://www.edweek.org/ew/qc/2012/16src.h31.html
-Godown, J. (2009, August). The CompStat Process: Four Principles for Managing Crime Reduction. The Police Chief, vol. LXXVI (no. 8). 
-[Fox, S. (2013, July 1). Pew Internet: Health. Retrieved from http://www.pewinternet.org/Commentary/2011/November/Pew-Internet-Health.aspx](http://www.pewinternet.org/Commentary/2011/November/Pew-Internet-Health.aspx)
-[O’Malley, Martin, State of Maryland. (2013, January 30). State of the State: Better Choice; Better Results. Retrieved from http://www.governor.maryland.gov/documents/2013StateoftheState.pdf](http://www.governor.maryland.gov/documents/2013StateoftheState.pdf)
+* Education Week. (2012). Quality Counts 2012: The Global Challenge. Education Week, 31 (16). Retrieved from http://www.edweek.org/ew/qc/2012/16src.h31.html
+* Godown, J. (2009, August). The CompStat Process: Four Principles for Managing Crime Reduction. The Police Chief, vol. LXXVI (no. 8). 
+* [Fox, S. (2013, July 1). Pew Internet: Health. Retrieved from http://www.pewinternet.org/Commentary/2011/November/Pew-Internet-Health.aspx](http://www.pewinternet.org/Commentary/2011/November/Pew-Internet-Health.aspx)
+* [O’Malley, Martin, State of Maryland. (2013, January 30). State of the State: Better Choice; Better Results. Retrieved from http://www.governor.maryland.gov/documents/2013StateoftheState.pdf](http://www.governor.maryland.gov/documents/2013StateoftheState.pdf)

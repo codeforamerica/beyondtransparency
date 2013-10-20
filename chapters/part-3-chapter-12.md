@@ -95,8 +95,8 @@ Cyd Harrell is a user experience expert with over fifteen years of experience im
 
 ### References
 
-Chisnell, D. (2012, December 6). What I’m working on now. (Web log). Retrieved from http://civicdesigning.org/featured-story/what-im-working-on-now/
-Clifford, S. (2010, August 23). Nordstrom Links Online Inventory to Real World. The New York Times. Retrieved from http://www.nytimes.com/2010/08/24/business/24shop.html?_r=0
-Fry, B.J. (2004). Computational Information Design. (Doctoral dissertation). Retrieved from http://benfry.com/phd/dissertation-110323c.pdf
-Government Digital Service. (2012). Design Principles. Retrieved from https://www.gov.uk/designprinciples
-Graham, R. (2013, April 14). What baby names say about everything else. The Boston Globe. Retrieved from http://www.bostonglobe.com/ideas/2013/04/13/what-baby-names-say-about-everything-else/Ln9kVOl9haGhFoHwQv9h7I/story.html
+* Chisnell, D. (2012, December 6). What I’m working on now. (Web log). Retrieved from http://civicdesigning.org/featured-story/what-im-working-on-now/
+* Clifford, S. (2010, August 23). Nordstrom Links Online Inventory to Real World. The New York Times. Retrieved from http://www.nytimes.com/2010/08/24/business/24shop.html?_r=0
+* Fry, B.J. (2004). Computational Information Design. (Doctoral dissertation). Retrieved from http://benfry.com/phd/dissertation-110323c.pdf
+* Government Digital Service. (2012). Design Principles. Retrieved from https://www.gov.uk/designprinciples
+* Graham, R. (2013, April 14). What baby names say about everything else. The Boston Globe. Retrieved from http://www.bostonglobe.com/ideas/2013/04/13/what-baby-names-say-about-everything-else/Ln9kVOl9haGhFoHwQv9h7I/story.html

@@ -146,22 +146,22 @@ Greg Bloom was the Communications Guy at Bread for the City in Washington D.C. f
 
 ### References 
 
-[Alliance of Information and Referral Systems (2009). AIRS standards for professional information & referral and quality indicators. Retrieved from http://www.airs.org/files/public/AIRS_Standards_6_0Final.pdf](http://www.airs.org/files/public/AIRS_Standards_6_0Final.pdf)
-[Ashlock, P. (2012). Open & Candid: Phil Ashlock on Open311. Retrieved from http://openplans.org/2012/02/open-candid-phil-ashlock-on-open311/](http://openplans.org/2012/02/open-candid-phil-ashlock-on-open311/)
-[The Aspen Institute. (2013). Information for Impact: Liberating Non-Profit Sector Data, in Aspen Institute’s Program on Philanthropy and Social Innovation. Washington, DC: Beth Simone Noveck and Daniel L. Goroff. Retrieved from http://www.aspeninstitute.org/sites/default/files/content/docs/events/psi_Information-for-Impact.pdf](http://www.aspeninstitute.org/sites/default/files/content/docs/events/psi_Information-for-Impact.pdf)
-Fitch, D. (2009). Shared point of access to facilitate interagency collaboration. Administration in Social Work, Vol. 33 (No. 2).
-Gasser, U. & Palfrey, J. (2012). Interop. New York, NY: Basic Books.
-Gurstein, M. (2003). Effective use: A community informatics strategy beyond the Digital Divide. First Monday, 8.12. Retrieved from: http://firstmonday.org/ojs/index.php/fm/article/view/1107/1027
-Gurstein, M. (2013). Community Innovation and Community Informatics. The Journal of Community Informatics, Vol. 9 (No. 3).
-Levine, P. (2003). A Movement for the Commons? The Responsive Community: Rights and Responsibilities, vol. 13. Retrieved from: http://www.peterlevine.ws/responsivecommunity.pdf
-Levine, P. (2007). Collective Action, Civic Engagement, and the Knowledge Commons. In E. Ostrom and C. Hess (Eds), Understanding Knowledge as a Commons (247). Cambridge, MA: MIT Press. 
-[Montero, M. (2013) Social Consortium: A Partnership of Community Agents. Global Journal of Community Psychology Practice, Vol. 4 (No 2). Retrieved from http://www.gjcpp.org/pdfs/Montero-v4i2-20130531.pdf ](http://www.gjcpp.org/pdfs/Montero-v4i2-20130531.pdf )
-[Nadeu, E.G. (2012). The Cooperative Solution. Retrieved from http://www.thecooperativefoundation.org/images/Cooperative_Solution_6x9-h_copy.pdf](http://www.thecooperativefoundation.org/images/Cooperative_Solution_6x9-h_copy.pdf)
-[New America Foundation. (2001). Public Assets, Private Profits: Reclaiming the American Commons in an Age of Market Enclosure. Washington DC: David Bollier. Retrieved from http://www.newamerica.net/files/archive/Pub_File_650_1.pdf](http://www.newamerica.net/files/archive/Pub_File_650_1.pdf)
-[Ogden, M (2012, January). Open211 [Weblog]. Retrieved from http://maxogden.com/open211.html](http://maxogden.com/open211.html)
-Ostrom, E. & Hess, C. (Eds.). (2007). Understanding Knowledge as a Commons — From Theory to Practice. Cambridge, MA.: MIT Press.
-[Peuter, G. & Dyer-Witheford, N. (2010). Commons and Cooperatives. Affinities: A Journal of Radical Theory, Culture, and Action, Vol. 4 (No 1). Retrieved from http://affinitiesjournal.org/index.php/affinities/article/view/45](http://affinitiesjournal.org/index.php/affinities/article/view/45)
-Skocpol, T. (2004). Diminished Democracy: From Membership to Management in American Civic Life. Norman, OK: University of Oklahoma Press.
-Shank, N. (2004). Database Interoperability: Technology and Process for Sharing Resource Information. Journal of Alliance and Information Referral Systems 2004. See http://digitalcommons.unl.edu/publicpolicyshank/1/
-[De Tocqueville, A. (1840). Democracy in America. Retrieved from http://www.gutenberg.org/ebooks/816](http://www.gutenberg.org/ebooks/816)
-[Williams, K. & Durrance, J. (2010). Community Informatics. The Encyclopedia of Library and Information Sciences, Vol. 3. Retrieved from http://people.lis.illinois.edu/~katewill/williams-durrance-encyclo-community-informatics.pdf](http://people.lis.illinois.edu/~katewill/williams-durrance-encyclo-community-informatics.pdf)
+* [Alliance of Information and Referral Systems (2009). AIRS standards for professional information & referral and quality indicators. Retrieved from http://www.airs.org/files/public/AIRS_Standards_6_0Final.pdf](http://www.airs.org/files/public/AIRS_Standards_6_0Final.pdf)
+* [Ashlock, P. (2012). Open & Candid: Phil Ashlock on Open311. Retrieved from http://openplans.org/2012/02/open-candid-phil-ashlock-on-open311/](http://openplans.org/2012/02/open-candid-phil-ashlock-on-open311/)
+* [The Aspen Institute. (2013). Information for Impact: Liberating Non-Profit Sector Data, in Aspen Institute’s Program on Philanthropy and Social Innovation. Washington, DC: Beth Simone Noveck and Daniel L. Goroff. Retrieved from http://www.aspeninstitute.org/sites/default/files/content/docs/events/psi_Information-for-Impact.pdf](http://www.aspeninstitute.org/sites/default/files/content/docs/events/psi_Information-for-Impact.pdf)
+* Fitch, D. (2009). Shared point of access to facilitate interagency collaboration. Administration in Social Work, Vol. 33 (No. 2).
+* Gasser, U. & Palfrey, J. (2012). Interop. New York, NY: Basic Books.
+* Gurstein, M. (2003). Effective use: A community informatics strategy beyond the Digital Divide. First Monday, 8.12. Retrieved from: http://firstmonday.org/ojs/index.php/fm/article/view/1107/1027
+* Gurstein, M. (2013). Community Innovation and Community Informatics. The Journal of Community Informatics, Vol. 9 (No. 3).
+* Levine, P. (2003). A Movement for the Commons? The Responsive Community: Rights and Responsibilities, vol. 13. Retrieved from: http://www.peterlevine.ws/responsivecommunity.pdf
+* Levine, P. (2007). Collective Action, Civic Engagement, and the Knowledge Commons. In E. Ostrom and C. Hess (Eds), Understanding Knowledge as a Commons (247). Cambridge, MA: MIT Press. 
+* [Montero, M. (2013) Social Consortium: A Partnership of Community Agents. Global Journal of Community Psychology Practice, Vol. 4 (No 2). Retrieved from http://www.gjcpp.org/pdfs/Montero-v4i2-20130531.pdf ](http://www.gjcpp.org/pdfs/Montero-v4i2-20130531.pdf )
+* [Nadeu, E.G. (2012). The Cooperative Solution. Retrieved from http://www.thecooperativefoundation.org/images/Cooperative_Solution_6x9-h_copy.pdf](http://www.thecooperativefoundation.org/images/Cooperative_Solution_6x9-h_copy.pdf)
+* [New America Foundation. (2001). Public Assets, Private Profits: Reclaiming the American Commons in an Age of Market Enclosure. Washington DC: David Bollier. Retrieved from http://www.newamerica.net/files/archive/Pub_File_650_1.pdf](http://www.newamerica.net/files/archive/Pub_File_650_1.pdf)
+* [Ogden, M (2012, January). Open211 [Weblog]. Retrieved from http://maxogden.com/open211.html](http://maxogden.com/open211.html)
+* Ostrom, E. & Hess, C. (Eds.). (2007). Understanding Knowledge as a Commons — From Theory to Practice. Cambridge, MA.: MIT Press.
+* [Peuter, G. & Dyer-Witheford, N. (2010). Commons and Cooperatives. Affinities: A Journal of Radical Theory, Culture, and Action, Vol. 4 (No 1). Retrieved from http://affinitiesjournal.org/index.php/affinities/article/view/45](http://affinitiesjournal.org/index.php/affinities/article/view/45)
+* Skocpol, T. (2004). Diminished Democracy: From Membership to Management in American Civic Life. Norman, OK: University of Oklahoma Press.
+* Shank, N. (2004). Database Interoperability: Technology and Process for Sharing Resource Information. Journal of Alliance and Information Referral Systems 2004. See http://digitalcommons.unl.edu/publicpolicyshank/1/
+* [De Tocqueville, A. (1840). Democracy in America. Retrieved from http://www.gutenberg.org/ebooks/816](http://www.gutenberg.org/ebooks/816)
+* [Williams, K. & Durrance, J. (2010). Community Informatics. The Encyclopedia of Library and Information Sciences, Vol. 3. Retrieved from http://people.lis.illinois.edu/~katewill/williams-durrance-encyclo-community-informatics.pdf](http://people.lis.illinois.edu/~katewill/williams-durrance-encyclo-community-informatics.pdf)

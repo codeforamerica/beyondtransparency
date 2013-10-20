@@ -128,5 +128,5 @@ The authors wish to thank their colleague Peter Groves, a principal at McKinsey 
 
 ### References
 
-Manyika, J., Chui, M., Brown, B., Bughin, J., Dobbs, R., Roxburgh, C., & Hung Byers, A. (2011). Big Data: The next frontier for innovation, competitiveness and productivity. McKinsey Global Institute, May 2011. Available at http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation
-O’Reilly, Tim (2011). Government as a Platform. Innovations, Winter 2011, Vol. 6, No. 1, Pages 13-40.
+* [Manyika, J., Chui, M., Brown, B., Bughin, J., Dobbs, R., Roxburgh, C., & Hung Byers, A. (2011). Big Data: The next frontier for innovation, competitiveness and productivity. McKinsey Global Institute, May 2011. Available at http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation](http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation)
+* O’Reilly, Tim (2011). Government as a Platform. Innovations, Winter 2011, Vol. 6, No. 1, Pages 13-40.
