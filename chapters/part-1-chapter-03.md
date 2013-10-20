@@ -162,7 +162,7 @@ Daniel X. O’Neil is the Executive Director of the Smart Chicago Collaborative,
 [O’Brien, J. (2011, June 24). Apps for Metro Chicago Illinois Competition Launched. Chicago Tonight. Retrieved from http://blogs.wttw.com/moreonthestory/2011/06/24/apps-for-metro-chicago-illinois-competition-launched/](http://blogs.wttw.com/moreonthestory/2011/06/24/apps-for-metro-chicago-illinois-competition-launched/)
 [O’Neil, D. X. (2009, January). Harper Reed: “The power is not the mashup. It’s the data.” Retrieved from http://www.derivativeworks.com/2009/01/h.html](http://www.derivativeworks.com/2009/01/h.html)
 [O’Neil, D. X. (2006, February 18). History of Citizen ICAM. Retrieved from http://www.derivativeworks.com/2006/02/history_of_citi.html](http://www.derivativeworks.com/2006/02/history_of_citi.html)
-[Open Gov Hack Night. (n.d.). Open Gov Hack Night Registration, Chicago. Retrieved from http://opengovhacknight.eventbrite.com/](http://opengovhacknight.eventbrite.com/)
+[Open Gov Hack Night. (n.d.). Open Gov Hack Night Registration, Chicago. Retrieved from http://opengovhacknight.org/](http://opengovhacknight.org/)
 [Open Government Chicago(-land). (2013). Open Government Chicago(-land). Retrieved from http://www.meetup.com/OpenGovChicago/](http://www.meetup.com/OpenGovChicago/)
 [Open Government Working Group. (2007, December 8). 8 Principles of Open Government Data. Retrieved from https://public.resource.org/8_principles.html](https://public.resource.org/8_principles.html)
 [Rich, T. F., National Institute of Justice. (1996). The Chicago Police Department’s Information Collection for Automated Mapping (ICAM) Program. Retrieved from https://www.ncjrs.gov/pdffiles/icamprog.pdf](https://www.ncjrs.gov/pdffiles/icamprog.pdf)
