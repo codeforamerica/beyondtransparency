@@ -30,9 +30,11 @@ The easiest way to suggest changes is to make edits directly on GitHub. If you'r
     cd beyondtransparency
     gem install jekyll
     gem install rdiscount
-    jekyll serve
+    jekyll serve --watch
 
 You can now view the website at [http://localhost:4000](http://localhost:4000)
+
+View the [Jekyll documentation](http://jekyllrb.com/docs/usage/) for more details about the site structure.
 
 ### Submitting a Pull Request from your local machine
 1. [Create a topic branch.][branch]
