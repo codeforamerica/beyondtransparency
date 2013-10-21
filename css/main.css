@@ -51,7 +51,7 @@ div.menu-bar .menu-btn.menu-icon,
 div.nav .menu-btn.menu-icon{
   background-image: url('/images/menu_icon_sprite.png');
   background-repeat: no-repeat;
-  background-position-x: 200px;
+  background-position: 100% 0%;
   display: block;
   background-size: 20px;
   height: 18px;
@@ -59,7 +59,7 @@ div.nav .menu-btn.menu-icon{
 }
 div.menu-bar .menu-btn.menu-icon:hover,
 div.nav .menu-btn.menu-icon:hover {
-  background-position-y: -20px;
+  background-position: 100% -20px;
 }
 
 .navbar-brand{
