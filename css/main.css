@@ -1,4 +1,4 @@
-body{ 
+body{
   font-family: 'NewCaledoniaLT', sans-serif;
   background:#fff;
   color:#333;
@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5 {
   font-family: 'TradeGothicLTCom-Bd2';
 }
 
-a, a:visited{ 
+a, a:visited{
   color:#333;
 }
 
@@ -19,10 +19,10 @@ div.menu-btn:hover {
   text-decoration: none;
 }
 
-div.clear{ 
+div.clear{
   clear:both;
 }
-.bt-book-nav{ 
+.bt-book-nav{
   background-color: #b9e0ea;
   height:90px;
 }
@@ -30,9 +30,9 @@ div.clear{
   color:#fff;
   font-size:28px;
   margin-top:12px;
-} 
+}
 
-div.menu-bar{ 
+div.menu-bar{
   padding:10px 0px;
   height:35px;
 }
@@ -43,7 +43,7 @@ div.menu-btn{
   cursor:pointer;
   margin-top: 12px;
 }
-.navbar-nav .menu-btn{ 
+.navbar-nav .menu-btn{
   margin-top:22px;
   width: 235px;
 }
@@ -62,32 +62,32 @@ div.nav .menu-btn.menu-icon:hover {
   background-position-y: -20px;
 }
 
-.navbar-brand{ 
+.navbar-brand{
   padding:0px;
 }
 .navbar-brand img{
   width: 140px;
   margin-left: 12px;
 }
-div.byline{ 
+div.byline{
   margin-bottom:10px;
   font-family: 'NewCaledoniaLT-Italic';
 }
 
-div.navbar-header{ 
+div.navbar-header{
   max-width:980px;
   margin:0px auto;
   float:inherit;
 }
-nav.navbar{ 
+nav.navbar{
   transition:all 0.5s ease-in-out;
 }
-nav.navbar.withsidebar{ 
+nav.navbar.withsidebar{
   right:280px;
   transition:all 0.5s ease-in-out;
 }
 
-div.header{ 
+div.header{
 
   background:#b8e0eb;
   z-index:0;
@@ -95,7 +95,7 @@ div.header{
   overflow:hidden;
   padding-bottom:100px;
 }
-div.header div.about{ 
+div.header div.about{
   margin-top:40px;
   position:relative;
   z-index:100;
@@ -105,7 +105,7 @@ div.header h2{
   font-size:32px;
 }
 
-div.cloud{ 
+div.cloud{
   width:243px;
   height:161px;
   background:url("/images/cloud.png");
@@ -145,26 +145,26 @@ div.cloud{
   -webkit-animation-duration: 5s;
   -webkit-animation-iteration-count: 1;
 }
-div.offset0{ 
+div.offset0{
   -webkit-animation-name: cloud-drift0;
   -webkit-animation-duration: 6s;
   top:50px;
   left:55%;
 }
-div.offset1{ 
+div.offset1{
   -webkit-animation-name: cloud-drift1;
   -webkit-animation-duration: 6s;
   top:280px;
   left:7%;
 }
-div.offset2{ 
+div.offset2{
   -webkit-animation-name: cloud-drift2;
   -webkit-animation-duration: 6s;
   top:530px;
   left:85%;
 }
 
-.btn-primary{ 
+.btn-primary{
   background-color:#bd2961;
   border-color:#bd2961;
   font-family: 'TradeGothicLT';
@@ -172,10 +172,10 @@ div.offset2{
   line-height: 20px;
   padding: 13px 15px;
 }
-div.btn-read{ 
+div.btn-read{
   background-image:url("/images/btn-arrow.png");
   background-repeat: no-repeat;
-  background-position: center right 15px;
+  background-position: 190px;
   background-size: 28px;
   padding-right:50px;
 }
@@ -183,18 +183,18 @@ div.btn-read{
 .btn-primary:hover{
   background-color:#e33175;
   border-color: transparent;
-} 
+}
 div.btn-read:active{
   background-image:url("/images/btn-arrow.png");
 }
 
-ul.buy-links{ 
+ul.buy-links{
   list-style:none;
   margin-top:15px;
   padding-left:0px;
   font-family: 'TradeGothicLT';
 }
-ul.buy-links li{ 
+ul.buy-links li{
   padding:3px 0px;
   margin:7px 0px;
 }
@@ -207,17 +207,17 @@ ul.buy-links .icon-pdf img {
   margin-right: 7px;
 }
 
-div.content{ 
+div.content{
   max-width:980px;
   margin:auto;
 }
 
-div.chapter{ 
+div.chapter{
   margin-top:150px;
   color:#333;
 }
 
-div.title{ 
+div.title{
   text-align:center;
 }
 
@@ -225,10 +225,10 @@ div.title img {
   width: 500px;
 }
 
-div.byline{ 
+div.byline{
   text-align:center;
 }
-div.city-graph{ 
+div.city-graph{
   position:absolute;
   bottom:-28px;
   text-align:center;
@@ -240,18 +240,18 @@ div.city-graph img {
   width:100%;
 }
 
-div.contributors, 
+div.contributors,
 div.critics,
 div.about-book {
   padding: 50px 0px 70px;
 }
 
-div.contributors{ 
+div.contributors{
   background:#f3f4f3;
   color:#404040;
 
 }
-div.section-heading{ 
+div.section-heading{
   text-align:center;
   padding:30px 0px;
   text-transform: uppercase;
@@ -265,8 +265,8 @@ div.contributors .authors{
   max-width:980px;
   margin:auto;
 }
- 
-div.contributors li { 
+
+div.contributors li {
   font-size:18px;
   width:50%;
   min-width:400px;
@@ -276,19 +276,19 @@ div.contributors li {
   font-family: 'NewCaledoniaLT-Italic';
   color: #777;
 }
-div.contributors li img{ 
+div.contributors li img{
   max-height:70px;
   float:left;
   margin:10px 10px 50px 0px;
 }
-div.contributors div.name{ 
+div.contributors div.name{
   font-family: 'TradeGothicLTCom-Bd2';
   font-size: 22px;
   color:#333;
 }
 
 
-div.critics{ 
+div.critics{
   background:#B8EBBC;
   color:#404040;
   padding-bottom: 50px;
@@ -296,20 +296,20 @@ div.critics{
 div.critics .quote {
   padding: 10px;
 }
-div.critics .attribution{ 
+div.critics .attribution{
   text-align:right;
   font-family: 'NewCaledoniaLT-Italic';
   padding-bottom:25px;
 }
 
-div.about-book{ 
+div.about-book{
   background:#EBEBB8;
   color:#404040;
 }
 
 
 
-.site{ 
+.site{
   width:780px;
   border: solid 1px #ddd;
   margin:40px auto;
@@ -317,14 +317,14 @@ div.about-book{
   text-align:justify;
   background:#fff;
 }
-.chapter-text{ 
+.chapter-text{
   font-size:20px;
   line-height:30px;
   overflow:hidden;
 }
-.chapter-text h2, 
-.chapter-text h3, 
-.chapter-text h4{ 
+.chapter-text h2,
+.chapter-text h3,
+.chapter-text h4{
   margin-top:50px;
 }
 
@@ -332,12 +332,12 @@ div.about-book{
   margin-bottom: 30px;
 }
 
-.chapter-number{ 
+.chapter-number{
   font-size:24px;
   font-family: 'TradeGothicLT';
   text-transform:uppercase;
 }
-.chapter .chapter-title{ 
+.chapter .chapter-title{
   margin:10px 0px 20px;
   font-size:46px;
   line-height:51px;
@@ -347,23 +347,23 @@ div.about-book{
   border-left: 0px;
 }
 
-.chapter-author{ 
+.chapter-author{
   margin-bottom:60px;
   color:#333;
 }
 
-.page{ 
+.page{
   position:absolute;
   top:0px;
   left:0px;
   right:0px;
   transition:all 0.5s ease-in-out;
 }
-.page.withsidebar{ 
+.page.withsidebar{
   right:280px;
   transition:all 0.5s ease-in-out;
 }
-.chapter-nav{ 
+.chapter-nav{
   position:fixed;
   top:0px;
   right:-280px;
@@ -378,11 +378,11 @@ div.about-book{
   overflow:auto;
   z-index:2000;
 }
-.chapter-nav.show{ 
+.chapter-nav.show{
   transition:all 0.5s ease-in-out;
-  right:0px;  
+  right:0px;
 }
-.chapter-nav .close{ 
+.chapter-nav .close{
   font-size:36px;
   color:#fff;
   text-align:left;
@@ -390,7 +390,7 @@ div.about-book{
   margin-left:20px;
 }
 
-.chapter-nav ul{ 
+.chapter-nav ul{
   margin:0px;
   padding:10px 0px 0px 10px;
 }
@@ -415,7 +415,7 @@ div.about-book{
   font-family: 'TradeGothicLTCom-Bd2';
 }
 
-.footer{ 
+.footer{
   background:#404040;
   color:#ccc;
   font-family: 'TradeGothicLT';
@@ -430,16 +430,16 @@ div.about-book{
   color: #fff;
 }
 
-.author{ 
+.author{
   margin-top:30px;
   border-bottom:solid 1px #999;
   padding-bottom:20px;
 }
-.author img{ 
+.author img{
   margin-bottom:10px;
   width: 100px;
 }
-.author .name{ 
+.author .name{
   font-family: 'TradeGothicLTCom-Bd2';
   font-size:18px;
 }
@@ -463,14 +463,14 @@ div.about-book{
   background-position: top 5px left;
   padding-left:18px;
 }
-.author .twitter a{ 
+.author .twitter a{
   text-decoration:none;
   font-size: 16px;
 }
-.author .about{ 
+.author .about{
   margin:10px 0px;
 }
-.in-chapter-nav{ 
+.in-chapter-nav{
   font-size:16px;
 }
 
@@ -478,7 +478,7 @@ div.about-book{
   margin-top: 25px;
 }
 
-.in-chapter-nav ul{ 
+.in-chapter-nav ul{
   padding:0px;
   margin:0px;
 }
@@ -511,28 +511,28 @@ div.about-book{
   float: right;
 }
 
-.in-chapter-sidebar{ 
+.in-chapter-sidebar{
   position:relative;
 }
-.in-chapter-sidebar-content{ 
+.in-chapter-sidebar-content{
   width:100%;
   min-width:150px;
   overflow:auto;
 
 }
-.mobile-in-chapter-links{ 
+.mobile-in-chapter-links{
   display:none;
 }
 
-.chapter-nav li.current-page{ 
+.chapter-nav li.current-page{
   font-weight:bold;
   color:#fff;
 }
-.email{ 
+.email{
   text-align:center;
 
 }
-.email input[type=email]{ 
+.email input[type=email]{
   width:300px;
   text-align:left;
   padding:5px;
@@ -540,10 +540,10 @@ div.about-book{
   border:solid 1px #eee;
   margin-right:10px;
 }
-.email input.btn{ 
+.email input.btn{
   padding:9px 15px;
   margin-top:1px;
 }
-.email h3{ 
+.email h3{
   margin:20px 0px;
 }
