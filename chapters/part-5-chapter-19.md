@@ -7,10 +7,10 @@ author:
   - 
     name: Greg Bloom
     twitter: greggish
-    job: Data Advocate & Futurist
-    employer: Freelance
+    job: Communtiy Organizer
+    employer: Freelance Futurist
     photo_url: /images/authors/greg.png
-    about: "Practicing cooperative developer. Researching commons-based approaches to community wealth-building."
+    about: "Cooperative developer, researching commons-based approaches to community wealth-building."
 
 permalink: /part-5/towards-a-community-data-commons/
 ---
@@ -126,7 +126,9 @@ First, a co-op would organize the means of production of the “common data pool
 
 Second, the co-op could facilitate the circulation of this data through an ecosystem of services—including the internal systems of members like Bread for the City, open systems like Open211, and the enterprise-level systems of vendors like Aunt Bertha, Purple Binder, and even 211. Though the data would be open source, the co-op may require a license for commercial use and other kinds of premium services—presumably costing less than whatever the vendors would otherwise spend to collect the data themselves. Vendors could then reallocate their resources toward the development of services that add value to this data.
 
-Third, the co-op would foster education. Cooperatives are committed to education as one of their core principles, and given that the data produced by this co-op would presumably be “open,” education may be the primary benefit of membership: access to an array of opportunities for personal skill-building and organizational learning—anything from hands-on tech support to generalized data literacy training. Writing recently about the patterns of community technology development, Michael Gurstein (2013) called for innovation to be something that “is done by, with and in the community and not simply something that is done ‘to’ or ‘for’ the community.” This may be such a strategy: generating community resource data through the generation of resourceful community. As such, a cooperative solution may not only yield better data—it is also likely to yield more effective use. Whereas Open311 demonstrates the paradigm that Tim O’Reilly famously dubbed “government as platform,” here we can point to its corollary precept, community as platform, in which technology is not something that is made for people to consume, but rather made by people to share.
+Third, the co-op would foster education. Cooperatives are committed to education as one of their core principles, and given that the data produced by this co-op would presumably be “open,” education may be the primary benefit of membership: access to an array of opportunities for personal skill-building and organizational learning—anything from hands-on tech support to generalized data literacy training. 
+
+Writing recently about the patterns of community technology development, Michael Gurstein (2013) called for innovation to be something that “is done by, with and in the community and not simply something that is done ‘to’ or ‘for’ the community.” This may be such a strategy: generating community resource data through the generation of resourceful community. As such, a cooperative solution may not only yield better data—it is also likely to yield more effective use. Whereas Open311 demonstrates the paradigm that Tim O’Reilly famously dubbed “government as platform,” here we can point to its corollary precept, community as platform, in which technology is not something that is made for people to consume, but rather made by people to share.
 
 ### The Path Ahead
 
