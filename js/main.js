@@ -36,3 +36,24 @@ $(function(){
     });
   }
 });
+
+
+// Fix chapter navigation in place when it's about to be scrolled off the window
+
+var fixedElPosition
+$(window).scroll(function () {
+
+  var $fixedEl = $('.in-chapter-nav')
+
+  if ($fixedEl.length > 0 ) {
+    if ($(window).scrollTop() > $fixedEl.offset().top - 110 && !fixedElPosition) {
+      fixedElPosition = $fixedEl.offset().top - 110
+      $fixedEl.css('position', 'fixed').css('top', '90px');
+    }
+    else if ($(window).scrollTop() < fixedElPosition) {
+      fixedElPosition = null
+      $fixedEl.css('position', 'relative').css('top', '0');
+    }
+  }
+
+});
