@@ -39,12 +39,10 @@ $(function(){
 
 
 // Fix chapter navigation in place when it's about to be scrolled off the window
-
 var fixedElPosition
+var $fixedEl = $('.in-chapter-nav')
+
 $(window).scroll(function () {
-
-  var $fixedEl = $('.in-chapter-nav')
-
   if ($fixedEl.length > 0 ) {
     if ($(window).scrollTop() > $fixedEl.offset().top - 110 && !fixedElPosition) {
       fixedElPosition = $fixedEl.offset().top - 110
@@ -55,5 +53,4 @@ $(window).scroll(function () {
       $fixedEl.css('position', 'relative').css('top', '0');
     }
   }
-
 });
