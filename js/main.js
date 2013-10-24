@@ -39,18 +39,25 @@ $(function(){
 
 
 // Fix chapter navigation in place when it's about to be scrolled off the window
-var fixedElPosition
 var $fixedEl = $('.in-chapter-nav')
+var fixedElPosition
 
 $(window).scroll(function () {
   if ($fixedEl.length > 0 ) {
     if ($(window).scrollTop() > $fixedEl.offset().top - 110 && !fixedElPosition) {
       fixedElPosition = $fixedEl.offset().top - 110
       $fixedEl.css('position', 'fixed').css('top', '90px');
+      $('.return-top').show()
     }
     else if ($(window).scrollTop() < fixedElPosition) {
       fixedElPosition = null
       $fixedEl.css('position', 'relative').css('top', '0');
+      $('.return-top').hide()
     }
   }
 });
+
+$('.return-top').click(function() {
+  $(document).scrollTo('.page', 500, {easing:"swing"})
+})
+

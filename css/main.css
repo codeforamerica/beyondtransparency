@@ -14,7 +14,8 @@ a, a:visited{
 }
 
 a:hover,
-div.menu-btn:hover {
+div.menu-btn:hover,
+.return-top:hover {
   color: #bd2961;
   text-decoration: none;
 }
@@ -546,4 +547,15 @@ div.about-book{
 }
 .email h3{
   margin:20px 0px;
+}
+
+.return-top {
+  display: none;
+  cursor: pointer;
+  position: absolute;
+  top: 26px;
+  right: -26px;
+  font-size: 10px;
+  font-family: 'TradeGothicLTCom-Bd2';
+  cursor: pointer;
 }
