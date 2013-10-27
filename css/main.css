@@ -402,6 +402,7 @@ div.about-book{
   margin:0px;
   font-size:14px;
   text-decoration:none;
+  list-style:none;
   font-family: 'TradeGothicLT';
 }
 .chapter-nav ul li:hover {
