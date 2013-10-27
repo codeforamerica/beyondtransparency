@@ -48,7 +48,7 @@ View the [Jekyll documentation](http://jekyllrb.com/docs/usage/) for more detail
 
 ## LICENSE
 
-The content of this project itself is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-nc-nd/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
+The content of this project itself is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-nc-sa/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
 
 
 
