@@ -322,6 +322,7 @@ div.about-book{
   font-size:20px;
   line-height:30px;
   overflow:hidden;
+  padding-bottom:30px;
 }
 .chapter-text h2,
 .chapter-text h3,
@@ -424,7 +425,6 @@ div.about-book{
   font-size: 14px;
   text-align:left;
   padding:20px 0px 5px;
-  margin-top: 30px;
 }
 .footer a{
   color: #ccc;
