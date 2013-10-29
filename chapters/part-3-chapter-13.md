@@ -22,7 +22,7 @@ author:
     name: Steve Van Kuiken
     job: Director
     employer: McKinsey & Company
-    photo_url: /images/authors/stevek.png
+    photo_url: /images/authors/stevev.png
     twitter: McKinsey    
     about: "Bringing technology solutions to help healthcare companies transform operational performance and increase market responsiveness"
 
