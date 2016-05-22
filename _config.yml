@@ -1,4 +1,4 @@
 name: Beyond Transparency
 markdown: rdiscount
-pygments: true
-relative_permalinks: true
+highlighter: true
+# relative_permalinks: true
